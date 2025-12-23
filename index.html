@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ta">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>தமிழ் வினாடி-வினா களஞ்சியம்</title>
+    <style>
+        :root { --primary: #2c3e50; --secondary: #27ae60; }
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #f0f2f5; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+        h1 { color: var(--primary); text-align: center; }
+        .stats { display: flex; justify-content: space-between; margin-bottom: 20px; font-weight: bold; color: #555; }
+        .quiz-card { border: 2px solid #eee; padding: 20px; border-radius: 10px; margin-top: 20px; }
+        .category-badge { background: #e8f5e9; color: var(--secondary); padding: 5px 15px; border-radius: 20px; font-size: 0.9em; }
+        .btn { background: var(--secondary); color: white; border: none; padding: 12px 25px; border-radius: 5px; cursor: pointer; font-size: 16px; width: 100%; transition: 0.3s; }
+        .btn:hover { background: #219150; }
+        #question-area { margin-top: 20px; text-align: left; }
+        .option-btn { display: block; width: 100%; text-align: left; padding: 10px; margin: 5px 0; border: 1px solid #ddd; border-radius: 5px; background: white; cursor: pointer; }
+        .option-btn:hover { background: #f9f9f9; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>தமிழ் வினாடி-வினா</h1>
+    
+    <div id="home-screen">
+        <p style="text-align: center;">மொத்தம் 30+ தலைப்புகளில் இருந்து ஏதேனும் ஒரு வினாத்தாள் உங்களுக்காகத் தேர்ந்தெடுக்கப்படும்.</p>
+        <button class="btn" onclick="startRandomQuiz()">தொடங்குக</button>
+    </div>
+
+    <div id="quiz-screen" style="display:none;">
+        <div class="stats">
+            <span id="display-category" class="category-badge"></span>
+            <span id="display-title"></span>
+        </div>
+        <hr>
+        <div id="question-area">
+            <h3 id="q-text">வினா ஏற்றப்படுகிறது...</h3>
+            <div id="options-list"></div>
+        </div>
+        <p id="feedback" style="margin-top:15px; font-weight:bold;"></p>
+        <button class="btn" style="margin-top:20px;" onclick="startRandomQuiz()">அடுத்த ரேண்டம் வினாத்தாள்</button>
+    </div>
+</div>
+
+<script>
+    // உங்கள் JSON தரவை இங்கே ஒரு வேரியபிளாக மாற்றிக்கொள்ளுங்கள்
+    const masterData = [ /* நீங்கள் கொடுத்த முழு JSON பட்டியலை இங்கே ஒட்டவும் */ ];
+
+    function startRandomQuiz() {
+        // 1. ரேண்டம் கேட்டகிரி தேர்வு
+        const category = masterData[Math.floor(Math.random() * masterData.length)];
+        // 2. அந்த கேட்டகிரியில் உள்ள ரேண்டம் குயிஸ் தேர்வு
+        const quiz = category.quizzes[Math.floor(Math.random() * category.quizzes.length)];
+
+        document.getElementById('home-screen').style.display = 'none';
+        document.getElementById('quiz-screen').style.display = 'block';
+        document.getElementById('display-category').innerText = category.category;
+        document.getElementById('display-title').innerText = quiz.title;
+
+        fetchQuizDetails(quiz.file);
+    }
+
+    async function fetchQuizDetails(fileName) {
+        try {
+            const response = await fetch(`questions/${fileName}`);
+            const data = await response.json();
+            displayQuestion(data);
+        } catch (err) {
+            alert("கோப்பை ஏற்றுவதில் பிழை: " + fileName);
+        }
+    }
+
+    function displayQuestion(data) {
+        // ஒரு வினாத்தாள் முழுவதும் காட்டுவதா அல்லது ஒரு வினாவா என்பதை 
+        // உங்கள் தனிப்பட்ட JSON அமைப்பைப் பொறுத்து இங்கே மாற்றிக்கொள்ளலாம்.
+        const qArea = document.getElementById('q-text');
+        const optArea = document.getElementById('options-list');
+        
+        // உதாரணமாக முதல் வினாவை மட்டும் காட்டுகிறேன்
+        const firstQ = data[0]; 
+        qArea.innerText = firstQ.question;
+        optArea.innerHTML = "";
+        
+        firstQ.options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.innerText = opt;
+            btn.onclick = () => checkAnswer(opt, firstQ.answer);
+            optArea.appendChild(btn);
+        });
+    }
+
+    function checkAnswer(selected, correct) {
+        const feedback = document.getElementById('feedback');
+        if(selected === correct) {
+            feedback.innerText = "✅ சரியான விடை!";
+            feedback.style.color = "green";
+        } else {
+            feedback.innerText = "❌ தவறான விடை. சரியான விடை: " + correct;
+            feedback.style.color = "red";
+        }
+    }
+</script>
+
+</body>
+</html>
