@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "வால்ட் விட்மனின் 'புல்லின் இதழ்கள்' (Leaves of Grass) தமிழில் எவ்வகை இலக்கியத் தோற்றத்திற்கு அடிக்கல் நாட்டியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புதுக்கவிதை",
+        "rationale": "வால்ட் விட்மனின் தாக்கம் தமிழ்ப் புதுக்கவிதை மாளிகைக்கு அடிக்கல் நாட்டியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறுகதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதினம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பு மரபுகளை மீறிய கவிதை வடிவம்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "போத்துக்கீசிய மொழியில் அன்டிரிக் அடிகளார் எழுதிய தமிழ் நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேம்பாவணி",
+        "rationale": "இது வீரமாமுனிவர் எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "த கேற்றகிசா (ஞானோபதேசம்)",
+        "rationale": "அன்டிரிக் அடிகளார் எழுதிய நூல் 'த கேற்றகிசா' (The Catechism) ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சீறாப்புராணம்",
+        "rationale": "இது உமறுப்புலவர் எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரமார்த்த குரு கதை",
+        "rationale": "இது வீரமாமுனிவர் எழுதியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 16-ஆம் நூற்றாண்டில் அச்சிடப்பட்ட நூல்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "19-ஆம் நூற்றாண்டில் 'குசேலோபாக்கியானம்' என்ற நூலை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேவராசப்பிள்ளை",
+        "rationale": "தேவராசப்பிள்ளை குசேலோபாக்கியானம் நூலைத் தழுவி எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லாப்பிள்ளை",
+        "rationale": "இவர் பாரதம் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழேந்தி",
+        "rationale": "இவர் நளவெண்பா பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில்லிபுத்தூரார்",
+        "rationale": "இவர் பாரதம் பாடியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குசேலன் கதையை மையமாகக் கொண்டது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "வால்ட்டர் ஸ்காட்டின் 'Ivanhoe' என்ற புதினத்தைத் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்கி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல தமிழறிஞர்கள்",
+        "rationale": "இந்நூல் பலராலும் தமிழாக்கம் செய்யப்பட்டுள்ளது என்று நூல் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதுமைப்பித்தன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுஜாதா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது ஒரு வரலாற்றுப் புதினம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "கன்பூசியசின் 'இளவேனிலும் இலையுதிர் காலமும்' என்ற நூலைத் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கா. அப்பாத்துரையார்",
+        "rationale": "பன்மொழிப் புலவர் கா. அப்பாத்துரையார் இதனை மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெரியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அண்ணா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரு.வி.க.",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது சீன மொழி நூல்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "ஜப்பானிய நாவலாசிரியர் யாமதாகாஷியின் 'துன்பக்கேணி', 'பகற்கனவு', 'முத்துமாலை' போன்ற நூல்கள் எம்மொழியிலிருந்து தமிழுக்கு வந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜப்பான்",
+        "rationale": "யாமதாகாஷி ஒரு ஜப்பானிய எழுத்தாளர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொரியா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரஷ்யா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆசிய மொழி நூல்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'மஞ்சரி' இதழுக்காகத் தாகூரின் நூல்களை மொழிபெயர்க்குமாறு தி.ஜ.ர.வுக்கு அறிவுறுத்தியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி.வா.ஜ.",
+        "rationale": "கலைமகள் ஆசிரியர் கி.வா.ஜ. அறிவுரைப்படி தாகூர் நூல்கள் மொழிபெயர்க்கப்பட்டன.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்கி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ராஜாஜி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "டி.கே.சி.",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலைமகள் இதழின் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'மஞ்சரி' இதழின் உரிமையாளர் என். ராமரத்தினம் 1950 ஜனவரியில் தொடங்கிய சிறுவர் இதழ் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அம்புலிமாமா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணன்",
+        "rationale": "1950 ஜனவரியில் 'கண்ணன்' இதழ் தொடங்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோகுலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூந்தளிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கிருஷ்ணனின் பெயர் கொண்ட இதழ்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "அமெரிக்கப் பெண் கவிஞர்களின் கவிதைகளை ஆய்வு செய்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முனைவர் ஜோஸஃபின் டோரதி",
+        "rationale": "பாடநூலின் ஆசிரியர் ஜோஸஃபின் டோரதி அமெரிக்கப் பெண் கவிஞர்கள் பற்றி ஆய்வு செய்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அருந்ததி ராய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவசங்கரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூடாமணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இப்பாடநூலின் ஆசிரியர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "\"அய்யன் அளந்தபடி\" என்பதை \"As God Measured\" என்று மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெர்சீவல் (Percival)",
+        "rationale": "பெர்சீவல் இந்தப் பழமொழியை இவ்வாறு மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போப்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்டுவெல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பைபிள் மொழிபெயர்ப்பாளர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "\"அகத்தின் அழகு முகத்தில் தெரியும்\" என்ற பழமொழியின் ஆங்கில வடிவம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "Face is the index of the mind",
+        "rationale": "இது பொதுவானது, ஆனால் நூலில் வேறு வடிவம் தரப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "The beauty of the mind appears in the face",
+        "rationale": "நூலில் தரப்பட்டுள்ள மொழிபெயர்ப்பு இதுவே.",
+        "isCorrect": true
+      },
+      {
+        "text": "Inner beauty shines out",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "Face shows the heart",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது சொல்லுக்குச் சொல் மொழிபெயர்ப்புப் பகுதியில் வருகிறது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "\"He kicked the bucket\" என்பதற்கு \"அவன் வாளியை உதைத்தான்\" என்று கூறுவது எவ்வகை மொழிபெயர்ப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மரபு மொழிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேர்மொழிபெயர்ப்பு / சொல்லுக்குச் சொல்",
+        "rationale": "சொற்களை அப்படியே மொழிபெயர்ப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தழுவல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுருக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது தவறான பொருளைத் தரக்கூடியது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "ஷேக்ஸ்பியரின் 'Merchant of Venice' நாடகத்தை 'வாணிபுர வணிகன்' என்று மொழிபெயர்த்தால் அது எவ்வகை உத்தி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தன்வயமாக்கல் (Domestication)",
+        "rationale": "பெயர்களையும் இடங்களையும் தமிழ்ப்படுத்துவது தன்வயமாக்கல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒலிபெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுருக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விரிவாக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெனிஸ் என்பது வாணிபுரம் என மாற்றப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "1936-ஆம் ஆண்டு பைபிளைத் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "லார்சன்",
+        "rationale": "1936-இல் லார்சன் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மோனகன்",
+        "rationale": "இவர் 1954-இல் மொழிபெயர்த்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவர் ஐயர்",
+        "rationale": "இவர் 1871-இல் மொழிபெயர்த்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரேனியஸ்",
+        "rationale": "இவர் 1833-இல் மொழிபெயர்த்தார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "20-ஆம் நூற்றாண்டின் முற்பகுதி."
+  },
+  {
+    "questionNumber": 15,
+    "question": "1954-ஆம் ஆண்டு பைபிளைத் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மோனகன்",
+        "rationale": "1954-இல் மோனகன் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "லார்சன்",
+        "rationale": "இவர் 1936.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீகன்பால்கு",
+        "rationale": "இவர் 1714.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெப்ரீசியஸ்",
+        "rationale": "இவர் 18-ஆம் நூற்றாண்டு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுதந்திரத்திற்குப் பின் வந்த மொழிபெயர்ப்பு."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'Time Budget' என்பதற்கான பொருத்தமான தமிழ்க் கலைச்சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கால வரவு செலவு",
+        "rationale": "நேரத்தைச் சிக்கனமாகப் பயன்படுத்துவதைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நேரக் கணக்கு",
+        "rationale": "இது பொதுவானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால அட்டவணை",
+        "rationale": "இது Time Table.",
+        "isCorrect": false
+      },
+      {
+        "text": "நேர மேலாண்மை",
+        "rationale": "இது Time Management.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொறியாளர் கொடுமுடி சண்முகம் குறிப்பிடும் உதாரணம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "பொருளாதாரத்தில் 'Water Budget' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீர் வரவு செலவுத் திட்டம்",
+        "rationale": "நீர்வளத்தைப் பட்ஜெட் போலத் திட்டமிடுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்ணீர் வரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர் மேலாண்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்ப் பாசனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதுவும் கொடுமுடி சண்முகம் குறிப்பிடும் சொல்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "திரைப்படங்களில் 'Lip sync' (உதட்டசைவு) பொருத்தம் எதற்கு முக்கியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வசன மொழிபெயர்ப்பு / டப்பிங்",
+        "rationale": "மொழிமாற்றம் செய்யும்போது உதட்டசைவு பொருந்த வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "பாடலில் இது இரண்டாம் பட்சம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சண்டைக்காட்சி",
+        "rationale": "தேவையில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பின்னணி இசை",
+        "rationale": "தேவையில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "டப்பிங் முறையில் கவனிக்க வேண்டியது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "\"I spoke, We spoke\" - இதில் வினைச்சொல் மாறாதது போல தமிழில் அமையுமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமையும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமையாது, எழுவாய்க்கு ஏற்ப வினைமுற்று மாறும்",
+        "rationale": "நான் பேசினேன், நாம் பேசினோம் என விகுதி மாறும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலத்தைப் போலவே இருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழ் இலக்கண மரபு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "குஜராத்தி மொழி நாவலான 'ஜெய சோமநாத்' யாரால் எழுதப்பட்டது (மூலநூலாசிரியர்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கே.எம். முன்ஷி",
+        "rationale": "கே.எம். முன்ஷி குஜராத்தி எழுத்தாளர் (நூலில் பெயர் இல்லை, பொது அறிவு - ஆனால் மொழிபெயர்ப்பாளர் சரஸ்வதி ராமனாத் குறிப்பிடப்பட்டுள்ளார்).",
+        "isCorrect": false
+      },
+      {
+        "text": "சரஸ்வதி ராமனாத்",
+        "rationale": "இவர் மொழிபெயர்ப்பாளர் (விடைக்குறிப்பில் இவர் பெயர் உள்ளது).",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரேம்சந்த்",
+        "rationale": "இவர் இந்தி எழுத்தாளர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காண்டேகர்",
+        "rationale": "இவர் மராத்தி எழுத்தாளர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை மொழிபெயர்த்தவர் ஒரு பெண்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "உமர்கய்யாம் எந்த மொழிப் புலவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரசீகம்",
+        "rationale": "உமர்கய்யாம் பாரசீகக் கவிஞர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துருக்கி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவரது பாடல்களை கவிமணி மொழிபெயர்த்தார்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'Sarasangi' (சரசாங்கி) என்ற நூல் ஷேக்ஸ்பியரின் எந்த நாடகத்தைத் தழுவியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிம்பிளின் (Cymbeline)",
+        "rationale": "சலசலோசனச் செட்டியாரின் சரசாங்கி சிம்பிளின் நாடகத்தின் தழுவல் (நூலில் நாடகப் பெயர் இல்லை, ஆசிரியர் பெயர் மட்டும் உள்ளது).",
+        "isCorrect": false
+      },
+      {
+        "text": "ஷேக்ஸ்பியரின் நாடகம்",
+        "rationale": "நூலில் 'ஷேக்ஸ்பியருடைய பல நூல்கள்' என்று பொதுவாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஹாம்லெட்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒதெல்லோ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சலசலோசனச் செட்டியார் எழுதியது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "பெர்னாட்ஷாவின் கதைகளும் தமிழில் மொழிபெயர்க்கப்பட்டுள்ளனவா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆம்",
+        "rationale": "பெர்னாட்ஷாவின் கதைகளும் தமிழ் வடிவேற்றன என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சில மட்டும்",
+        "rationale": "பொதுவாக ஆம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆங்கில நாடக ஆசிரியர்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "பாரதியார் 'பெண் விடுதலை' என்ற பெயரில் மொழிபெயர்த்தது யார?டைய படைப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சி.யூ. சென் (C.U. Sen)",
+        "rationale": "சீனப் பெண் எழுத்தாளர் சி.யூ. சென் அவர்களின் படைப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "சரோஜினி தேவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்னி பெசன்ட்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிவேதிதா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சீனப் பெண் எழுத்தாளர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'துத்தி நாமா' என்பதன் தமிழ்ப் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிளிக்கதை",
+        "rationale": "துத்திநாமா என்பது கிளிக்கதை.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில் கதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குயில் பாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறா தூது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இஸ்லாமியப் புலவர்கள் மொழிபெயர்த்தது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "டாக்டர் வா.செ. குழந்தைசாமி 'அறிவுலகத்திற்கு' எதை பாலமாக உருவகிக்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழி",
+        "rationale": "அறிவுலகத்திற்கு மொழிதான் பாதையும் பாலமும் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணினி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூலகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கருத்துப் பரிமாற்ற ஊடகம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "மொழிபெயர்ப்பில் 'மூலமொழியை' விஞ்சுவது எதில் மட்டும் அனுமதிக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறிவியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிதை",
+        "rationale": "கவிதை மொழிபெயர்ப்பில் கவிநயத்திற்காக மூலத்தை விஞ்சுவது ஏற்கப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கற்பனைக்கு இடமுண்டு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "விளம்பரத் தமிழில் 'செய்தியறிவிப்பு மொழிபெயர்ப்பு' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தகவல்களைத் தருவது",
+        "rationale": "விளம்பரத் தொடர்புடைய மொழிபெயர்ப்பில் இது ஒரு வகை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொய் சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறைப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திட்டுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளம்பரத்தின் ஒரு பகுதி."
+  },
+  {
+    "questionNumber": 29,
+    "question": "மு. அருணாசலம் எழுதிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்றைய தமிழ் வசன நடை",
+        "rationale": "மு. அருணாசலம் 'இன்றைய தமிழ் வசன நடை' என்ற நூலை எழுதியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழிபெயர்ப்புக் கலை",
+        "rationale": "இது வளர்மதி எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் இலக்கிய வரலாறு",
+        "rationale": "இது மு.வ. எழுதியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்ல தமிழ்",
+        "rationale": "இது அ.கி. பரந்தாமனார்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதில் விளம்பரத் தமிழ் பற்றிக் கூறியுள்ளார்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "பீட்டர் நியூமார்க் (Peter Newmark) என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்புக் கொள்கையாளர்",
+        "rationale": "இவர் மொழிபெயர்ப்புக் கொள்கைகளை வகுத்தவர்களில் ஒருவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாவலாசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓவியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேர்நிலை விதியை வகுத்தவர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "எட்டினி தோலட் (Etienne Dolet) என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்புக் கொள்கையாளர்",
+        "rationale": "இவரும் ஒரு முக்கியமான மொழிபெயர்ப்புக் கொள்கையாளர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறிவியல் அறிஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறியாளர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் பட்டியலில் முதன்மையானவர்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "20-ஆம் நூற்றாண்டில் செய்தித் தொடர்பியல் துறை எதனால் வானளாவ வளர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்பால்",
+        "rationale": "மொழிபெயர்ப்பு செய்தித் தொடர்புத் துறையின் வளர்ச்சிக்கு முக்கிய காரணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காகிதத்தால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேனா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது உலகம் சுருங்குவதற்குக் காரணம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "17-ஆம் நூற்றாண்டில் ஆங்கிலத்தில் மொழிபெயர்க்கப்பட்ட ரோமானியக் கவிஞர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெர்ஜில் (Virgil)",
+        "rationale": "ஜான் டிரைடன் வெர்ஜிலை மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாந்தே",
+        "rationale": "இவர் இத்தாலியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கயீதே",
+        "rationale": "இவர் ஜெர்மானியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரூமி",
+        "rationale": "இவர் பாரசீகர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் ஈனைட் (Aeneid) எழுதியவர்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "யூகிளிட்ஸ் (Euclid) எழுதிய நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலிமண்ட்சு (Elements)",
+        "rationale": "யூகிளிட்ஸ் எழுதிய கணித நூல் எலிமண்ட்சு.",
+        "isCorrect": true
+      },
+      {
+        "text": "ரிபப்ளிக்",
+        "rationale": "இது பிளேட்டோ.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலிடிக்ஸ்",
+        "rationale": "இது அரிஸ்டாட்டில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒடிசி",
+        "rationale": "இது ஹோமர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை அடிலாட் மொழிபெயர்த்தார்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "ஜெரோட் ஆப் கிரோமனா எந்த நகரைச் சார்ந்த மொழிபெயர்ப்பாளர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "டோலடோ (Toledo)",
+        "rationale": "12-ஆம் நூற்றாண்டில் டோலடோ மொழிபெயர்ப்பு மையமாக விளங்கியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாரிஸ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "லண்டன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரோம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் மொழிபெயர்ப்பாளர்களின் மூதாதையர்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பிளினி (Pliny) எவ்வகை மொழிபெயர்ப்பை ஆதரித்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லுக்குச் சொல்",
+        "rationale": "பிளினி சொல்லுக்குச் சொல் முறையை வலியுறுத்தினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருளுக்குப் பொருள்",
+        "rationale": "இதை ஜெரோம் ஆதரித்தார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தழுவல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுருக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருளுக்குப் பொருள் முறையை எதிர்த்தவர்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "மார்ட்டின் லூதர் பைபிளை எந்த மொழியில் மொழிபெயர்த்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஜெர்மன்",
+        "rationale": "மார்ட்டின் லூதர் ஜெர்மானிய மொழியில் மொழிபெயர்த்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரெஞ்சு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இத்தாலியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் சமயச் சீர்திருத்தவாதி."
+  },
+  {
+    "questionNumber": 38,
+    "question": "அலெக்ஸாண்டர் ஃபிரேஸர் டெய்ட்லர் 'மொழிபெயர்ப்புக் கொள்கைகள்' நூலை எழுதிய ஆண்டு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1791",
+        "rationale": "1791-இல் டெய்ட்லர் இந்நூலை எழுதினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "1684",
+        "rationale": "இது ரோஸ்காமன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1800",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1900",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "18-ஆம் நூற்றாண்டின் இறுதி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மொழிபெயர்ப்புத் துறைக்கு 'ஆண்டுதோறும் பரிசுகள்' வழங்கும் வழக்கம் எப்போது தோன்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டாம் உலகப் போருக்குப் பின்",
+        "rationale": "இரண்டாம் உலகப் போருக்குப் பின் மொழிபெயர்ப்பை ஊக்குவிக்க இது தொடங்கியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதல் உலகப் போருக்கு முன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலத்தில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொழிற்புரட்சியின் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உலக நாடுகள் பல இதைச் செய்கின்றன."
+  },
+  {
+    "questionNumber": 40,
+    "question": "மொழிபெயர்ப்பால் 'சமுதாய முன்னேற்றம்' எதனால் ஏற்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மார்க்சிய சிந்தனைகள் பரவியதால்",
+        "rationale": "காரல் மார்க்சின் சிந்தனைகள் மொழிபெயர்ப்பால் பரவி விழிப்புணர்வை ஏற்படுத்தின.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம் பெருகியதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மக்கள் தொகை குறைந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விவசாயம் குறைந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ரஷ்ய மொழியிலேயே இது முடங்கியிருந்தால் பயன் தந்திருக்காது."
+  },
+  {
+    "questionNumber": 41,
+    "question": "கிரேக்கத் தத்துவ ஞானி சாக்கிரடீஸின் கருத்துக்கள் உலகறியக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழிபெயர்ப்பு",
+        "rationale": "மொழிபெயர்க்கப்பட்ட காரணத்தால் அக்கருத்துகள் உலக அரசியல் விழிப்புணர்ச்சிக்கு உதவின.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அரசியல் விழிப்புணர்ச்சிக்கு ஆதாரம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "தமிழ் இலக்கிய வரலாற்றில் 'இருண்ட காலம்' என்று அழைக்கப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களப்பிரர் காலம்",
+        "rationale": "களப்பிரர் காலம் இருண்ட காலம் எனப்படுகிறது, இக்காலத்தில்தான் பெருங்கதை தோன்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சோழர் காலம்",
+        "rationale": "இது பொற்காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவர் காலம்",
+        "rationale": "இது பக்தி இலக்கிய காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாயக்கர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இக்காலத்தில் முதல் மொழிபெயர்ப்பு இலக்கியம் தோன்றியது."
+  },
+  {
+    "questionNumber": 43,
+    "question": "தொல்காப்பியர் 'வடசொல்' பற்றிக் குறிப்பிடும்போது எதைப் பற்றிப் பேசுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ்ப் படுத்தும் நிலை",
+        "rationale": "வடசொல்லைத் தமிழ் ஒலிப்புக்கேற்ப மாற்ற வேண்டும் என்கிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அப்படியே ஏற்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறக்கணிப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதிர்ப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதுவும் ஒருவகை மொழிபெயர்ப்பு முறை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "பன்மொழி அகராதித் தோற்றங்கள் எக்கால மொழிபெயர்ப்பின் அடையாளம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐரோப்பியர் காலம்",
+        "rationale": "ஐரோப்பியர் வரவால் அகராதிகள் பெருகின.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பக்தி காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "களப்பிரர் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேலைநாட்டுக் கல்வித் தாக்கம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "இக்பால் கவிதைகளைத் தமிழில் தந்தவர் எந்தப் பெயர்களில் வெளியிட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இக்பால் கவி அமுதம்",
+        "rationale": "இக்பால் கவி அமுதம், இக்பாலின் ஞானோதயம் என்ற பெயர்களில் வந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இக்பால் கவிதைகள்",
+        "rationale": "இது பொதுப்பெயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருதுக் கவிதைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இஸ்லாமியப் பாடல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஞானோதயம் என்பது இன்னொரு நூல்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "அரபு மொழியிலிருந்து தமிழுக்கு வந்த மருத்துவச் செய்திகள் எதைச் சார்ந்தவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண் மருத்துவம்",
+        "rationale": "அராபியக் கண் மருத்துவச் செய்திகள் தமிழுக்குக் கிடைத்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இதய மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எலும்பு மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழந்தை மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது தமிழுக்குக் கிடைத்த வரப்பிரசாதம்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "மொழிபெயர்ப்புத் துறையில் 'டைஜெஸ்ட்' (Digest) என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொகுப்பு",
+        "rationale": "பல்வேறு நூல்களின் சாரத்தைத் தொகுத்துத் தருவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செரிமானம்",
+        "rationale": "இது மருத்துவப் பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுருக்கம்",
+        "rationale": "இது Abridgement.",
+        "isCorrect": false
+      },
+      {
+        "text": "விரிவாக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மஞ்சரி இதழ் இதற்கான சான்று."
+  },
+  {
+    "questionNumber": 48,
+    "question": "மொழிபெயர்ப்பில் 'ஒப்பிட்டுச் சரிபார்த்தல்' (Comparing and Checking) எதைத் தவிர்க்க உதவும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிழைகளை / தவறுகளை",
+        "rationale": "4.20 என்பதை 4.50 என மாற்றியது போன்ற பிழைகளைத் தவிர்க்க இது உதவும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நேரத்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செலவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகிதத்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'அஞ்சல் வில்லை' தவறைக் கண்டறிய இது தேவை."
+  },
+  {
+    "questionNumber": 49,
+    "question": "சங்க இலக்கியத்தில் வரும் 'செம்புலப் பெயல் நீர்' உவமை எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காதலர் ஒற்றுமை",
+        "rationale": "அன்புடைய நெஞ்சங்கள் கலந்த நிலையை இது குறிக்கிறது (பண்பாட்டுத் தாக்கம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மழை வளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மண் வளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர் நிறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை வேற்று மொழியில் மொழிபெயர்ப்பது கடினம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "மொழிபெயர்ப்பில் 'தாய்மொழி மரபு' (Idiom) காக்கப்பட வேண்டும் என்பதற்குச் சான்றாகக் கூறப்படும் ஆங்கிலச் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "Table",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "Chair",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "Spoke",
+        "rationale": "I spoke, We spoke என ஆங்கிலத்தில் ஒரே சொல் வந்தாலும் தமிழில் பேசினேன், பேசினோம் என மாற வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "Run",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கண மரபு வேறுபாடு."
+  }
+]

@@ -1,0 +1,1407 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "மொழியை அறிவியல் அடிப்படையில் ஆய்வு செய்யும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கியம்",
+        "rationale": "இலக்கியம் என்பது மொழியின் கலைப் பயன்பாடாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மொழியியல்",
+        "rationale": "மொழியை அறிவியல் அடிப்படையில் படிப்பது அல்லது ஆய்வதுதான் மொழியியல் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாறு",
+        "rationale": "வரலாறு கடந்த கால நிகழ்வுகளைப் பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தத்துவம்",
+        "rationale": "தத்துவம் அறிவு மற்றும் உண்மையைப் பற்றியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது மொழியைப் பற்றிய அறிவியல் படிப்பு."
+  },
+  {
+    "questionNumber": 2,
+    "question": "மொழியின் சிறப்பியல்புகளில் 'இருமை' (Duality) என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேச்சு மற்றும் எழுத்து",
+        "rationale": "இவை மொழியின் வெளிப்பாட்டு வடிவங்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலியனியல் அமைப்பு மற்றும் இலக்கண அமைப்பு",
+        "rationale": "மொழியின் வெளிப்பாடுகள் ஒலியன்களின் வரிசைமுறையையும், உருபன்களின் அமைப்பையும் கொண்டிருப்பதே இருமை ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயிரெழுத்து மற்றும் மெய்யெழுத்து",
+        "rationale": "இவை ஒலி வகைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆண்பால் மற்றும் பெண்பால்",
+        "rationale": "இது இலக்கணப் பாகுபாடு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது மொழியில் உள்ள இரண்டு அமைப்பு அடுக்குகளைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "மனித மொழியைப் பிற கருத்துப்பரிமாற்றக் குறியீடுகளிலிருந்து வேறுபடுத்தும், புதிய செய்திகளை உருவாக்கும் பண்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலிப்பு",
+        "rationale": "விலங்குகளும் ஒலி எழுப்புகின்றன.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளைவாக்கம் (Productivity)",
+        "rationale": "பழையன மற்றும் புதிய செய்திகளை இலக்கண அடிப்படையில் கலவையாக உருவாக்கிப் பயன்படுத்தும் பண்பு விளைவாக்கம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சைகை",
+        "rationale": "சைகை மொழியின் ஒரு வடிவம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேட்டல்",
+        "rationale": "இது புலனுணர்வு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது புதிய வாக்கியங்களை உருவாக்கும் திறன்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "இலக்கண அலகிற்கும் அதன் பொருண்மைக்கும் வடிவியல்சார் உறவு இல்லை என்றால் அது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடுகுறித்தன்மை (Arbitrariness)",
+        "rationale": "இலக்கண அலகிற்கும் பொருளுக்கும் வடிவியல்சார் உறவு இல்லாததே இடுகுறித்தன்மை ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காரணத்தன்மை",
+        "rationale": "இது காரணத்தோடு அமைவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடர்ச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'காரணமில்லாதது' என்று பொருள்படும்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "மொழியின் ஒரு காலத்தைச் சார்ந்த தரவை எடுத்துக்கொண்டு பகுப்பாய்வு செய்வது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரலாற்று மொழியியல்",
+        "rationale": "இது காலப்போக்கில் ஏற்படும் மாற்றத்தை ஆயும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒருகால மொழியியல் (Synchronic Linguistics)",
+        "rationale": "மொழியின் ஒரு காலத்தைச் சார்ந்த தரவை எடுத்துக்கொண்டு பகுப்பாய்வு செய்வதே ஒருகால மொழியியல் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒப்புமை மொழியியல்",
+        "rationale": "இது மொழிகளை ஒப்பிடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிளைமொழியியல்",
+        "rationale": "இது இட அடிப்படையில் அமைவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை 'வருணனை மொழியியல்' என்றும் அழைப்பர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "பேச்சொலிகளின் பிறப்பு பற்றி ஆய்வு செய்யும் ஒலியியல் பிரிவு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலிப்பியல் (Articulatory Phonetics)",
+        "rationale": "பேச்சுறுப்புகளின் அமைப்பையும் தொழிலையும் ஆதாரமாகக் கொண்டு ஒலிகளின் பிறப்பை ஆராய்வது ஒலிப்பியல் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒலியியக்கவியல்",
+        "rationale": "இது ஒலியின் பெளதிகப் பண்புகளை ஆயும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலியுணர்வியல்",
+        "rationale": "இது கேட்பது பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபனியல்",
+        "rationale": "இது சொற்களைப் பற்றியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை 'உச்சரிப்பொலியியல்' என்றும் கூறலாம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "மூச்சுக்காற்று வாயறையில் எவ்விதத் தடையுமின்றிச் செல்லும்போது பிறக்கும் ஒலிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெய்யொலிகள்",
+        "rationale": "மெய்யொலிகள் தடங்கலோடு பிறப்பவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உயிரொலிகள் (Vowels)",
+        "rationale": "மூச்சுக்காற்று வாயறையில் எவ்விதத் தடையுமின்றிச் செல்லும்போது உயிரொலிகள் பிறக்கின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடைப்பொலிகள்",
+        "rationale": "இவை தடையோடு பிறப்பவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரசொலிகள்",
+        "rationale": "இவை உராய்வோடு பிறப்பவை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவை 'உயிரெழுத்துக்கள்' என அழைக்கப்படுகின்றன."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தமிழ் மரபிலக்கணம் தமிழுக்கு எத்தனை உயிரெழுத்துகள் இருப்பதாகக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தமிழ் மரபிலக்கணம் தமிழுக்கு அ, ஆ... போன்ற 12 உயிரெழுத்துகள் இருப்பதாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "rationale": "இது மெய்யெழுத்துகளின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "247",
+        "rationale": "இது மொத்த எழுத்துகளின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அ முதல் ஔ வரை."
+  },
+  {
+    "questionNumber": 9,
+    "question": "கீழ்க்கண்டவற்றுள் ஈரிதழ் ஒலிகள் (Bilabial Sounds) எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "க், ங்",
+        "rationale": "இவை கடையண்ண ஒலிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "த், ந்",
+        "rationale": "இவை பல்லொலிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ப், ம்",
+        "rationale": "ப், ம் ஆகியவை இதழ் ஒலிகள் (ஈரிதழ்) ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ச், ஞ்",
+        "rationale": "இவை இடையண்ண ஒலிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவற்றை உச்சரிக்க இரண்டு உதடுகளும் தேவை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "ஒரு மொழியின் கூற்றுகளை வேறுபடுத்தும் குறைந்தபட்ச அலகு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலி",
+        "rationale": "ஒலி பொதுவானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபன்",
+        "rationale": "உருபன் பொருள் தரும் அலகு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலியன் (Phoneme)",
+        "rationale": "ஒரு மொழியின் கூற்றுகளை வேறுபடுத்தும் குறைந்த செயற்பாட்டு அலகு ஒலியனாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொல்",
+        "rationale": "சொல் பல ஒலியன்களால் ஆனது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'Phoneme' எனப்படும்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "இரண்டு ஒலிகள் ஒரே சூழ்நிலையில் வந்து பொருளை வேறுபடுத்தினால் அது என்ன வருகை முறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துணைநிலை வருகை முறை",
+        "rationale": "இது ஒலிகள் வேறுபட்ட சூழலில் வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுநிலை வருகை முறை (Contrastive Distribution)",
+        "rationale": "இரண்டு ஒலிகள் ஒரே சூழ்நிலையில் பொருளை வேறுபடுத்தி வருவது வேற்றுநிலை வருகை முறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "கட்டற்ற வருகை",
+        "rationale": "இது பொருள் மாறாத நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு வருகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறுமக் குறையிணைகள் (Minimal Pairs) இதற்கு எடுத்துக்காட்டு."
+  },
+  {
+    "questionNumber": 12,
+    "question": "ஒரே ஒலியனின் வெவ்வேறு வடிவங்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாற்றொலிகள் (Allophones)",
+        "rationale": "துணைநிலை வருகையில் வரும் ஒரே வகை சார்ந்த ஒலிகள் ஒரு ஒலியனின் மாற்றொலிகளாக் கருதப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருபன்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிளைமொழிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்துக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவை பொருள் வேறுபாட்டைத் தராது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "சொற்களின் அக அமைப்பைப் பற்றிக் கூறும் மொழியியல் பிரிவு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலியனியல்",
+        "rationale": "இது ஒலியைப் பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடரியல்",
+        "rationale": "இது வாக்கியத்தைப் பற்றியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபனியல் (Morphology)",
+        "rationale": "சொற்களின் அக அமைப்பைப் பற்றிக் கூறுவது உருபனியலாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருண்மையியல்",
+        "rationale": "இது பொருளைப் பற்றியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது உருபன்களைப் பற்றிய ஆய்வு."
+  },
+  {
+    "questionNumber": 14,
+    "question": "பொருள் தரும் மிகச்சிறிய ஒலியக்கூறு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலியன்",
+        "rationale": "ஒலியனுக்குத் தனிப்பொருள் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபன் (Morpheme)",
+        "rationale": "பொருள் தருகின்ற மிகச்சிறிய ஒலியக்கூறே உருபன் எனப்படுகின்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாக்கியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதை மேலும் பிரிக்க இயலாது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "தனித்துச் சொல்லாக வரவியலாத உருபன்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனி உருபன்கள்",
+        "rationale": "இவை தனித்து வரும் (எ.கா. கை, கால்).",
+        "isCorrect": false
+      },
+      {
+        "text": "கட்டுண்ட உருபன்கள் (Bound Morphemes)",
+        "rationale": "தனிச்சொல்லாக வரவியலாத உருபன்கள் கட்டுண்ட உருபன்கள் (எ.கா. ஒட்டுகள்).",
+        "isCorrect": true
+      },
+      {
+        "text": "வேர் உருபன்கள்",
+        "rationale": "வேர் உருபன்கள் பெரும்பாலும் தனித்து வரும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதிலி உருபன்கள்",
+        "rationale": "இது ஒரு வகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன்னொட்டுகள் மற்றும் பின்னொட்டுகள் இவ்வகையைச் சாரும்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "ஒரே உருபனின் மாற்று வடிவங்களை எவ்வாறு அழைப்பர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாற்றுருபுகள் (Allomorphs)",
+        "rationale": "உருபனுக்கும் மாற்றுருபுகள் உள்ளன (எ.கா. மரம், மரங்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மாற்றொலிகள்",
+        "rationale": "இது ஒலியனியல் சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதிர்ச்சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூட்டுச்சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'இம்-', 'இன்-' போன்றவை."
+  },
+  {
+    "questionNumber": 17,
+    "question": "வாக்கிய அமைப்பின் தனிமங்களுக்கு இடையே உள்ள உறவுகளைப் பற்றிய ஆய்வு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலியனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடரியல் (Syntax)",
+        "rationale": "வாக்கிய அமைப்பின் தனிமங்களுக்கு இடையே உள்ள உறவுகளைப் பற்றிய ஆய்வு தொடரியல் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒலிப்பியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாற்று மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது வாக்கியக் கட்டமைப்பை விளக்கும்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "அண்மை உறுப்புப் பகுப்பாய்வு (IC Analysis) எதை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்களின் வரலாறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதிலீடு முறை (Substitutability)",
+        "rationale": "பதிலீட்டு முறைதான் ஒரு வாக்கியத்தையோ தொடரையோ அண்மை உறுப்புகளாகப் பகுத்தாயத் துணைபுரிகின்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒலி ஒற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்து வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாக்கியத்தைப் படிநிலையாகப் பிரிக்கும் முறை."
+  },
+  {
+    "questionNumber": 19,
+    "question": "ஆக்கமுறை மாற்றிலக்கணத்தை (Generative Transformational Grammar) உருவாக்கியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புளூம்ஃபீல்ட்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாம்ஸ்கி (Chomsky)",
+        "rationale": "சாம்ஸ்கியின் 1965 மாதிரி ஆக்கமுறை மாற்றிலக்கணம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சாசூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஹாக்கெக்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "1965-இல் 'Aspects' என்ற நூலை எழுதியவர்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "மொழியின் அடிப்படை ஒழுங்கைப் பிரதிபலிக்கும் வாக்கிய அமைப்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புற அமைப்பு (Surface Structure)",
+        "rationale": "இது வெளிப்படையான வடிவம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அக அமைப்பு (Deep Structure)",
+        "rationale": "அக அமைப்பு மொழியின் அடிப்படை ஒழுங்கைப் பிரதிபலிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒலி அமைப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்து அமைப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது மாற்ற விதிகளுக்கு முந்தைய நிலை."
+  },
+  {
+    "questionNumber": 21,
+    "question": "பேச்சொலிகளின் பொருண்மையை (Meaning) ஆய்வு செய்யும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலியனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருண்மையியல் (Semantics)",
+        "rationale": "பொருண்மையியல் எல்லாக் நோக்கிலும் பொருண்மையை ஆய்வதைக் குறிக்கோளாகக் கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொடரியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருபனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'அர்த்தம்' பற்றிய படிப்பு."
+  },
+  {
+    "questionNumber": 22,
+    "question": "பொருள் அடிப்படையில் ஒன்றையொன்று பதிலீடு செய்யக்கூடிய சொற்கள் எவ்வாறு அழைக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒருபொருள் பன்மொழி (Synonymy)",
+        "rationale": "ஒன்றை ஒன்று உள்ளடக்கும் அல்லது இடம் பெயர்க்கும் சொற்கள் ஒருபொருள் பன்மொழி.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதிர்ச்சொற்கள்",
+        "rationale": "இவை எதிரெதிர் பொருள் தருபவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்பொருள் ஒருமொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓசை நயச் சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ.கா: 'புத்தகம்' மற்றும் 'நூல்'."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'உயரம் - குள்ளம்' என்பது எவ்வகை உறவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒருபொருள் பன்மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதிர்ப்பொழியம் (Antonymy)",
+        "rationale": "இணக்கமற்ற ஆனால் ஒன்றையொன்று எதிர்ப்பது போல் பொருள் அமைவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உள்ளடங்கு மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இணக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'எதிர்ச்சொல்' வகையைச் சார்ந்தது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'ரோஜா' என்பது 'பூ' என்ற சொல்லுக்கு என்ன உறவுடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒருபொருள் பன்மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உள்ளடங்கு மொழி (Hyponymy)",
+        "rationale": "பொருண்மை அடிப்படையில் உள்ளடங்கும் சொற்களுக்கும் உள்ளடக்கும் சொற்களுக்கும் இடைப்பட்ட உறவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதிர்ச்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இணக்கமின்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'வகை - இனம்' உறவு."
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஒரு மொழியின் கிளைமொழிகளைப் பற்றி படிக்கும் இயல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரலாற்று மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிளைமொழியியல் (Dialectology)",
+        "rationale": "கினளப ொழிகனளப்  ற்ைிப்  டிக்கும் ஆய்னவ கினளப ொழியியலின் என் ர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உளமொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நரம்பியல் மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வட்டார வழக்குகள் பற்றியது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "இட அடிப்படையில் மாறுபடும் மொழி வழக்கு எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமூகக் கிளைமொழி",
+        "rationale": "இது சமூக அடிப்படையில் அமைவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வட்டாரக் கிளைமொழி (Regional Dialect)",
+        "rationale": "வட்டாரத்திற்கு வட்டாரம் வேறுபடும் கிளைமொழிகள் வட்டாரக் கிளைமொழிகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தனிநபர் பேச்சு வழக்கு",
+        "rationale": "இது 'idiolect'.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கிய வழக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ.கா: தஞ்சை வழக்கு, மதுரை வழக்கு."
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஒரு மொழியில் உயர் வழக்கு மற்றும் தாழ் வழக்கு என இரண்டு வழக்குகள் இருப்பதை என்னவென்று அழைப்பர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருமொழித்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரட்டை வழக்கு (Diglossia)",
+        "rationale": "இத்தகைய கட்டுப்பாடுடன் கூடிய இரு வழக்குகள் ஒரு மொழியில் இருப்பதை இரட்டை வழக்கு என்று குறிப்பிடலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பலமொழித்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலப்பு மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழ் மொழியில் பேச்சுத் தமிழும் எழுத்துத் தமிழும் வேறுபடுவது இதற்கு எடுத்துக்காட்டு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "மொழியின் கால அடிப்படையிலான மாற்றங்களை ஆராயும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விளக்க மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரலாற்று மொழியியல் (Historical Linguistics)",
+        "rationale": "ஒரு மொழியின் ஒவ்வொரு காலகட்டத்திலும் இருக்கும் பண்புக்கூறுகளை ஒப்பிட்டு ஆய்வது வரலாற்று மொழியியல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒப்புமை மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைப்பு மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'இருகால மொழியியல்' என்றும் அழைக்கப்படும்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "ஒலியியல் மாற்றத்தில் 'ஓரிடமாதல்' (Assimilation) என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலிகள் இடம் மாறுவது",
+        "rationale": "இது இடப்பெயர்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு ஒலி அருகில் உள்ள ஒலியின் தன்மையை அடைவது",
+        "rationale": "ஒலியன் அதற்கு முந்திய அல்லது பிந்திய ஒலியை நோக்கி மாறுவது ஓரிடமாதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதிய ஒலி தோன்றுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலி மறைவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'தன்பின்' > 'தம்பி' ஆவது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "ஒரு மொழியின் பழைய வடிவத்தை மீட்டுருவாக்கம் செய்யும் முறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மீட்டுருவாக்கம் (Reconstruction)",
+        "rationale": "மாற்றத்திற்கு உட்பட்ட மொழிகளின் பழைய நிலையை மீட்டுருவாக்கம் மூலம் மீட்டெடுக்கலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழியாக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலிப்பெயர்ப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வகைப்படுத்துதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'அக மீட்டுருவாக்கம்' மற்றும் 'புற மீட்டுருவாக்கம்' என இருவகைப்படும்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "தற்காலத் தமிழ் ஒலியன்களில் /ழ்/ மற்றும் /ள்/ இணைந்து எந்த ஒலியாக மாறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "/ல்/",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "/ள்/",
+        "rationale": "தற்காலப் பேச்சுத் தமிழில் /ழ்/ மற்றும் /ள்/ இணைந்து /ள்/ என்ற ஒரே ஒலியனாக மாறியுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "/ற்/",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "/க்/",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது ஒலியனியல் மாற்றத்திற்கு ஒரு எடுத்துக்காட்டு."
+  },
+  {
+    "questionNumber": 32,
+    "question": "மொழியைப் பற்றி மொழியால் பேச இயலும் பண்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரதிபலிப்பு (Reflexivity)",
+        "rationale": "மொழியைப் பற்றி மொழியால் பேசவியலும்; இது பிரதிபலிப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடப்பெயர்ச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரித்துக்கூறுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலாச்சாரக் கடத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'Metalanguage' செயல்பாடு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "தொடரமைப்பு இலக்கணத்தின் ஒரு குறைபாடு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாக்கியங்களைப் பிரிக்க முடியாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடரா அண்மை உறுப்புகளை விளக்க இயலாது",
+        "rationale": "தொடரமைப்பு இலக்கணம் ஒரு தொடரின் உறுப்புகளை தொடர்ச்சியான அலகுகளாகத்தான் கருத இயலும், தொடரா அண்மை உறுப்புகளை விளக்காது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொற்களை வகைப்படுத்த முடியாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்த்தொடரைக் காட்டாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வினா வாக்கியங்களில் துணை வினை இடம் மாறுவது போன்ற சூழல்கள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "குரல்வளை மடல்கள் அதிர்வின்றி பிறக்கும் ஒலிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குரலொலிகள் (Voiced)",
+        "rationale": "இவை அதிர்வுடன் பிறப்பவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குரலிலா ஒலிகள் (Voiceless)",
+        "rationale": "குரல்வளை மடல்கள் அகன்று மூச்சு அதிர்வின்றி வெளியேறும் போது குரலிலா ஒலிகள் பிறக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூக்கொலிகள்",
+        "rationale": "இவை குரலொலிகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உயிரொலிகள்",
+        "rationale": "இவை அதிர்வுடையவை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ.கா: 'க்', 'ப்', 'த்' போன்றவை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "நாக்கின் நுனி அண்ணத்தை வருடிக் கொண்டு வருவதால் பிறக்கும் ஒலி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருடொலி (Flap)",
+        "rationale": "நாக்கின் நுனி மேலே எழுந்து உள்நோக்கி வளைந்து பின் வேகமாக கீழே வரும்போது அண்ணத்தில் மோதுவதால் எழுகிற ஒலி வருடொலி.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆடொலி",
+        "rationale": "இது நாக்கு அதிர்வதால் பிறப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருங்கொலி",
+        "rationale": "இது நாக்கின் ஓரங்களில் காற்று செல்வதால் பிறப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடைப்பொலி",
+        "rationale": "இது காற்றை அடைப்பதால் பிறப்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழில் 'ர்' (இடையினம்) இவ்வகையைச் சார்ந்தது."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பாணினியின் ஒலிப்பியல் விளக்கம் எந்த மொழியின் ஆய்வுக்கு அடிப்படையாக அமைந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சீனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமஸ்கிருதம்",
+        "rationale": "பாணினியின் ஒலிப்பியல் விளக்கம் சமஸ்கிருதத்திற்கு உரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆங்கிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ்",
+        "rationale": "தமிழ் மரபிலக்கணமும் ஒலிப்பியல் முறையைக் கொண்டுள்ளது, ஆனால் பாணினி சமஸ்கிருதத்துடன் தொடர்புடையவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இந்தியாவின் மிகப்பழமையான மொழிகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 37,
+    "question": "அமைப்பு மொழியியலில் 'உறுப்பமைவு உறவு' (Syntagmatic relation) என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செங்குத்து நிலை உறவு",
+        "rationale": "இது அடுக்கு முறை உறவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிடக்கை நிலை உறவு",
+        "rationale": "மொழியலகுகள் ஒன்றையொன்று தொடர்ந்து வருவதால் பெறப்படும் உறவு உறுப்பமைவு உறவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று உறவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் உறவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொற்கள் தொடராக அமைவது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "ஒரே ஒலிப்பு முறையில் பிறக்கும் மெய்யொலிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "க், ச், ட், த், ப்",
+        "rationale": "இவை அனைத்தும் அடைப்பொலிகள் அல்லது வெடிப்பொலிகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அ, ஆ, இ",
+        "rationale": "இவை உயிரெழுத்துகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ய, ர, ல",
+        "rationale": "வெவ்வேறு ஒலிப்பு முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ல, ள, ழ",
+        "rationale": "மருங்கொலி மற்றும் உரசொலி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழில் இவை 'வல்லினம்' என்று அழைக்கப்படுகின்றன."
+  },
+  {
+    "questionNumber": 39,
+    "question": "நைடாவின் விதிகளின்படி, ஒரே சூழலில் வந்து பொருள் வேறுபாட்டைத் தராத உருபுகள் எவ்வாறு கருதப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனித்தனி உருபன்கள்",
+        "rationale": "பொருள் வேறுபட்டால் மட்டுமே தனி உருபன்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரே உருபனின் மாற்றுருபுகள்",
+        "rationale": "பொருள் வேறுபாடு இல்லை என்றால், சூழல் காரணமாக மாறுபட்டாலும் அவை ஒரே உருபனின் மாற்றுருபுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எதிர்ச்சொற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலிப்பிலிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இம்- (im-) மற்றும் இன்- (in-) போன்றவை ஆங்கிலத்தில் எடுத்துக்காட்டுகள்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "சொற்களைப் புதியதாக உருவாக்குவதைப் பற்றிக் கூறும் உருபனியல் பிரிவு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திரிபு (Inflection)",
+        "rationale": "திரிபு உருபனியல் சொல்லன்களின் பல வடிவுகளைப் பற்றிக் கூறும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லாக்கம் (Word Formation)",
+        "rationale": "சொல்லாக்கம் தந்துள்ள அடியிலிருந்து புதிய சொற்களை ஆக்குவதைப் பற்றிக் கூறும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொடரியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலியனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதில் 'ஆக்கம்' மற்றும் 'கூட்டாக்கம்' அடங்கும்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "வாக்கியங்களை 'பெயர்த்தொடர்' மற்றும் 'வினைத்தொடர்' எனப் பிரிக்கும் இலக்கண முறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடரமைப்பு இலக்கணம் (Phrase Structure Grammar)",
+        "rationale": "தொடரமைப்பு விதிகள் ஒரு வாக்கியத்தில் பெயர்த்தொடரும் வினைத்தொடரும் அடங்கும் என விளக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒப்பிலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரபு இலக்கணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வா -> பெதொ + விதொ (S -> NP + VP)."
+  },
+  {
+    "questionNumber": 42,
+    "question": "மொழி கற்றல் என்பது எதைக் குறிக்கிறது என்று சாம்ஸ்கி கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாக்கியங்களை மனப்பாடம் செய்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விதிகளின் முழுமையை உள்வாங்குதல்",
+        "rationale": "ஒரு மொழியைக் கற்றல் ஒரு குழுமத் தொடரியல், பொருண்மையியல் மற்றும் ஒலியனியல் விதிகளைக் கற்பதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகராதியை மனப்பாடம் செய்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்துக்களைக் கற்றல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது 'Language Acquisition' தொடர்புடையது."
+  },
+  {
+    "questionNumber": 43,
+    "question": "இரண்டு அல்லது அதற்கு மேற்பட்ட சொற்கள் இணைந்து புதிய சொல்லை உருவாக்குவது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூட்டாக்கம் (Compounding)",
+        "rationale": "இரண்டு அல்லது இரண்டுக்கு மேற்பட்ட தகுதி வாய்ந்த பகுதிகள் சேர்ந்து புதிய சொல்லன்களை உருவாக்குவது கூட்டாக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திரிபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாற்றுருபு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ.கா: கரும்பலகை."
+  },
+  {
+    "questionNumber": 44,
+    "question": "தமிழும் மலையாளமும் ஒரே மூலமொழியிலிருந்து பிரிந்தவை என்பது எவ்வகை ஆய்வு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒப்புமை மொழியியல் (Comparative Linguistics)",
+        "rationale": "இன உறவு மொழிகளை ஒப்பிட்டு ஆய்வது ஒப்புமை மொழியியல் (எ.கா. திராவிட மொழிகள்).",
+        "isCorrect": true
+      },
+      {
+        "text": "கிளைமொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடரியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உளமொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திராவிட மொழிக் குடும்பம் பற்றிய ஆய்வு."
+  },
+  {
+    "questionNumber": 45,
+    "question": "சொற்களுக்கு இடையே உள்ள 'அடுக்குறவு' (Paradigmatic relation) எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடர்ந்து வருவது",
+        "rationale": "இது உறுப்பமைவு உறவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்றையொன்று பதிலீடு செய்வது",
+        "rationale": "ஓர் உறுப்புக்குப் பதிலாக அதே இடத்தில் வரும் அலகுகளுக்கிடையே உள்ள உறவு அடுக்கு முறை உறவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று மாற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலி மாற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான் _ குடித்தேன் (பால்/தண்ணீர்/காபி)."
+  },
+  {
+    "questionNumber": 46,
+    "question": "எந்த ஒலிகள் பிறக்கும்போது இதழ்கள் குவிந்து செயற்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இ, ஈ, எ, ஏ",
+        "rationale": "இவை இதழ் விரி உயிர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உ, ஊ, ஒ, ஓ",
+        "rationale": "உ, ஊ, ஒ, ஓ ஆகியவை இதழ் குவி உயிர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அ, ஆ",
+        "rationale": "இவை நடு உயிர்கள், இதழ் விரி.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐ",
+        "rationale": "இது ஈருயிர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'உரல்', 'ஊசி' சொல்லும்போது இதழ்களைக் கவனிக்கவும்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "ஒரு மொழியின் அடிப்படை ஒலிகளை வகைப்படுத்தும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒலிப்பியல்",
+        "rationale": "இது ஒலி உற்பத்தியை விளக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒலியனியல் (Phonology)",
+        "rationale": "ஒரு மொழியின் ஒலியனியல் அம்மொழியில் நிகழும் ஒலிகளின் ஒழுங்குமுறைகளை விவரிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருபனியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொடரியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒலிகள் எவ்வாறு 'ஒலியன்களாக' மாறுகின்றன என்பதை இது ஆயும்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "பேச்சு உறுப்புகளில் 'நா' (Tongue) எவ்வாறு பகுக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மேல்நா, கீழ்நா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நுனிநா, இடைநா, கடைநா, அடிநா",
+        "rationale": "நாவானது நுனிநா, இடைநா, கடைநா, அடிநா என நான்காகப் பகுக்கப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வலதுநா, இடதுநா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உள்நா, வெளிநா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாக்கின் பகுதிகள்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'எல்லா மொழிகளுக்கும் பொதுவான பண்புக்கூறுகள் உள்ளன' என்பது எதை நோக்கிய ஆய்வு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொழி உலகப்பொதுமைகள் (Language Universals)",
+        "rationale": "எல்லா மொழிகளுக்கும் பொதுவான மொழிப் பண்புக்கூறுகளைக் காண்பது மொழி உலகப்பொதுமைகளை நோக்கிய ஆய்வாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மொழி வகைப்பாட்டியல்",
+        "rationale": "இது வகைப்படுத்துவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணினி மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமூக மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாம்ஸ்கியின் கோட்பாடு இதனுடன் தொடர்புடையது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "கணினியைப் பயன்படுத்தி மொழி ஆய்வு செய்யும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமூக மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணினி மொழியியல் (Computational Linguistics)",
+        "rationale": "மொழியியலும் கணிப்பொறி அறிவியலும் இணைந்து கணினி மொழியியல் அல்லது இயற்கை மொழி ஆய்வு (NLP) உருவாகியுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரலாற்று மொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உளமொழியியல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இயந்திர மொழிபெயர்ப்பு, பேச்சு உணர்தல் போன்றவை இதில் அடங்கும்."
+  }
+]

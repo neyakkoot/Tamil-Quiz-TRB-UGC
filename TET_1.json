@@ -1,0 +1,603 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "'புரட்சிக்கவி' என்று பாராட்டப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "பாரதியார்", "rationale": "பாரதியார் 'மகாகவி' என்று போற்றப்படுகிறார்.", "isCorrect": false },
+        { "text": "பாரதிதாசன்", "rationale": "தம் கவிதைகளில் புரட்சிகரமான கருத்துகளைப் பாடியதால் இவர் 'புரட்சிக்கவி' எனப் போற்றப்படுகிறார்.", "isCorrect": true },
+        { "text": "பெருஞ்சித்திரனார்", "rationale": "இவர் 'பாவலரேறு' என்று அழைக்கப்படுபவர்.", "isCorrect": false },
+        { "text": "கவிமணி", "rationale": "தேசிக விநாயகனார் 'கவிமணி' எனப்படுவார்.", "isCorrect": false }
+      ],
+      "hint": "இவர் பாரதியாரின் கவிதைகள் மீது கொண்ட பற்றின் காரணமாகத் தம் பெயரை மாற்றிக் கொண்டார்."
+    },
+    {
+      "questionNumber": 2,
+      "question": "மெய் எழுத்துகளின் மாத்திரை அளவு என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "ஒரு மாத்திரை", "rationale": "குறில் எழுத்துக்கு ஒரு மாத்திரை.", "isCorrect": false },
+        { "text": "இரண்டு மாத்திரை", "rationale": "நெடில் எழுத்துக்கு இரண்டு மாத்திரை.", "isCorrect": false },
+        { "text": "அரை மாத்திரை", "rationale": "மெய் எழுத்துகள் ஒலிக்கும் கால அளவு அரை மாத்திரை ஆகும்.", "isCorrect": true },
+        { "text": "கால் மாத்திரை", "rationale": "ஆயுத எழுத்துக்கு அரை மாத்திரை.", "isCorrect": false }
+      ],
+      "hint": "ஒற்றெழுத்துகளின் ஒலிக்கும் கால அளவு."
+    },
+    {
+      "questionNumber": 3,
+      "question": "'இந்தியாவின் பறவை மனிதர்' என்று அழைக்கப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "டாக்டர் சலீம் அலி", "rationale": "வாழ்நாள் முழுவதும் பறவைகளைப் பற்றி ஆராய்ச்சி செய்ததால் இவர் இவ்வாறு அழைக்கப்படுகிறார்.", "isCorrect": true },
+        { "text": "அப்துல் கலாம்", "rationale": "இவர் ஏவுகணை நாயகன் எனப்படுவார்.", "isCorrect": false },
+        { "text": "சத்திமுத்தப்புலவர்", "rationale": "இவர் நாராய் நாராய் எனப் பாடியவர்.", "isCorrect": false },
+        { "text": "இரா. அரங்கநாதன்", "rationale": "இவர் நூலக அறிவியலின் தந்தை.", "isCorrect": false }
+      ],
+      "hint": "இவர் 'சிட்டுக்குருவியின் வீழ்ச்சி' என்ற நூலை எழுதியவர்."
+    },
+    {
+      "questionNumber": 4,
+      "question": "தமிழில் நமக்குக் கிடைத்துள்ள மிகப்பழமையான இலக்கண நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "நன்னூல்", "rationale": "இது பிற்கால இலக்கண நூல்.", "isCorrect": false },
+        { "text": "தொல்காப்பியம்", "rationale": "தமிழில் கிடைத்துள்ள மிகப்பழமையான நூல் தொல்காப்பியம்.", "isCorrect": true },
+        { "text": "அகத்தியம்", "rationale": "இது முதற்பழமையான நூல் ஆனால் முழுமையாகக் கிடைக்கவில்லை.", "isCorrect": false },
+        { "text": "யாப்பருங்கலம்", "rationale": "இது யாப்பு இலக்கண நூல்.", "isCorrect": false }
+      ],
+      "hint": "தொல்காப்பியரால் இயற்றப்பட்டது."
+    },
+    {
+      "questionNumber": 5,
+      "question": "காமராசரை 'கல்விக் கண் திறந்தவர்' எனப் பாராட்டியவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "அறிஞர் அண்ணா", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தந்தை பெரியார்", "rationale": "பெரியார் அவர்கள் காமராசரை மனதார இவ்வாறு பாராட்டினார்.", "isCorrect": true },
+        { "text": "பாரதியார்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "நேரு", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "பகுத்தறிவுப் பகலவன்."
+    },
+    {
+      "questionNumber": 6,
+      "question": "எந்தமிழ்நா என்பதைப் பிரித்தால் இவ்வாறு வரும்:",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "எம்+தமிழ்+நா", "rationale": "எந்தமிழ்நா = எம் + தமிழ் + நா என்பதே சரியான பிரிப்பு.", "isCorrect": true },
+        { "text": "எந்+தமிழ்+நா", "rationale": "தவறான பிரிப்பு.", "isCorrect": false },
+        { "text": "எந்த+தமிழ்+நா", "rationale": "தவறான பிரிப்பு.", "isCorrect": false },
+        { "text": "எம்+தம்+நா", "rationale": "தவறான பிரிப்பு.", "isCorrect": false }
+      ],
+      "hint": "எம் என்றால் எமது என்று பொருள்."
+    },
+    {
+      "questionNumber": 7,
+      "question": "மொழிஞாயிறு எனப் போற்றப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "தேவநேயப்பாவாணர்", "rationale": "செந்தமிழ்ச் சொற்பிறப்பியல் அகரமுதலித் திட்ட இயக்குநராகப் பணியாற்றியவர்.", "isCorrect": true },
+        { "text": "பெருஞ்சித்திரனார்", "rationale": "இவர் பாவலரேறு.", "isCorrect": false },
+        { "text": "தமிழழகனார்", "rationale": "இவர் சந்தக்கவிமணி.", "isCorrect": false },
+        { "text": "இரா. இளங்குமரனார்", "rationale": "இவர் செந்தமிழ் அந்தணர்.", "isCorrect": false }
+      ],
+      "hint": "சொல்லாய்வுக் கட்டுரைகள் எழுதியவர்."
+    },
+    {
+      "questionNumber": 8,
+      "question": "மெத்த வணிகலன் என்னும் தொடரில் தமிழழகனார் குறிப்பிடுவது:",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வணிகக்கப்பல்களும் ஐம்பெருங்காப்பியங்களும்", "rationale": "சிலேடை நயத்தில் இவை இரண்டையும் குறிக்கிறது.", "isCorrect": true },
+        { "text": "வணிகக்கப்பல்களும் சிலப்பதிகாரமும்", "rationale": "முழுமையான பதில் அல்ல.", "isCorrect": false },
+        { "text": "அணிகலன்களும் கப்பல்களும்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பொருள்களும் வணிகமும்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "சிலேடை அணி பயின்று வந்துள்ளது."
+    },
+    {
+      "questionNumber": 9,
+      "question": "இரட்டுற மொழிதலணியின் வேறு பெயர் யாது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "சிலேடையணி", "rationale": "ஒரு சொல்லோ தொடரோ இருபொருள் தருமாறு அமைவது சிலேடை எனப்படும்.", "isCorrect": true },
+        { "text": "உவமையணி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "உருவக அணி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தற்குறிப்பேற்ற அணி", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "சி என்ற எழுத்தில் தொடங்கும்."
+    },
+    {
+      "questionNumber": 10,
+      "question": "சந்தக்கவிமணி எனப் போற்றப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "தமிழழகனார்", "rationale": "சண்முகசுந்தரம் என்ற இயற்பெயர் கொண்ட இவர் சந்தக்கவிமணி எனப்படுகிறார்.", "isCorrect": true },
+        { "text": "கவிமணி", "rationale": "இவர் தேசிக விநாயகனார்.", "isCorrect": false },
+        { "text": "வாணிதாசன்", "rationale": "இவர் பாவலரேறு.", "isCorrect": false },
+        { "text": "சுரதா", "rationale": "இவர் உவமைக் கவிஞர்.", "isCorrect": false }
+      ],
+      "hint": "இவரது இயற்பெயர் சண்முகசுந்தரம்."
+    },
+    {
+      "questionNumber": 11,
+      "question": "உனக்குப் பாட்டுகள் பாடுகிறோம் - பாரதியின் இவ்வடிகளில் இடம்பெற்றுள்ள நயங்கள் யாவை?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "மோனை, எதுகை", "rationale": "முதல் எழுத்து மற்றும் இரண்டாம் எழுத்து ஒன்றி வந்துள்ளது.", "isCorrect": true },
+        { "text": "எதுகை, இயைபு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "மோனை, முரண்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "இயைபு, அந்தாதி", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "முதல் மற்றும் இரண்டாம் எழுத்து ஒற்றுமை."
+    },
+    {
+      "questionNumber": 12,
+      "question": "ஒவ்வோர் ஆண்டும் ஜூன் 15 எந்த நாளாகக் கொண்டாடப்படுகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "உலகக் காற்று நாள்", "rationale": "ஜூன் 15 உலகக் காற்று நாளாகக் கொண்டாடப்படுகிறது.", "isCorrect": true },
+        { "text": "உலக சுற்றுச்சூழல் நாள்", "rationale": "ஜூன் 5.", "isCorrect": false },
+        { "text": "உலக ஓசோன் நாள்", "rationale": "செப்டம்பர் 16.", "isCorrect": false },
+        { "text": "உலக நீர் நாள்", "rationale": "மார்ச் 22.", "isCorrect": false }
+      ],
+      "hint": "காற்றாலை மின் உற்பத்தியை வலியுறுத்தும் நாள்."
+    },
+    {
+      "questionNumber": 13,
+      "question": "முல்லைப்பாட்டு எத்தனை அடிகளைக் கொண்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "103 அடிகள்", "rationale": "பத்துப்பாட்டில் மிகக் குறைந்த அடிகளைக் கொண்ட நூல் இது.", "isCorrect": true },
+        { "text": "188 அடிகள்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "583 அடிகள்", "rationale": "மலைபடுகடாம்.", "isCorrect": false },
+        { "text": "782 அடிகள்", "rationale": "மதுரைக்காஞ்சி.", "isCorrect": false }
+      ],
+      "hint": "பத்துப்பாட்டில் மிகக் குறைந்த அடிகள்."
+    },
+    {
+      "questionNumber": 14,
+      "question": "பாண்டியன் நெடுஞ்செழியனைத் தலைவனாகக் கொண்டு பாடப்பட்ட நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "நெடுநல்வாடை", "rationale": "நக்கீரர் பாடிய நெடுநல்வாடையின் பாட்டுடைத் தலைவன் நெடுஞ்செழியன்.", "isCorrect": true },
+        { "text": "முல்லைப்பாட்டு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "குறிஞ்சிப்பாட்டு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பட்டினப்பாலை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "பத்துப்பாட்டு நூல்களில் ஒன்று."
+    },
+    {
+      "questionNumber": 15,
+      "question": "தலைவிக்காகப் பிறர் பேசும் நற்சொல்லைக் கேட்டிருத்தல் எவ்வாறு அழைக்கப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "விரிச்சி", "rationale": "சகுனம் பார்த்தல் போன்ற இந்த முறைக்கு விரிச்சி என்று பெயர்.", "isCorrect": true },
+        { "text": "வாடை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "நேமி", "rationale": "சக்கரம்.", "isCorrect": false },
+        { "text": "கோடு", "rationale": "மலை.", "isCorrect": false }
+      ],
+      "hint": "நற்சொல் கேட்டல்."
+    },
+    {
+      "questionNumber": 16,
+      "question": "தமிழர் பண்பாட்டில் எதற்குத் தனித்த இடமுண்டு?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வாழை இலைக்கு", "rationale": "தலைவாழை இலையில் விருந்தளிப்பது தமிழர் மரபு.", "isCorrect": true },
+        { "text": "மாவிலைக்கு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பனையோலைக்கு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தென்னங்கீற்றுக்கு", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "உணவு பரிமாறப் பயன்படுவது."
+    },
+    {
+      "questionNumber": 17,
+      "question": "விருந்தே புதுமை என்று கூறியவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "தொல்காப்பியர்", "rationale": "புதுமையானவற்றை விருந்து என்று குறிப்பிடுகிறார்.", "isCorrect": true },
+        { "text": "திருவள்ளுவர்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "இளங்கோவடிகள்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "கம்பர்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "தமிழின் முதல் இலக்கண நூலாசிரியர்."
+    },
+    {
+      "questionNumber": 18,
+      "question": "காசிக்காண்டம் என்பது எதைப் பாடும் நூல்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "காசி நகரத்தின் பெருமையை", "rationale": "காசி நகரத்தின் சிறப்புகளைப் பாடும் நூல் காசிக்காண்டம்.", "isCorrect": true },
+        { "text": "மதுரை நகரத்தின் பெருமையை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தென்காசியின் பெருமையை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தில்லையின் பெருமையை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "புனித நகரின் பெருமை."
+    },
+    {
+      "questionNumber": 19,
+      "question": "அதிவீரராம பாண்டியனின் மற்றொரு பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "சீவலமாறன்", "rationale": "வெற்றிவேற்கை எழுதிய இவரது சிறப்புப் பெயர் சீவலமாறன்.", "isCorrect": true },
+        { "text": "குலசேகரன்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "மாறவர்மன்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பாண்டியன்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "நைடதம், கூர்மபுராணம் பாடியவர்."
+    },
+    {
+      "questionNumber": 20,
+      "question": "மலைபடுகடாம் நூலுக்கு வழங்கப்படும் மற்றொரு பெயர் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "கூத்தராற்றுப்படை", "rationale": "கூத்தர்களை ஆற்றுப்படுத்துவதால் இப்பெயர் பெற்றது.", "isCorrect": true },
+        { "text": "சிறுபாணாற்றுப்படை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பெரும்பாணாற்றுப்படை", "rationale": "தவறு.", "isCorrect": false },        { "text": "பொருநராற்றுப்படை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "இரணிய முட்டத்துப் பெருங்குன்றூர் பெருங்கௌசிகனார் பாடியது."
+    },
+    {
+      "questionNumber": 21,
+      "question": "பரிபாடல் அடியில் 'விசும்பும் இசையும்' என்பது எதைக் குறிக்கிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வானத்தையும் பேரொலியையும்", "rationale": "விசும்பு என்றால் வானம்; இசை என்றால் இங்கு பேரொலி.", "isCorrect": true },
+        { "text": "வானத்தையும் பாட்டையும்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "காற்றையும் ஒலியையும்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "நிலத்தையும் கடலையும்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "அண்டப் பெருவெடிப்பு தொடர்பான வரிகள்."
+    },
+    {
+      "questionNumber": 22,
+      "question": "பாரத ஸ்டேட் வங்கியின் உரையாடு மென்பொருள் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "இலா", "rationale": "ILA - Electronic Live Assistant.", "isCorrect": true },
+        { "text": "சித்ரா", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "லட்சுமி", "rationale": "இது சிட்டி யூனியன் வங்கியினுடையது.", "isCorrect": false },
+        { "text": "அலெக்சா", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மூன்று எழுத்துப்பெயர்."
+    },
+    {
+      "questionNumber": 23,
+      "question": "ஐபிஎம் நிறுவனத்தின் செயற்கை நுண்ணறிவு கணினியின் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வாட்சன்", "rationale": "IBM நிறுவனம் உருவாக்கிய நுண்ணறிவு கணினி வாட்சன்.", "isCorrect": true },
+        { "text": "நியூட்டன்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "டார்வின்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஐன்ஸ்டீன்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மருத்துவத் துறையில் புற்றுநோயைக் கண்டறிய உதவுகிறது."
+    },
+    {
+      "questionNumber": 24,
+      "question": "பெருமாள் திருமொழியைப் பாடியவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "குலசேகராழ்வார்", "rationale": "இவர் பாடியது பெருமாள் திருமொழி (4000 திவ்ய பிரபந்தத்தில் 5-ஆம் திருமொழி).", "isCorrect": true },
+        { "text": "நம்மாழ்வார்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஆண்டாள்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பெரியாழ்வார்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "கேரள மாநிலம் திருவஞ்சிக்களத்தில் பிறந்தவர்."
+    },
+    {
+      "questionNumber": 25,
+      "question": "விசும்பு என்பதன் பொருள் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வானம்", "rationale": "விசும்பு என்றால் ஆகாயம் அல்லது வானம்.", "isCorrect": true },
+        { "text": "பூமி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "காற்று", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "நெருப்பு", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "ஐம்பூதங்களில் ஒன்று."
+    },
+    {
+      "questionNumber": 26,
+      "question": "சின்னமனூர்ச் செப்பேடு எதை உணர்த்துகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "சங்க காலத்தில் மொழி பெயர்ப்பு இருந்தது", "rationale": "மாபாரதம் தமிழ்ப்படுத்தும்... என்னும் குறிப்பு இதில் உள்ளது.", "isCorrect": true },
+        { "text": "சங்க காலப் போர்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "சங்க கால வணிகம்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "சங்க கால விவசாயம்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மதுரைத் தமிழ்ச்சங்கம் தொடர்பான குறிப்பு."
+    },
+    {
+      "questionNumber": 27,
+      "question": "ஒரு மொழியில் உணர்த்தப்பட்டதை வேறொரு மொழியில் வெளியிடுவது மொழிபெயர்ப்பு என்றவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "மணவை முஸ்தபா", "rationale": "மொழிபெயர்ப்பு குறித்து இவர் வழங்கிய விளக்கம் இது.", "isCorrect": true },
+        { "text": "பாரதியார்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "மு. வரதராசனார்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஜெகன்னாத ராஜா", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "அறிவியல் தமிழ் அறிஞர்."
+    },
+    {
+      "questionNumber": 28,
+      "question": "இங்கு நகரப்பேருந்து நிற்குமா? - என்பது எந்த வகை வினா?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "அறியா வினா", "rationale": "தான் அறியாத ஒன்றை அறிந்து கொள்வதற்காகப் பிறரிடம் கேட்பது.", "isCorrect": true },
+        { "text": "அறி வினா", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஐய வினா", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஏவல் வினா", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "தெரியாமல் கேட்பது."
+    },
+    {
+      "questionNumber": 29,
+      "question": "விடை எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "8", "rationale": "சுட்டு, மறை, நேர், ஏவல், வினா எதிர் வினாதல் என 8 வகைப்படும்.", "isCorrect": true },
+        { "text": "6", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "10", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "பவணந்தி முனிவர் நன்னூலில் கூறியது."
+    },
+    {
+      "questionNumber": 30,
+      "question": "பொருள்கோள் எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "8", "rationale": "ஆற்றுநீர், விற்பூட்டு எனப் பொருள்கோள் 8 வகைப்படும்.", "isCorrect": true },
+        { "text": "3", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "6", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "4", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "செய்யுளில் சொற்களைப் பொருளுக்கேற்ப அமைக்கும் முறை."
+    },
+    {
+      "questionNumber": 31,
+      "question": "குளிர்காலத்தைப் பொழுதாகக் கொண்ட நிலங்கள் எவை?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "குறிஞ்சி, மருதம், நெய்தல்", "rationale": "இம்மூன்று நிலங்களுக்கும் பெரும்பொழுதில் குளிர்காலம் உண்டு.", "isCorrect": true },
+        { "text": "முல்லை, மருதம், நெய்தல்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பாலை, குறிஞ்சி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "முல்லை மட்டும்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மலையும் வயலும் கடலும்."
+    },
+    {
+      "questionNumber": 32,
+      "question": "ஒயிலாட்டம் இரு வரிசையில் நின்று ஆடப்படுகிறது - இது எவ்வகை வினை?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "செயப்பாட்டுவினை", "rationale": "படுகிறது என்ற விகுதி பெற்று செயப்படுபொருள் முன்னால் வந்துள்ளது.", "isCorrect": true },
+        { "text": "செய்வினை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தன்வினை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பிறவினை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "'படுகிறது' என முடியும் வினை."
+    },
+    {
+      "questionNumber": 33,
+      "question": "கரகாட்டத்தின் வேறு பெயர்கள் யாவை?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "கும்பாட்டம், குடக்கூத்து", "rationale": "குடத்தை வைத்து ஆடுவதால் இப்பெயர்கள் உண்டு.", "isCorrect": true },
+        { "text": "மயிலாட்டம், காவடி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஒயிலாட்டம், தப்பாட்டம்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தேவராட்டம், சேவையாட்டம்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "குடம் தொடர்பான பெயர்கள்."
+    },
+    {
+      "questionNumber": 34,
+      "question": "கம்பராமாயணத்தில் எத்தனை காண்டங்கள் உள்ளன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "6", "rationale": "பால, அயோத்திய, ஆரணிய, கிட்கிந்த, சுந்தர, யுத்த காண்டங்கள்.", "isCorrect": true },
+        { "text": "7", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "4", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "உத்தர காண்டம் ஒட்டக்கூத்தரால் பாடப்பட்டது."
+    },
+    {
+      "questionNumber": 35,
+      "question": "கம்பர் தனது நூலுக்கு இட்ட பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "இராமாவதாரம்", "rationale": "கம்பர் இட்ட பெயர் இராமாவதாரம், பிற்காலத்திலேயே கம்பராமாயணம் எனப்பட்டது.", "isCorrect": true },
+        { "text": "கம்பராமாயணம்", "rationale": "உலகம் வழங்கியது.", "isCorrect": false },
+        { "text": "இராம சரிதம்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "இராம காதை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "அவதாரம் என்ற சொல் வரும்."
+    },
+    {
+      "questionNumber": 36,
+      "question": "மாலவன் குன்றம் என்பது எதைக் குறிக்கிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "திருப்பதி", "rationale": "மாலவன் (திருமால்) குடிகொண்டுள்ள வேங்கட மலை.", "isCorrect": true },
+        { "text": "திருத்தணி", "rationale": "வேலவன் குன்றம்.", "isCorrect": false },
+        { "text": "பழனி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "சுவாமிமலை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "வேங்கடம்."
+    },
+    {
+      "questionNumber": 37,
+      "question": "சிலம்புச் செல்வர் என்று போற்றப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "மா. பொ. சிவஞானம்", "rationale": "சிலப்பதிகாரத்தைப் பரப்பியதால் இவர் இவ்வாறு அழைக்கப்பட்டார்.", "isCorrect": true },
+        { "text": "அண்ணா", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "கலைஞர்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "மு. வரதராசனார்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மா.பொ.சி."
+    },
+    {
+      "questionNumber": 38,
+      "question": "மேன்மை தரும் அறம் என்பது எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "கைம்மாறு கருதாமல் அறம் செய்வது", "rationale": "பயன் கருதாமல் செய்யும் அறமே மேன்மையானது.", "isCorrect": true },
+        { "text": "புகழ் வேண்டி அறம் செய்வது", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "மறுமை இன்பம் வேண்டி செய்வது", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "வணிக நோக்கில் செய்வது", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "எதிர்பார்ப்பு இல்லாத உதவி."
+    },
+    {
+      "questionNumber": 39,
+      "question": "புறத்திணைகள் எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "12", "rationale": "வெட்சி முதல் பாடாண், பொதுவியல், கைக்கிளை, பெருந்திணை வரை 12.", "isCorrect": true },
+        { "text": "7", "rationale": "அகத்திணை.", "isCorrect": false },
+        { "text": "10", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "5", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "வெட்சி முதலாகத் தொடங்கும் திணைகள்."
+    },
+    {
+      "questionNumber": 40,
+      "question": "மண்ணாசை காரணமாகப் பகைவர் நாட்டைப் பிடிக்கச் செல்வது:",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வஞ்சித் திணை", "rationale": "மண்ணாசை கருதிப் போருக்குச் செல்வது வஞ்சி.", "isCorrect": true },
+        { "text": "வெட்சித் திணை", "rationale": "ஆநிரை கவர்தல்.", "isCorrect": false },
+        { "text": "காஞ்சித் திணை", "rationale": "நாட்டைப் பாதுகாக்க எதிர்த்தல்.", "isCorrect": false },
+        { "text": "நொச்சித் திணை", "rationale": "மதில் காத்தல்.", "isCorrect": false }
+      ],
+      "hint": "படையெடுத்துச் செல்லுதல்."
+    },
+    {
+      "questionNumber": 41,
+      "question": "வெண்பாவிற்குரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "செப்பலோசை", "rationale": "இருவர் உரையாடுவது போன்ற ஓசை.", "isCorrect": true },
+        { "text": "அகவலோசை", "rationale": "ஆசிரியப்பா.", "isCorrect": false },
+        { "text": "துள்ளலோசை", "rationale": "கலிப்பா.", "isCorrect": false },
+        { "text": "தூங்கலோசை", "rationale": "வஞ்சிப்பா.", "isCorrect": false }
+      ],
+      "hint": "திருக்குறள் இந்த ஓசையில் அமைந்தது."
+    },
+    {
+      "questionNumber": 42,
+      "question": "ஆசிரியப்பாவிற்குரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "அகவலோசை", "rationale": "சொற்பொழிவு ஆற்றுவது போன்ற ஓசை.", "isCorrect": true },
+        { "text": "செப்பலோசை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "துள்ளலோசை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தூங்கலோசை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "சங்க இலக்கியங்கள் பலவும் இந்த ஓசையுடையவை."
+    },
+    {
+      "questionNumber": 43,
+      "question": "சரயு ஆறு எங்கே பாய்கிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "கோசல நாடு", "rationale": "கம்பராமாயணத்தில் குறிப்பிடப்படும் ஆறு.", "isCorrect": true },
+        { "text": "சோழ நாடு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "சேர நாடு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பாண்டிய நாடு", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "அயோத்தி அமைந்திருக்கும் நாடு."
+    },
+    {
+      "questionNumber": 44,
+      "question": "சிறுகதை மன்னன் என்று புகழப்படுபவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "ஜெயகாந்தன்", "rationale": "அவர் சிறுகதை மன்னன் எனப் போற்றப்படுகிறார்.", "isCorrect": true },
+        { "text": "புதுமைப்பித்தன்", "rationale": "இவர் சிறுகதையின் தந்தை எனப்படுவார்.", "isCorrect": false },
+        { "text": "கல்கி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "அசோகமித்திரன்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "ஜே.கே. என அழைக்கப்படுவார்."
+    },
+    {
+      "questionNumber": 45,
+      "question": "தேம்பாவணி எந்த நூற்றாண்டில் படைக்கப்பட்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "17 ஆம் நூற்றாண்டு", "rationale": "வீரமாமுனிவரின் காலம் 17 ஆம் நூற்றாண்டு.", "isCorrect": true },
+        { "text": "18 ஆம் நூற்றாண்டு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "16 ஆம் நூற்றாண்டு", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "19 ஆம் நூற்றாண்டு", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "இத்தாலி நாட்டைச் சேர்ந்தவரால் எழுதப்பட்டது."
+    },
+    {
+      "questionNumber": 46,
+      "question": "இவள் தலையில் எழுதியதோ கற்காலம் தான் - இதில் கற்காலம் என்பது எதைக் குறிக்கிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "தலையில் கல் சுமப்பது", "rationale": "கட்டுமானப் பணியில் சித்தாளாக இருப்பவரைப் பற்றிய சிலேடை.", "isCorrect": true },
+        { "text": "பழங்காலம்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "கல்வி அறிவு இன்மை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "கடினமான காலம்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "சித்தாள் குறித்த கவிதை."
+    },
+    {
+      "questionNumber": 47,
+      "question": "தேம்பாவணி என்பதன் பொருள் யாது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "வாடாத மாலை", "rationale": "தேம்பா + அணி = வாடாத மாலை.", "isCorrect": true },
+        { "text": "தேன் போன்ற மாலை", "rationale": "தேன் + பா + அணி எனவும் பிரிக்கலாம்.", "isCorrect": false },
+        { "text": "இனிய இசை", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "அழகிய கவிதை", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "இரண்டு விதமாகப் பொருள் கொள்ளலாம்."
+    },
+    {
+      "questionNumber": 48,
+      "question": "வீரமாமுனிவருக்கு 'இஸ்மத் சந்நியாசி' என்ற பட்டத்தை வழங்கியவர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "சந்தா சாகிப்", "rationale": "திருச்சி நவாப் சந்தா சாகிப் இப்பட்டத்தை வழங்கினார்.", "isCorrect": true },
+        { "text": "திப்பு சுல்தான்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "அவுரங்கசீப்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "ஹைதர் அலி", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "தூய துறவி என்பது இதன் பொருள்."
+    },
+    {
+      "questionNumber": 49,
+      "question": "உவமணி என்ற சொல்லின் பொருள் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "மணமலர்", "rationale": "உவமணி என்றால் மணமலர் என்று பொருள்.", "isCorrect": true },
+        { "text": "அழகிய மணி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "புதுமலர்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "தேன்மலர்", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "தேம்பாவணியில் வரும் சொல்லும் பொருளும்."
+    },
+    {
+      "questionNumber": 50,
+      "question": "ஜெயகாந்தனின் சாகித்திய அகாதமி விருது பெற்ற புதினம் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        { "text": "சில நேரங்களில் சில மனிதர்கள்", "rationale": "1972 இல் இவ்விருது வழங்கப்பட்டது.", "isCorrect": true },
+        { "text": "உன்னைப்போல் ஒருவன்", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "யுகசந்தி", "rationale": "தவறு.", "isCorrect": false },
+        { "text": "பாரிசுக்குப் போ", "rationale": "தவறு.", "isCorrect": false }
+      ],
+      "hint": "மனிதர்கள் என்ற சொல் வரும்."
+    }
+  ]
+}

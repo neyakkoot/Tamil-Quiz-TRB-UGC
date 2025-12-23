@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "source": "Elathi.json",
+    "question": "ஏலாதி பாடல் 4-இன் படி, 'அவம்' (தீமை) அரிது ஆதல் எப்போது எளிதாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவம் எளிது, தானம் அரிது என்றால்",
+        "rationale": "பாடல் 4-இல் 'தவம் எளிது தானம் அரிதுக் கார்க்கேல் அவம் அரி(து) ஆதல் எளிதால்' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம் பிறழின் இயை எளிது என்றால்",
+        "rationale": "இது இன்பம் பிறழும்போது இணைந்து வாழ்தல் பற்றிப் பேசுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம் துடைத்தல் அரிது என்றால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்ம்மை புலாற்கண் மறையுடைமை",
+        "rationale": "இது பாடல் 6-இல் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "source": "Elathi.json",
+    "question": "ஏலாதி பாடல் 23-இன் படி, பெரியார் நூல் எதற்குக் காவலாக இருக்கும் என்று கூறப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காலனுக்கு (எமனுக்கு)",
+        "rationale": "பாடல் 23-இல் 'பெரியார்நூல் காலற்கு வாயகாப்புக் கோடல் வனப்பு' என்று எமனுக்கு வாய்க்காப்பாக இருக்கும் என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசனுக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருடர்களுக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகைவர்களுக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "source": "Elathi.json",
+    "question": "ஏலாதி பாடல் 26-இன் படி, ஒருவனுக்கு உண்மையான அழகு (வனப்பு) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறிவு (மதி)",
+        "rationale": "பாடல் 26-இல் 'மாண்டமைந்(து)ஆ ராய்ந்த மதிவனப்பே வனப்பு' என்று ஆராய்ந்த அறிவே உண்மையான அழகு என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடல் அழகு",
+        "rationale": "உடல் அழகு வனப்பல்ல என்று இப்பாடல் குறிக்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "source": "Elathi.json",
+    "question": "ஏலாதி பாடல் 75-இன் படி, 'வனப்பு' (அழகு) என்று எதனைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எண்ணும் எழுத்தும்",
+        "rationale": "பாடல் 75-இல் 'எண்ணோ(டி) எழுத்தின் வனப்பே வனப்பு' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நடை வனப்பு",
+        "rationale": "நடை வனப்பு வனப்பல்ல என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோள் வனப்பு",
+        "rationale": "தோள் வனப்பு வனப்பல்ல என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடை வனப்பு",
+        "rationale": "இடை வனப்பு வனப்பல்ல என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "source": "Elathi.json",
+    "question": "ஏலாதி பாடல் 33-இன் படி, தீயன செய்யாத ஒருவன் இவ்வுலகை விட்டுச் சென்றால் எங்குச் செல்வான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விண்ணோர்க்கு வேந்தன் ஆவான்",
+        "rationale": "பாடல் 33-இல் 'விண்ணோர்க்கு வேந்தனாம் இவ்வுலகம் விட்டு' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மண்ணாளும் மன்னன் ஆவான்",
+        "rationale": "இது வேறு பாடல்களில் வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வந்தன் ஆவான்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிஞன் ஆவான்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "source": "Ilakkana_Churukkam.json",
+    "question": "இலக்கண நூல் எத்தனை அதிகாரங்களாக வகுக்கப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "எழுத்ததிகாரம், சொல்லதிகாரம், தொடர்மொழியதிகாரம் என மூன்று அதிகாரங்களாக வகுக்கப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "source": "Ilakkana_Churukkam.json",
+    "question": "உயிரெழுத்துக்கள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "12",
+        "rationale": "அ முதல் ஔ வரையிலான உயிரெழுத்துக்கள் பன்னிரண்டு ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "18",
+        "rationale": "இது மெய்யெழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "247",
+        "rationale": "இது மொத்த தமிழ் எழுத்துக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "source": "Ilakkana_Churukkam.json",
+    "question": "குற்றியலுகரம் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "நெடிற்றொடர், ஆய்தத்தொடர், உயிர்த்தொடர், வன்றொடர், மென்றொடர், இடைத்தொடர் என ஆறு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "source": "Ilakkana_Churukkam.json",
+    "question": "பகுபத உறுப்புகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "பகுதி, விகுதி, இடைநிலை, சாரியை, சந்தி, விகாரம் என ஆறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "4",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "source": "Ilakkana_Churukkam.json",
+    "question": "விகாரப் புணர்ச்சி எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "தோன்றல், திரிதல், கெடுதல் என மூன்று வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "source": "Iniyavai_Narpathu.json",
+    "question": "இனியவை நாற்பதில் 'சுற்றார்முன் கல்வி உரைத்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிக இனிது",
+        "rationale": "பாடல்: 'சுற்றார்முன் கல்வி உரைத்தல் மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "source": "Iniyavai_Narpathu.json",
+    "question": "இனியவை நாற்பதில் 'இளமையை மூப்பென் றுணர்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'இளமையை மூப்பென் றுணர்தல் இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "source": "Iniyavai_Narpathu.json",
+    "question": "இனியவை நாற்பதில் 'பிறன்மனை பின்னோக்காப் பீடு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதாற்ற",
+        "rationale": "பாடல்: 'பிறன்மனை பின்னோக்காப் பீடினி தாற்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிகஇனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "source": "Iniyavai_Narpathu.json",
+    "question": "இனியவை நாற்பதில் 'தேற்றவும் மேலாயார்ச் சேர்வு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிது",
+        "rationale": "பாடல்: 'தெற்றவும் மேலாயார்ச் சேர்வு [இனிது]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "source": "Iniyavai_Narpathu.json",
+    "question": "இனியவை நாற்பதின்படி, 'ஏருடையான்' செய்வதற்கு இனிது என்று எது கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேளாண்மை",
+        "rationale": "பாடல்: 'ஏருடையான் வேளாண்மை தானினிது ஆங்கினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தானம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "source": "Inna_Narpathu.json",
+    "question": "இன்னா நாற்பது நூலின் கடவுள் வாழ்த்துப் பாடலில் கபிலர் யாரை 'मुக்கட் பகவன்' என்று குறிப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "கடவுள் வாழ்த்துப் பாடலில் 'முக்கட் பகவ னடிதொழா தார்க்கின்னா' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "திருமால் 'சக்கரத்தானை' என்று குறிப்பிடப்படுகிறார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்முகன்",
+        "rationale": "நான்முகன் 'சத்தியான்' என்று குறிப்பிடப்படுகிறார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பலராமன்",
+        "rationale": "பலராமன் 'பொற்பனை வெள்ளையை' என்று குறிப்பிடப்படுகிறார்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "source": "Inna_Narpathu.json",
+    "question": "இன்னா நாற்பதின்படி, 'எருதில் உழவர்க்கு' எது இன்னா என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போகீரம் (ஈரமில்லாத நிலம்/மழை இன்மை)",
+        "rationale": "பாடல்: 'எருதி லுழவர்க்குப் போகீர மின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்ல மழை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிகுந்த விளைச்சல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விதை இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "source": "Inna_Narpathu.json",
+    "question": "இன்னா நாற்பதில் 'குலத்துப் பிறந்தவன்' எதைச் செய்வது இன்னா என்று குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்லாமை",
+        "rationale": "பாடல்: 'குலத்துப் பிறந்தவன் கல்லாமை யின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள் இல்லாமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெற்றி இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "source": "Inna_Narpathu.json",
+    "question": "இன்னா நாற்பதில் 'உடம்பாடு இல்லாத மனைவிதோள்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'உடம்பா டில்லாத மனைவிதோ ளின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆபத்து",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "source": "Inna_Narpathu.json",
+    "question": "இன்னா நாற்பதின்படி, 'கடும்புலி வாழு மதர்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'கடும்புலி வாழு மதர் இன்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "source": "Iraiyanar_Agapporul.json",
+    "question": "இறையனார் அகப்பொருள் நூலுக்கு வழங்கப்படும் மற்றொரு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவியல்",
+        "rationale": "இந்நூல் 'களவியல் என்னும் இறையனார் அகப்பொருள்' என்று அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "இது புறப்பொருள் பற்றிய நூலாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் ஒரு இலக்கண நூலாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலக்காரிகை",
+        "rationale": "இது யாப்பு இலக்கணம் பற்றிய நூலாகும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "source": "Iraiyanar_Agapporul.json",
+    "question": "இறையனார் அகப்பொருள் நூலில் உள்ள மொத்த சூத்திரங்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "60",
+        "rationale": "களவு 33, கற்பு 27 ஆக மொத்தம் 60 சூத்திரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "100",
+        "rationale": "தவறு, நூலில் உள்ளவை 60 சூத்திரங்கள் மட்டுமே.",
+        "isCorrect": false
+      },
+      {
+        "text": "50",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "source": "Iraiyanar_Agapporul.json",
+    "question": "தலைச்சங்கம் எங்கு அமைந்திருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல் கொள்ளப்பட்ட மதுரை",
+        "rationale": "தலைச்சங்கம் தென்மதுரையில் (கடல் கொள்ளப்பட்ட மதுரை) இருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபாடபுரம்",
+        "rationale": "இது இடைச்சங்கம் அமைந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வட மதுரை",
+        "rationale": "இது கடைச்சங்கம் அமைந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "இது சேர நாட்டின் தலைநகர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "source": "Iraiyanar_Agapporul.json",
+    "question": "கடைச்சங்கம் எவ்வளவு காலம் நடைபெற்றதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1850 ஆண்டுகள்",
+        "rationale": "கடைச்சங்கம் 1850 ஆண்டுகள் (ஆயிரத்து எண்ணூற்று ஐம்பது) நடைபெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "3700 ஆண்டுகள்",
+        "rationale": "இடைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4440 ஆண்டுகள்",
+        "rationale": "தலைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 ஆண்டுகள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "source": "Iraiyanar_Agapporul.json",
+    "question": "இறையனார் அகப்பொருள் உரையைக் கேட்டுச் சரியான உரை எதுவெனத் தீர்மானித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருத்திர சன்மன்",
+        "rationale": "உப்பூரிகிழார் மகனான உருத்திர சன்மன் மெய்யுரை கேட்டான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளநாகனார்",
+        "rationale": "இவர் உரை கூறியவர்களில் ஒருவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "source": "Kainnilai.json",
+    "question": "இன்னிலை என்னும் பதினெண் கீழ்க்கணக்கு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இன்னிலை நூலின் ஆசிரியர் பொய்கையார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புல்லங்காடனார்",
+        "rationale": "இவர் கைந்நிலை நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் இன்னிலையை இயற்றவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்தேவனார்",
+        "rationale": "இவர் கடவுள் வாழ்த்துப் பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "source": "Kainnilai.json",
+    "question": "'கைந்நிலை' என்னும் பதினெண் கீழ்க்கணக்கு நூலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லங்காடனார்",
+        "rationale": "கைந்நிலை நூலின் ஆசிரியர் புல்லங்காடனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "பொய்கையார் இன்னிலை நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "இவர் திரிகடுகம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணிமேதாவியார்",
+        "rationale": "இவர் திணைமாலை நூற்றைம்பது நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "source": "Kainnilai.json",
+    "question": "இன்னிலை நூலில் அமைந்துள்ள பிரிவுகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறப்பால், பொருட்பால், இன்பப்பால், வீட்டுப்பால்",
+        "rationale": "இன்னிலை அறம், பொருள், இன்பம், வீடு ஆகிய நான்கு பால்களையும் கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறம், பொருள், இன்பம்",
+        "rationale": "இன்னிலையில் வீட்டுப்பால் கூடுதலாக உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிஞ்சி, முல்லை, மருதம், நெய்தல், பாலை",
+        "rationale": "இவை கைந்நிலை திணைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெட்சி, வஞ்சி, உழிஞை, தும்பை",
+        "rationale": "இவை புறத்திணைகள்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "source": "Kainnilai.json",
+    "question": "கைந்நிலை நூலின் திணைகளின் வைப்பு முறை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறிஞ்சி, பாலை, முல்லை, மருதம், நெய்தல்",
+        "rationale": "கைந்நிலை நூலில் திணைகள் இந்த வரிசையிலேயே அமைந்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி, முல்லை, மருதம், நெய்தல், பாலை",
+        "rationale": "இது தொல்காப்பிய வைப்பு முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலை, குறிஞ்சி, முல்லை, மருதம், நெய்தல்",
+        "rationale": "தவறான வைப்பு முறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை, குறிஞ்சி, மருதம், பாலை, நெய்தல்",
+        "rationale": "தவறான வைப்பு முறை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "source": "Kainnilai.json",
+    "question": "கைந்நிலை நூலில் மொத்தம் எத்தனை பாடல்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "60",
+        "rationale": "கைந்நிலை 60 பாடல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "rationale": "ஐந்திணை ஐம்பது நூலில்தான் 50 பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "கார் நாற்பது நூலில்தான் 40 பாடல்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "45",
+        "rationale": "இன்னிலையில் 45 பாடல்கள் உள்ளன.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "source": "Kalavazhi_Narpathu.json",
+    "question": "களவழி நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்கையார்",
+        "rationale": "களவழி நாற்பது பொய்கையார் இயற்றியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரைக் கூடலூர் கிழார்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "source": "Kalavazhi_Narpathu.json",
+    "question": "களவழி நாற்பதில் 'செங்குளக் கோட்டுக்கீழ் நீர்த்தூம்பு நீருமிழ்வ போன்ற' உவமையின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானைகளின் பாதங்களில் இருந்து வழியும் குருதி",
+        "rationale": "பாடல்: 'போர்ப்பி லிடிமுரசி னூடுபோ மொண்குருதி... நீர்த்தூம்பு நீருமிழ்வ போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மழை நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புனல் நாடன் ஆட்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "source": "Kalavazhi_Narpathu.json",
+    "question": "களவழி நாற்பதில் 'அஞ்சனக் குன்றேய்க்கும் யானை' என்று யானை எதனுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மை மலை (கருமையான மலை)",
+        "rationale": "பாடல்: 'அஞ்சனக் குன்றேய்க்கும் யானை' (மை தீட்டிய மலை போன்ற யானை).",
+        "isCorrect": true
+      },
+      {
+        "text": "மேகம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாறை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "source": "Kalavazhi_Narpathu.json",
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் யானைகள் இரத்தத்தில் நின்ற காட்சி எதனைப் போல உள்ளதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செக்கர்கொள் வானிற் கருங்கொண்மூப் போன்றவே",
+        "rationale": "பாடல்: 'நெய்த்தோர்ப் புனலு ணிவந்தகளிற் றுடம்பு செக்கர்கொள் வானிற் கருங்கொண்மூப் போன்றவே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆழமான கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலைகள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "source": "Kalavazhi_Narpathu.json",
+    "question": "களவழி நாற்பதில் 'பரிதி சுமந்தெழுந்த யானை' என்பதில் 'சக்கரம்' என்று எதனைக் குறிப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேரின் பரிதி",
+        "rationale": "பரிதி என்பது தேர்ச்சக்கரம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமாலின் சக்கரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "source": "Kalithogai.json",
+    "question": "கலித்தொகை நூலின் கடவுள் வாழ்த்துப் பாடலைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "கலித்தொகையைத் தொகுத்தவர் மற்றும் கடவுள் வாழ்த்தையும் பாடியவர் நல்லந்துவனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருங்கடுங்கோன்",
+        "rationale": "இவர் பாலைக்கலியைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் குறிஞ்சிக்கலியைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்தேவனார்",
+        "rationale": "இவர் பிற தொகை நூல்களுக்குப் பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "source": "Kalithogai.json",
+    "question": "கலித்தொகையில் பாலைக்கலியைப் பாடிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருங்கடுங்கோன்",
+        "rationale": "பாலை பாடிய பெருங்கடுங்கோன் என்று அழைக்கப்படுபவர் இவரே.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருதநிலநாகன்",
+        "rationale": "இவர் மருதக்கலியைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லுத்திரன்",
+        "rationale": "இவர் முல்லைக்கலியைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் குறிஞ்சிக்கலியைப் பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "source": "Kalithogai.json",
+    "question": "கலித்தொகையில் உள்ள மொத்த பாடல்களின் எண்ணிக்கை (கடவுள் வாழ்த்து நீங்கலாக) என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "149",
+        "rationale": "கலித்தொகையில் கடவுள் வாழ்த்துத் தவிர்த்து 149 பாடல்கள் உள்ளன. (மொத்தம் 150).",
+        "isCorrect": true
+      },
+      {
+        "text": "400",
+        "rationale": "இது அகநானூறு, புறநானூறு போன்ற நூல்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "இது பதிற்றுப்பத்தின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இது ஐங்குறுநூற்றின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "source": "Kalithogai.json",
+    "question": "கலிப்பாவிற்கு உரிய ஓசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துள்ளல் ஓசை",
+        "rationale": "கலிப்பா துள்ளல் ஓசையைப் பெற்று வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அกவல் ஓசை",
+        "rationale": "அகவல் ஆசிரியப்பாவிற்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செப்பல் ஓசை",
+        "rationale": "செப்பல் வெண்பாவிற்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கல் ஓசை",
+        "rationale": "தூங்கல் வஞ்சிப்பாவிற்கு உரியது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "source": "Kalithogai.json",
+    "question": "'பண்பு எனப்படுவது பாடு அறிந்து ஒழுகுதல்' - இத்தொடரில் 'பாடு அறிந்து' என்பதன் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகியல்பு அல்லது பிறர் துயர் அறிந்து நடத்தல்",
+        "rationale": "பண்பு என்பது சான்றோர் நெறி அல்லது உலகியல்பு அறிந்து நடத்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசை பாடுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம் சேர்த்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் செய்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "source": "Kar_Narpathu.json",
+    "question": "கார் நாற்பது நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரைக் கண்ணங்கூத்தனார்",
+        "rationale": "கார் நாற்பது நூலின் ஆசிரியர் மதுரைக் கண்ணங்கூத்தனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கணிமேதையார்",
+        "rationale": "இவர் ஏலாதி நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரியாசான்",
+        "rationale": "இவர் சிறு பஞ்ச மூலம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "source": "Kar_Narpathu.json",
+    "question": "கார் நாற்பது முதல் பாடலில், திருமாலின் மார்பில் உள்ள மாலையைப் போன்று எது தோன்றியதாகக் குறிப்பிடப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வானவில் (திருவில்)",
+        "rationale": "பாடல் 1-இல் 'புனைமார்பிற் றார்போல் திருவில் விலங்கூன்றி' என்று வானவில் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மின்னல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேகம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொன்றை மலர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "source": "Kar_Narpathu.json",
+    "question": "கார் நாற்பது பாடல் 26-இல், 'கார்த்திகை விளக்கு' போல காட்சியளிப்பதாகக் கூறப்படும் மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தோன்றி மலர்",
+        "rationale": "பாடல் 26-இல் 'நாட்டவ ரிட்ட தலைநாள் விளக்கிற் றகையுடைய வாகிப் புலமெலாம் பூத்தன தோன்றி' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செம்பருத்தி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அல்லி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "source": "Kar_Narpathu.json",
+    "question": "கார் நாற்பது பாடல் 12-இல், கரிய மேகக் கூட்டங்கள் எதனைப் போலத் தோன்றுவதாகக் கூறப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெய் பூசிய யானைகள்",
+        "rationale": "பாடல் 12-இல் 'நெய்யணி குஞ்சரம் போல விருங்கொண்மூ' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரிய குன்றுகள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருங்கடல்கள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எருமைக் கூட்டம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "source": "Kar_Narpathu.json",
+    "question": "கார் நாற்பது பாடல் 39-இல், 'அலவன் கண் ஏய்ப்ப' (நண்டின் கண் போல) அரும்பு ஈன்றதாகக் கூறப்படும் மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நொச்சி",
+        "rationale": "பாடல் 39-இல் 'அலவன்க ணேய்ப்ப வரும்பீன் றவிழ்ந்த கருங்குர னொச்சி' என்று கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குவளை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "source": "Kurinjippattu.json",
+    "question": "குறிஞ்சிப்பாட்டு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "குறிஞ்சிப்பாட்டு கபிலரால் இயற்றப்பட்டது மற்றும் இது ஆசிரியப்பாவால் ஆனது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓரம்போகியார்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "source": "Kurinjippattu.json",
+    "question": "குறிஞ்சிப்பாட்டு நூலில் குறிப்பிடப்பட்டுள்ள மொத்த அடிகளின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "261 அடிகள்",
+        "rationale": "நூலின் முகப்புப் பக்கத்திலும், இறுதிப் பகுதியிலும் 261 அடிகள் எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "300 அடிகள்",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "100 அடிகள்",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "400 அடிகள்",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "source": "Kurinjippattu.json",
+    "question": "குறிஞ்சிப்பாட்டில் இடம்பெறும் 99 மலர்களின் பட்டியலில் முதல் மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காந்தள்",
+        "rationale": "'ஒண்செங் காந்தள்' என்பதே நீண்ட மலர் பட்டியலின் தொடக்கம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "இது பட்டியலில் இடையில் வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆம்பல்",
+        "rationale": "இது காந்தளுக்குப் பின் வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "இது பட்டியலில் இடையில் வருகிறது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "source": "Kurinjippattu.json",
+    "question": "யானையைக் கண்ட தலைவி அச்சத்தால் என்ன செய்தாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாணம் மறந்து தலைவனைப் பற்றிக்கொண்டாள்",
+        "rationale": "'நாணுமறந்து... விரைந்தவற் பொருத்தி' - அச்சத்தில் நாணம் நீங்கி தலைவனைச் சரணடைந்தாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மரத்தின் மீது ஏறினாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயங்கி விழுந்தாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓடி ஒளிந்தாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "source": "Kurinjippattu.json",
+    "question": "மலைப் பாதையில் 'இடி' எதனால் ஏற்படுகிறது என குறிஞ்சிப்பாட்டு குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மேகங்கள் மோதுவதால் (உரும்)",
+        "rationale": "'வன்கண் வெஞ்சினத் துருமுஞ் சூரும்' - உரும் என்பது இடியைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானைகள் பிளிறுவதால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாறைகள் உருள்வதால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருவி கொட்டுவதால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  }
+]

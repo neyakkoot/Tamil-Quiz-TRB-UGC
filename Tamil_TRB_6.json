@@ -1,0 +1,552 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "குறுந்தொகை நூலின் கடவுள் வாழ்த்துப் பாடலைப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "கபிலர்", "rationale": "கபிலர் குறிஞ்சித் திணைப் பாடல்களைப் பாடியவர்.", "isCorrect": false },
+      { "text": "பாரதம் பாடிய பெருந்தேவனார்", "rationale": "குறுந்தொகை நூலிற்குத் 'தாமரை புரையுங் காமர் சேவடி' என்று தொடங்கும் கடவுள் வாழ்த்துப் பாடலைப் பாடியவர் பாரதம் பாடிய பெருந்தேவனார் ஆவார்.", "isCorrect": true },
+      { "text": "நக்கீரர்", "rationale": "நக்கீரர் கடவுள் வாழ்த்துப் பாடலைப் பாடவில்லை.", "isCorrect": false },
+      { "text": "பரணர்", "rationale": "பரணர் வரலாற்றுச் செய்திகளைப் பாடியவர்.", "isCorrect": false }
+    ],
+    "hint": "கடவுள் வாழ்த்துப் பாடியவர்"
+  },
+  {
+    "questionNumber": 2,
+    "question": "குறுந்தொகை கடவுள் வாழ்த்துப் பாடலில் குறிப்பிடப்படும் தெய்வம் எது?",
+    "answerOptions": [
+      { "text": "சிவன்", "rationale": "கடவுள் வாழ்த்து சிவனைக் குறிக்கவில்லை.", "isCorrect": false },
+      { "text": "முருகன்", "rationale": "'சேவலங் கொடியோன் காப்ப' என்ற வரியின் மூலம் இப்பாடல் முருகக்கடவுளைக் குறிக்கிறது.", "isCorrect": true },
+      { "text": "திருமால்", "rationale": "திருமால் முல்லை நிலத் தெய்வம்.", "isCorrect": false },
+      { "text": "கொற்றவை", "rationale": "கொற்றவை பாலை நிலத் தெய்வம்.", "isCorrect": false }
+    ],
+    "hint": "சேவலங் கொடியோன்"
+  },
+  {
+    "questionNumber": 3,
+    "question": "‘யாயும் ஞாயும் யாரா கியரோ’ (பாடல் 40) என்ற குறுந்தொகைப் பாடலை இயற்றியவர் யார்?",
+    "answerOptions": [
+      { "text": "செம்புலப் பெயனீரார்", "rationale": "இப்பாடலில் வரும் 'செம்புலப் பெயல்நீர் போல' என்ற உவமையால் இவர் செம்புலப் பெயனீரார் என்று அழைக்கப்படுகிறார்.", "isCorrect": true },
+      { "text": "கபிலர்", "rationale": "கபிலர் குறிஞ்சித் திணைப் பாடகர்.", "isCorrect": false },
+      { "text": "வெள்ளிவீதியார்", "rationale": "வெள்ளிவீதியார் சங்ககாலப் பெண்பாற் புலவர்.", "isCorrect": false },
+      { "text": "ஓرம்போகியார்", "rationale": "ஓரம்போகியார் மருதத் திணைப் பாடகர்.", "isCorrect": false }
+    ],
+    "hint": "செம்புலப் பெயல்நீர்"
+  },
+  {
+    "questionNumber": 4,
+    "question": "‘வினையே ஆடவர்க்கு உயிரே’ (பாடல் 135) என்ற புகழ்பெற்ற வரியைக் கொண்ட குறுந்தொகைப் பாடலைப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "பாலை பாடிய பெருங்கடுங்கோ", "rationale": "பாலைத் திணைப் பாடல்களைப் பாடுவதில் வல்லவரான இவர் இவ்வரியைக் கையாண்டுள்ளார்.", "isCorrect": true },
+      { "text": "ஔவையார்", "rationale": "ஔவையார் இப்பாடலைப் பாடவில்லை.", "isCorrect": false },
+      { "text": "தொல்காப்பியர்", "rationale": "தொல்காப்பியர் இலக்கண நூலாசிரியர்.", "isCorrect": false },
+      { "text": "கபிலர்", "rationale": "கபிலர் குறிஞ்சித் திணைப் பாடகர்.", "isCorrect": false }
+    ],
+    "hint": "பாலைத் திணை புலவர்"
+  },
+  {
+    "questionNumber": 5,
+    "question": "‘வேம்பின் பைங்காய் என் தோழி தரினே... தேம்பூங் கட்டி’ (பாடல் 196) - இப்பாடல் உணர்த்தும் கருத்து யாது?",
+    "answerOptions": [
+      { "text": "அன்பின் மிகுதியால் கசப்பும் இனிக்கும்", "rationale": "விருப்பமானவர் (தலைவன்) தரும் கசப்பான வேப்பங்காயும், அன்பின் காரணமாக வெல்லக்கட்டி (தேம்பூங்கட்டி) போல இனிக்கும்.", "isCorrect": true },
+      { "text": "வேப்பங்காயின் கசப்பு", "rationale": "கசப்பை மட்டும் கூறவில்லை.", "isCorrect": false },
+      { "text": "மருந்துண்ணும் முறை", "rationale": "மருத்துவம் பற்றிய பாடல் அல்ல.", "isCorrect": false },
+      { "text": "வறுமை", "rationale": "இது வறுமையைச் சுட்டுவதல்ல.", "isCorrect": false }
+    ],
+    "hint": "அன்பின் வலிமை"
+  },
+  {
+    "questionNumber": 6,
+    "question": "மதுரைக்காஞ்சி நூலின் மொத்த அடிகள் எத்தனை?",
+    "answerOptions": [
+      { "text": "782", "rationale": "மதுரைக்காஞ்சி நூலின் மொத்த அடிகள் 782 ஆகும்.", "isCorrect": true },
+      { "text": "583", "rationale": "தவறான பதில்.", "isCorrect": false },
+      { "text": "650", "rationale": "தவறான பதில்.", "isCorrect": false },
+      { "text": "890", "rationale": "தவறான பதில்.", "isCorrect": false }
+    ],
+    "hint": "பத்துப்பாட்டில் மிக நீண்ட நூல்"
+  },
+  {
+    "questionNumber": 7,
+    "question": "மதுரைக்காஞ்சி நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "தலையாலங்கானத்துச் செருவென்ற பாண்டியன் நெடுஞ்செழியன்", "rationale": "இந்நூல் தலையாலங்கானத்துச் செருவென்ற பாண்டியனைப் பாட்டுடைத் தலைவனாகக் கொண்டது.", "isCorrect": true },
+      { "text": "பல்யாகசாலை முதுகுடுமிப் பெருவழுதி", "rationale": "இவர் பாண்டியனின் முன்னோர்.", "isCorrect": false },
+      { "text": "கரிகால் பெருவளத்தான்", "rationale": "இவர் சோழ மன்னர்.", "isCorrect": false },
+      { "text": "சேரன் செங்குட்டுவன்", "rationale": "இவர் சேர மன்னர்.", "isCorrect": false }
+    ],
+    "hint": "தலையாலங்கானத்து போர் வீரர்"
+  },
+  {
+    "questionNumber": 8,
+    "question": "மதுரைக்காஞ்சியில் குறிப்பிடப்படும் 'நாளங்காடி' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "பகல் நேரக் கடைவீதி", "rationale": "நாளங்காடி நனந்தலைக் கம்பலை என்று பகல் நேரக் கடைவீதியின் ஆரவாரம் குறிப்பிடப்படுகிறது.", "isCorrect": true },
+      { "text": "இரவு நேரக் கடைவீதி", "rationale": "இரவு நேரக் கடைவீதி 'அல்லங்காடி' எனப்படும்.", "isCorrect": false },
+      { "text": "போர்க்களம்", "rationale": "தவறான பதில்.", "isCorrect": false },
+      { "text": "அரசவை", "rationale": "தவறான பதில்.", "isCorrect": false }
+    ],
+    "hint": "நாள் - பகல்"
+  },
+  {
+    "questionNumber": 9,
+    "question": "மதுரையின் இரவு நேரக் கடைவீதி எவ்வாறு அழைக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "அல்லங்காடி", "rationale": "'அல்லங் காடி அழிதரு கம்பலை' என்று இரவு நேரக் கடைவீதியின் ஒலி குறிப்பிடப்படுகிறது.", "isCorrect": true },
+      { "text": "நாளங்காடி", "rationale": "இது பகல் நேரக் கடைவீதி.", "isCorrect": false },
+      { "text": "பட்டினம்", "rationale": "துறைமுக நகரம்.", "isCorrect": false },
+      { "text": "சேரி", "rationale": "தவறான பதில்.", "isCorrect": false }
+    ],
+    "hint": "அல் - இரவு"
+  },
+  {
+    "questionNumber": 10,
+    "question": "மதுரைக்காஞ்சியின் திணையான 'காஞ்சி' எதனை உணர்த்துகிறது?",
+    "answerOptions": [
+      { "text": "நிலையாமை மற்றும் அறவுரை", "rationale": "உலக வாழ்வின் நிலையாமையை எடுத்துரைத்து, மன்னனுக்கு அறநெறி கூறுவது காஞ்சித் திணையாகும்.", "isCorrect": true },
+      { "text": "காதல்", "rationale": "அகத்திணை.", "isCorrect": false },
+      { "text": "வெற்றி", "rationale": "வாகைத் திணை.", "isCorrect": false },
+      { "text": "தூது", "rationale": "தவறான பதில்.", "isCorrect": false }
+    ],
+    "hint": "உலக நிலையாமை"
+  },
+  {
+    "questionNumber": 11,
+    "question": "மலைபடுகடாம் நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "நன்னன் சேய் நன்னன்", "rationale": "செங்கண்மாவைத் தலைநகராகக் கொண்டு ஆண்ட குறுநில மன்னன் நன்னன் சேய் நன்னனே இந்நூலின் தலைவன்.", "isCorrect": true },
+      { "text": "குமண வள்ளல்", "rationale": "இவர் பிற புலவரால் பாடப்பட்டவர்.", "isCorrect": false },
+      { "text": "அதியமான்", "rationale": "ஔவையார் பாடியவர்.", "isCorrect": false },
+      { "text": "பாரி", "rationale": "கபிலர் பாடியவர்.", "isCorrect": false }
+    ],
+    "hint": "செங்கண்மா மன்னன்"
+  },
+  {
+    "questionNumber": 12,
+    "question": "மலைபடுகடாம் நூலின் வேறு பெயர் என்ன?",
+    "answerOptions": [
+      { "text": "கூத்தராற்றுப்படை", "rationale": "கூத்தன் ஒருவனை ஆற்றுப்படுத்துவதாக அமைந்ததால் இது கூத்தராற்றுப்படை எனவும் அழைக்கப்படுகிறது.", "isCorrect": true },
+      { "text": "திருமுருகாற்றுப்படை", "rationale": "வேறு நூல்.", "isCorrect": false },
+      { "text": "பொருநராற்றுப்படை", "rationale": "வேறு நூல்.", "isCorrect": false },
+      { "text": "சிறுபாணாற்றுப்படை", "rationale": "வேறு நூல்.", "isCorrect": false }
+    ],
+    "hint": "கூத்தர்களை ஆற்றுப்படுத்துவது"
+  },
+  {
+    "questionNumber": 13,
+    "question": "நன்னனின் நாட்டில் பாயும் ஆறு எது?",
+    "answerOptions": [
+      { "text": "சேயாறு", "rationale": "நன்னனின் நவிர மலையிலிருந்து தோன்றிப் பாயும் ஆறு சேயாறு ஆகும்.", "isCorrect": true },
+      { "text": "காவிரி", "rationale": "சோழ நாட்டு ஆறு.", "isCorrect": false },
+      { "text": "வைகை", "rationale": "பாண்டிய நாட்டு ஆறு.", "isCorrect": false },
+      { "text": "பாலாறு", "rationale": "தொண்டை நாட்டு ஆறு.", "isCorrect": false }
+    ],
+    "hint": "சேயாறு"
+  },
+  {
+    "questionNumber": 14,
+    "question": "‘கழை’ என்ற சொல் மலைபடுகடாமில் எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "மூங்கில்", "rationale": "கழை என்பது மூங்கிலைக் குறிக்கும். மூங்கில் நெல் மலையில் உணவாகக் கிடைக்கிறது.", "isCorrect": true },
+      { "text": "கரும்பு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சந்தனம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "தேக்கு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "மலையில் வளரும் புல் இனம்"
+  },
+  {
+    "questionNumber": 15,
+    "question": "‘தட்டை’ என்பது மலைபடுகடாமில் எதனைக் குறிக்கும்?",
+    "answerOptions": [
+      { "text": "பறவைகளை விரட்டும் கருவி", "rationale": "மூங்கிலைப் பிளந்து செய்யப்படும், தட்டினால் ஒலி எழுப்பி கிளிகளை விரட்டப் பயன்படும் கருவி.", "isCorrect": true },
+      { "text": "உணவு தட்டு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆடை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆட்டம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பறவை விரட்டும் கருவி"
+  },
+  {
+    "questionNumber": 16,
+    "question": "இன்னா நாற்பதின்படி, 'ஆற்று லிலாதான்' எது இன்னா?",
+    "answerOptions": [
+      { "text": "பிடித்த படை", "rationale": "பாடல்: 'ஆற்ற லிலாதான் பிடித்த படையின்னா'.", "isCorrect": true },
+      { "text": "உரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நட்பு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வினை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "படைக்கலம் ஏந்துபவன்"
+  },
+  {
+    "questionNumber": 17,
+    "question": "இனியவை நாற்பதில் 'நாளும் நவைபோகான் கற்றல்' எத்தகையது?",
+    "answerOptions": [
+      { "text": "மிகஇனிதே", "rationale": "பாடல்: 'நாளும் நவைபோகான் கற்றல் மிகஇனிதே'.", "isCorrect": true },
+      { "text": "முன்இனிதே", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நன்கினிதே", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆற்ற இனிதே", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "குற்றம் நீங்கக் கற்றல்"
+  },
+  {
+    "questionNumber": 18,
+    "question": "முதுமொழிக்காஞ்சியில் 'காதலிற் சிறந்தது' எது?",
+    "answerOptions": [
+      { "text": "கண்ணஞ்சப் படுதல்", "rationale": "பாடல்: 'காதலிற் சிறந்தன்று கண்ணஞ்சப் படுதல்'.", "isCorrect": true },
+      { "text": "ஒழுக்கம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாய்மை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கல்வி", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "மதிப்புப் பெறுதல்"
+  },
+  {
+    "questionNumber": 19,
+    "question": "முதுமொழிக்காஞ்சியில் 'நலனுடை மையின்' சிறந்தது எது?",
+    "answerOptions": [
+      { "text": "நாணுச் சிறந்தன்று", "rationale": "பாடல்: 'நலனுடை மையின் நாணுச் சிறந்தன்று'.", "isCorrect": true },
+      { "text": "கற்பு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உதவி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மெய்பிணி இன்மை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நாணம்"
+  },
+  {
+    "questionNumber": 20,
+    "question": "முதுமொழிக்காஞ்சியில் 'கற்றலின்' சிறந்தது எது?",
+    "answerOptions": [
+      { "text": "கற்றாரை வழிபடுதல்", "rationale": "பாடல்: 'கற்றலின் கற்றாரை வழிபடுதல் சிறந்தன்று'.", "isCorrect": true },
+      { "text": "ஒழுக்கம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாய்மை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செல்வம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பெரியாரைத் துணைக்கோடல்"
+  },
+  {
+    "questionNumber": 21,
+    "question": "முல்லைப்பாட்டு நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "நப்பூதனார்", "isCorrect": true, "rationale": "காவிரிப்பூம்பட்டினத்துப் பொன்வாணிகனார் மகனார் நப்பூதனார் என்பதே சரியான விடை." },
+      { "text": "நக்கீரர்", "isCorrect": false, "rationale": "நெடுநல்வாடை ஆசிரியர்." },
+      { "text": "கபிலர்", "isCorrect": false, "rationale": "குறிஞ்சிப்பாட்டு ஆசிரியர்." },
+      { "text": "மாங்குடி மருதனார்", "isCorrect": false, "rationale": "மதுரைக்காஞ்சி ஆசிரியர்." }
+    ],
+    "hint": "வணிகர் மகன்"
+  },
+  {
+    "questionNumber": 22,
+    "question": "பத்துப்பாட்டு நூல்களுள் அடிகள் அளவில் மிகச் சிறிய நூல் எது?",
+    "answerOptions": [
+      { "text": "முல்லைப்பாட்டு", "isCorrect": true, "rationale": "முல்லைப்பாட்டு 103 அடிகளை மட்டுமே கொண்டு பத்துப்பாட்டில் மிகச் சிறியதாக உள்ளது." },
+      { "text": "குறிஞ்சிப்பாட்டு", "isCorrect": false, "rationale": "261 அடிகள்." },
+      { "text": "பட்டினப்பாலை", "isCorrect": false, "rationale": "301 அடிகள்." },
+      { "text": "பொருநராற்றுப்படை", "isCorrect": false, "rationale": "248 அடிகள்." }
+    ],
+    "hint": "103 அடிகள்"
+  },
+  {
+    "questionNumber": 23,
+    "question": "முல்லைப்பாட்டில் மேகத்திற்கு உவமையாகக் கூறப்பட்டுள்ள தெய்வம் யார்?",
+    "answerOptions": [
+      { "text": "திருமால் (திரிவிக்ரம அவதாரம்)", "isCorrect": true, "rationale": "மாவலி வார்த்த நீர் கையில் பட்டதும் விண்ணுயர வளர்ந்த திருமாலைப் போல மேகம் எழுந்தது." },
+      { "text": "சிவன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முருகன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இந்திரன்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மாவலி கதை தொடர்புடையவர்"
+  },
+  {
+    "questionNumber": 24,
+    "question": "முல்லைப்பாட்டில் தலைவிக்காக நிமித்தம் (விரிச்சி) கேட்கச் சென்றவர்கள் யார்?",
+    "answerOptions": [
+      { "text": "பெருமுது பெண்டிர்", "isCorrect": true, "rationale": "வயதில் முதிர்ந்த பெண்கள் ஊர் எல்லைக்குச் சென்று விரிச்சி கேட்டனர்." },
+      { "text": "தோழியர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பாணர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவலர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "வயதான பெண்கள்"
+  },
+  {
+    "questionNumber": 25,
+    "question": "முல்லைப்பாட்டில் 'கொடுங்கோல் கோவலர்' என்பதில் 'கொடுங்கோல்' எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "வளைந்த கம்பு (வீசு தடி)", "isCorrect": true, "rationale": "ஆடு மாடுகளை மேய்க்க இடையர் பயன்படுத்தும் வளைந்த குச்சியே கொடுங்கோல்." },
+      { "text": "கொடிய ஆட்சி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "செங்கோல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அம்பு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "இடையர் கையில் உள்ளது"
+  },
+  {
+    "questionNumber": 26,
+    "question": "நாலடியார் பாடலின்படி, செல்வம் ஒருவரிடம் நிலைத்து நிற்காமல் எதைப் போல சுழன்று வரும்?",
+    "answerOptions": [
+      { "text": "வண்டியின் சக்கரம் போல", "rationale": "நாலடியார் பாடல் 2-ல், 'சகடக்கால் போல வரும்' என்று செல்வம் வண்டிச் சக்கரம் போல ஒருவரிடம் நில்லாமல் சுழன்று வரும் என்று குறிப்பிடப்பட்டுள்ளது.", "isCorrect": true },
+      { "text": "காற்றாடி போல", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நீர் குமிழி போல", "rationale": "உடல் நிலையாமை.", "isCorrect": false },
+      { "text": "மின்னல் போல", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சகடக்கால்"
+  },
+  {
+    "questionNumber": 27,
+    "question": "நாலடியார் யாக்கையை (உடலை) எதற்கு உவமையாகக் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "மழை பெய்யும்போது தோன்றும் நீர்க்குமிழி", "rationale": "பாடல் 27-ல், 'படுமழை மொக்குளின் பல்காலும் தோன்றி' என்று உடல் நீர்க்குமிழி போலத் தோன்றி அழியும் இயல்புமுடையது எனக் கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "கடல் அலை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மணல் வீடு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கானல் நீர்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நீர்க்குமிழி"
+  },
+  {
+    "questionNumber": 28,
+    "question": "நாலடியார் கல்வியை எதற்கு ஒப்பிடுகிறது?",
+    "answerOptions": [
+      { "text": "உண்மையான அழகு", "rationale": "பாடல் 131-ல், 'கல்வி அழகே அழகு' என்று, தலைமுடி அழகோ, ஆடை அழகோ அழகல்ல, கல்வியே ஒருவனுக்கு உண்மையான அழகு என்று கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "அழியாத செல்வம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கூரிய வாள்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காவல் அரண்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "அழகே அழகு"
+  },
+  {
+    "questionNumber": 29,
+    "question": "பெரியார் கேண்மை (நட்பு) எதைப் போன்றது என்று நாலடியார் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "வளர்பிறை போல நாளும் வளரும்", "rationale": "பாடல் 125-ல், பெரியவர்களின் நட்பு வளர்பிறை போல நாளுக்கு நாள் வளரும் என்றும், சிறியார் நட்பு தேய்பிறை போலத் தேயும் என்றும் கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "தேய்பிறை போலக் குறையும்", "rationale": "சிறியார் நட்பு.", "isCorrect": false },
+      { "text": "கடல் போல ஆழமானது", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மலை போல உயர்ந்தது", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "வளர்பிறை"
+  },
+  {
+    "questionNumber": 30,
+    "question": "சான்றோர்களின் கோபம் எதைப் போன்றது என்று நாலடியார் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "வெந்நீர் போல", "rationale": "பாடல் 68-ல், 'நீர்கொண்ட வெப்பம் போல் தானே தணியுமே' என்று, சுடவைக்கப்பட்ட நீர் தானே ஆறிவிடுவது போல, சான்றோர் சினம் தானாகவே தணிந்துவிடும் என்று கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "நெருப்பு போல", "rationale": "அழிக்கும் தன்மை.", "isCorrect": false },
+      { "text": "இடி மின்னல் போல", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கல் போல", "rationale": "மாறாதது.", "isCorrect": false }
+    ],
+    "hint": "சுடவைத்த நீர்"
+  },
+  {
+    "questionNumber": 31,
+    "question": "நான்மணிக்கடிகை நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "விளம்பி நாகனார்", "rationale": "நான்மணிக்கடிகையை இயற்றியவர் விளம்பி நாகனார் ஆவார்.", "isCorrect": true },
+      { "text": "கபிலர்", "rationale": "சங்கப் புலவர்.", "isCorrect": false },
+      { "text": "பெருவாயின் முள்ளியார்", "rationale": "ஆசாரக்கோவை ஆசிரியர்.", "isCorrect": false },
+      { "text": "பூதஞ்சேந்தனார்", "rationale": "இனியவை நாற்பது ஆசிரியர்.", "isCorrect": false }
+    ],
+    "hint": "விளம்பி ஊர் புலவர்"
+  },
+  {
+    "questionNumber": 32,
+    "question": "நான்மணிக்கடிகை எந்த இலக்கியத் தொகுப்பைச் சேர்ந்தது?",
+    "answerOptions": [
+      { "text": "பதினெண் கீழ்க்கணக்கு", "rationale": "நான்மணிக்கடிகை பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்.", "isCorrect": true },
+      { "text": "பதினெண் மேற்கணக்கு", "rationale": "எட்டுத்தொகை, பத்துப்பாட்டு.", "isCorrect": false },
+      { "text": "சங்கம் மருவிய காலம்", "rationale": "காலம், தொகுப்பல்ல.", "isCorrect": false },
+      { "text": "காப்பியங்கள்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "கீழ்க்கணக்கு நூல்கள்"
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஒரு பெண்ணுக்கு உண்மையான அணிகலன் என்று நான்மணிக்கடிகை எதைக் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "நாணம்", "rationale": "பாடல் 11: 'பெண்மை நலத்துக்கு அணியென்ப நாணம்'.", "isCorrect": true },
+      { "text": "தாமரை", "rationale": "குளத்திற்கு அணி.", "isCorrect": false },
+      { "text": "நெல்", "rationale": "நிலத்திற்கு அணி.", "isCorrect": false },
+      { "text": "அறம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பெண்மைக்கு அணி"
+  },
+  {
+    "questionNumber": 34,
+    "question": "மனைக்கு (வீட்டிற்கு) விளக்கமாக இருப்பவர் யார் என்று நான்மணிக்கடிகை கூறுகிறது?",
+    "answerOptions": [
+      { "text": "மடவார் (பெண்கள்)", "rationale": "பாடல் 105: 'மனைக்கு விளக்கம் மடவார்'.", "isCorrect": true },
+      { "text": "புதல்வர்", "rationale": "பெண்களுக்கு விளக்கம்.", "isCorrect": false },
+      { "text": "கணவன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கல்வி", "rationale": "புதல்வருக்கு விளக்கம்.", "isCorrect": false }
+    ],
+    "hint": "மனைக்கு விளக்கம்"
+  },
+  {
+    "questionNumber": 35,
+    "question": "நாக்கினால் அறியப்படுவது எது என்று நான்மணிக்கடிகை கூறுகிறது?",
+    "answerOptions": [
+      { "text": "இனியவை", "rationale": "பாடல் 78: 'நாக்கி னறிப இனியதை'.", "isCorrect": true },
+      { "text": "மலர்", "rationale": "மூக்கினால்.", "isCorrect": false },
+      { "text": "அணி", "rationale": "கண்ணால்.", "isCorrect": false },
+      { "text": "பொருள்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சுவை"
+  },
+  {
+    "questionNumber": 36,
+    "question": "நன்னூல் என்னும் இலக்கண நூலை இயற்றியவர் யார்?",
+    "answerOptions": [
+      { "text": "பவணந்தி முனிவர்", "rationale": "நன்னூலை இயற்றியவர் பவணந்தி முனிவர் ஆவார்.", "isCorrect": true },
+      { "text": "தொல்காப்பியர்", "rationale": "தொல்காப்பியம் இயற்றியவர்.", "isCorrect": false },
+      { "text": "அகத்தியர்", "rationale": "அகத்தியம் இயற்றியவர்.", "isCorrect": false },
+      { "text": "புத்தமித்திரர்", "rationale": "வீரசோழியம் இயற்றியவர்.", "isCorrect": false }
+    ],
+    "hint": "பவணந்தி"
+  },
+  {
+    "questionNumber": 37,
+    "question": "நன்னூல் இயற்றப்படுவதற்குத் தூண்டுகோலாக இருந்த மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "சீயகங்கன்", "rationale": "சீயகங்கன் என்ற சிற்றரசனின் வேண்டுகோளுக்கிணங்க நன்னூல் இயற்றப்பட்டது.", "isCorrect": true },
+      { "text": "பாண்டியன் நெடுஞ்செழியன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கரிகால சோழன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "இராஜராஜ சோழன்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "சிற்றரசன்"
+  },
+  {
+    "questionNumber": 38,
+    "question": "நன்னூலின் படி சார்பெழுத்துகள் எத்தனை வகைப்படும்?",
+    "answerOptions": [
+      { "text": "பத்து", "rationale": "உயிர்மெய், ஆய்தம், உயிரளபெடை உள்ளிட்ட பத்து வகைப்படும்.", "isCorrect": true },
+      { "text": "ஐந்து", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மூன்று", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஆறு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பத்து வகைகள்"
+  },
+  {
+    "questionNumber": 39,
+    "question": "பகுபத உறுப்புகள் எத்தனை என்று நன்னூல் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "ஆறு", "rationale": "பகுதி, விகுதி, இடைநிலை, சாரியை, சந்தி, விகாரம் என ஆறு உறுப்புகள் உள்ளன.", "isCorrect": true },
+      { "text": "ஐந்து", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "எட்டு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நான்கு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஆறு உறுப்புகள்"
+  },
+  {
+    "questionNumber": 40,
+    "question": "வேற்றுமை எத்தனை வகைப்படும்?",
+    "answerOptions": [
+      { "text": "எட்டு", "rationale": "முதல் வேற்றுமை முதல் எட்டாம் வேற்றுமை வரை எட்டு வகைப்படும்.", "isCorrect": true },
+      { "text": "ஆறு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஏழு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஐந்து", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "எழுவாய் முதல் விளி வரை"
+  },
+  {
+    "questionNumber": 41,
+    "question": "நற்றிணை நூலைத் தொகுப்பித்தவர் யார்?",
+    "answerOptions": [
+      { "text": "பன்னாடு தந்த மாறன் வழுதி", "rationale": "நற்றிணை நூலைத் தொகுப்பித்தவர் பன்னாடு தந்த மாறன் வழுதி ஆவார்.", "isCorrect": true },
+      { "text": "பூரிக்கோ", "rationale": "குறுந்தொகை தொகுத்தவர்.", "isCorrect": false },
+      { "text": "உருத்திரசன்மன்", "rationale": "அகநானூறு தொகுத்தவர்.", "isCorrect": false },
+      { "text": "உப்பூரிக்குடி கிழார்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பாண்டிய மன்னன்"
+  },
+  {
+    "questionNumber": 42,
+    "question": "நற்றிணைப் பாடல்களின் அடிவரையறை (Line limit) என்ன?",
+    "answerOptions": [
+      { "text": "9 முதல் 12 அடி வரை", "rationale": "நற்றிணைப் பாடல்கள் சிறுமை 9 அடியையும், உயர்வு 12 அடியையும் கொண்டவை.", "isCorrect": true },
+      { "text": "4 முதல் 8 அடி வரை", "rationale": "குறுந்தொகை.", "isCorrect": false },
+      { "text": "13 முதல் 31 அடி வரை", "rationale": "அகநானூறு.", "isCorrect": false },
+      { "text": "3 முதல் 6 அடி வரை", "rationale": "ஐங்குறுநூறு.", "isCorrect": false }
+    ],
+    "hint": "9 முதல் 12"
+  },
+  {
+    "questionNumber": 43,
+    "question": "நற்றிணையில் ஆசிரியர் பெயர் தெரியாத பாடல்கள் எத்தனை உள்ளன?",
+    "answerOptions": [
+      { "text": "56", "rationale": "நற்றிணையில் 56 பாடல்களின் ஆசிரியர் அறியப்படவில்லை.", "isCorrect": true },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "100", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "25", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "56 பாடல்கள்"
+  },
+  {
+    "questionNumber": 44,
+    "question": "'முந்தை இருந்து நட்டோர் கொடுப்பின் நஞ்சும் உண்பர் நனி நாகரிகர்' - இவ்வரி இடம் பெற்ற சங்க நூல் எது?",
+    "answerOptions": [
+      { "text": "நற்றிணை", "rationale": "இவ்வரி நற்றிணையின் 355-ஆம் பாடலில் இடம்பெற்றுள்ளது.", "isCorrect": true },
+      { "text": "குறுந்தொகை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "புறநானூறு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அகநானூறு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நல்ல திணை"
+  },
+  {
+    "questionNumber": 45,
+    "question": "நற்றிணையில் 'வேத முதல்வன்' என்று யாரை கடவுள் வாழ்த்து பாடல் குறிப்பிடுகிறது?",
+    "answerOptions": [
+      { "text": "திருமால்", "rationale": "'மா நிலம் சேவடி ஆக' எனத் தொடங்கும் பாடல் திருமாலைப் (வேத முதல்வன்) போற்றுகிறது.", "isCorrect": true },
+      { "text": "சிவன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "முருகன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "இந்திரன்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "திகிரியோன்"
+  },
+  {
+    "questionNumber": 46,
+    "question": "நெடுநல்வாடை என்னும் பெயரில் 'நெடு' மற்றும் 'நல்' என்னும் அடைமொழிகள் உணர்த்தும் பொருள் யாது?",
+    "answerOptions": [
+      { "text": "தலைவிக்கு நீண்ட துயரத் தருணமாகவும், தலைவனுக்கு வெற்றி தரும் நல்ல காலமாகவும் அமைந்தது", "rationale": "பிரிந்து வருந்தும் தலைவிக்கு 'நெடிதாகிய' வாடையாகவும், போரில் வெல்லும் தலைவனுக்கு 'நல்ல' வாடையாகவும் அமைந்ததால் இப்பெயர் பெற்றது.", "isCorrect": true },
+      { "text": "தலைவனுக்கு நீண்ட போராகவும், தலைவிக்கு நல்ல காலமாகவும் அமைந்தது", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பாடல் வரிகள் நீண்டதாகவும், நல்ல கருத்துக்களைக் கொண்டதாகவும் அமைந்தது", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாடைக்காற்று நீண்ட நேரம் வீசியதால் இப்பெயர் பெற்றது", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தலைவன் மற்றும் தலைவிக்கு வெவ்வேறாக அமைந்தது"
+  },
+  {
+    "questionNumber": 47,
+    "question": "நெடுநல்வாடை பாடலில் குறிப்பிடப்படும் பருவம் (Season) எது?",
+    "answerOptions": [
+      { "text": "கூதிர் பருவம்", "rationale": "'கூதிர்ப் பானாள்' (வரி 12) என்று பாடலில் கூதிர் பருவம் (குளிர்காலம்) குறிப்பிடப்பட்டுள்ளது.", "isCorrect": true },
+      { "text": "இளவேனில் பருவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "முன்பனிப் பருவம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கார் பருவம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஐப்பசி, கார்த்திகை மாதம்"
+  },
+  {
+    "questionNumber": 48,
+    "question": "நெடுநல்வாடையில் 'பொன் போல்' மலர்வதாகக் குறிப்பிடப்படும் பூ எது?",
+    "answerOptions": [
+      { "text": "பீரம் (Luffa)", "rationale": "சரி. 'பொன்போற் பீரமொடு புதற்புதன் மலர' - பீர்க்கம்பூ பொன் போல மலர்ந்தது.", "isCorrect": true },
+      { "text": "கொன்றை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வேங்கை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செவ்வந்தி", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பீர்க்கம்பூ"
+  },
+  {
+    "questionNumber": 49,
+    "question": "நெடுநல்வாடையில் மாலை நேரத்தில் பெண்கள் எதனைத் தூவி இல்லுறை தெய்வத்தை வழிபட்டனர்?",
+    "answerOptions": [
+      { "text": "நெல்லும் மலரும்", "rationale": "'நெல்லு மலருந் தூஉய்க்கை தொழுது' - நெல்லையும் மலரையும் தூவி வழிபட்டனர்.", "isCorrect": true },
+      { "text": "சந்தனமும் குங்குமமும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பொரியும் அவலும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நீரும் பாலும்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "நாழியில் கொண்டது"
+  },
+  {
+    "questionNumber": 50,
+    "question": "நெடுநல்வாடையில் 'யவனர் இயற்றிய வினைமாண் பாவை' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "கையில் விளக்கேந்திய பாவை விளக்கு", "rationale": "'கையேந் தையக னிறையநெய் சொரிந்து' - கையில் தகளி ஏந்திய பாவை விளக்கை யவனர் செய்ததாகக் குறிப்பிடப்பட்டுள்ளது.", "isCorrect": true },
+      { "text": "யவனர்கள் செய்த பொம்மை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "யவனர் வடித்து வைத்த சிற்பம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "யவன தேசத்து ஆடை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பாவை விளக்கு"
+  }
+]

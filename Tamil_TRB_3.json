@@ -1,0 +1,1387 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தமிழில் 'இரட்டைக்காப்பியங்கள்' என்று அழைக்கப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகாரமும் மணிமேகலையும்",
+        "rationale": "கதாலும், காலத்தாலும், கருத்தாலும் ஒன்றோடு ஒன்று தொடர்புடையதால் சிலப்பதிகாரமும் மணிமேகலையும் இரட்டைக்காப்பியங்கள் எனப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இராமாயணமும் மகாபாரதமும்",
+        "rationale": "இவை இதிகாசங்கள் ஆகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குண்டலகேசியும் வளையாபதியும்",
+        "rationale": "இவை ஐம்பெருங்காப்பியங்களில் மற்ற இரண்டு நூல்களாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகாரமும் சீவகசிந்தாமணியும்",
+        "rationale": "இவை இரண்டும் கதையோட்டத்தில் நேரடித் தொடர்பு அற்றவை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்றனுக்கொன்று கருவால், உருவால், காவியத் தொடர்ச்சியால் பின்னிப் பிணைந்தவை."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தொல்காப்பியர் கூறும் நூல் வகைகளுள் காப்பியங்கள் எவ்வகையைச் சாரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருந்து",
+        "rationale": "விருந்து என்பது புதுமையைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொன்மை",
+        "rationale": "பழைய வரலாறுகளைக் கூறுதால் காப்பியங்கள் 'தொன்மை' என்னும் பிரிவைச் சார்ந்தவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோல்",
+        "rationale": "தோல் என்பது இழுமென் மொழியால் விழுமியது நுவல்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "இயைபு என்பது இறுதி எழுத்து ஒன்றி வருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழைமை வாய்ந்த கதையைக் கூறுவது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "சிலப்பதிகாரத்தை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சீத்தலைச் சாத்தனார்",
+        "rationale": "இவர் மணிமேகலையை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளங்கோவடிகள்",
+        "rationale": "சேர மன்னர் மரபில் வந்த இளங்கோவடிகள் சிலப்பதிகாரத்தை இயற்றினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருத்தக்கதேவர்",
+        "rationale": "இவர் சீவகசிந்தாமணியின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கம்பர்",
+        "rationale": "இவர் கம்பராமாயணத்தின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வரந்தரு காதையில் 'யானும் சென்றேன்' என்று தன்னைக் குறிப்பிட்டுக் கொண்டவர்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "மணிமேகலை எம்மதத்தைச் சார்ந்த காப்பியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சைவம்",
+        "rationale": "சைவம் சிவனை வழிபடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைணவம்",
+        "rationale": "வைணவம் திருமாலை வழிபடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌத்தம்",
+        "rationale": "மணிமேகலை தமிழின் முதல் பௌத்த சமயக் காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமணம்",
+        "rationale": "சமணம் தீர்த்தங்கரர்களை வழிபடுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புத்தரின் அறவழியைப் போற்றும் நூல்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "மணிமேகலை யாரிடம் முதல் பிச்சை ஏற்றாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆதிரை",
+        "rationale": "தீவதிலகையின் அறிவுரைப்படி கற்புக்கரசி ஆதிரையிடம் மணிமேகலை முதன்முதலில் பிச்சை பெற்றாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாதவி",
+        "rationale": "மாதவி மணிமேகலையின் தாய்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுதமதி",
+        "rationale": "சுதமதி மணிமேகலையின் தோழி.",
+        "isCorrect": false
+      },
+      {
+        "text": "சித்திராபதி",
+        "rationale": "சித்திராபதி மாதவியின் தாய்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புகார் நகரத்துப் பத்தினிப் பெண்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "பொய்கையார் யாரை மீட்கக் கருதிப் பாடியதாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இராஜராஜ சோழன்",
+        "rationale": "ஆவணத்தில் இராஜராஜ சோழன் பற்றிய குறிப்பு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் கணைக்காலிரும்பொறை",
+        "rationale": "உண்ணுநீர் வேண்டிப் பெறாது உயிர் துறந்ததாகப் புறநானூறு கூறும் சேரன் கணைக்காலிரும்பொறையை மீட்க பொய்கையார் பாடியிருக்கலாம் எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "இது தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகாலன்",
+        "rationale": "கரிகாலன் சோழ மன்னன், சேரன் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புறநானூற்றில் தண்ணீர் கிடைக்காமல் உயிர் துறந்ததாகக் கூறப்படும் சேர மன்னர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "யானையின் தும்பிக்கையிலிருந்து குருதி வழிவதை எதைப் பையிலிருந்து சொரிவது போல் உள்ளதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்து",
+        "rationale": "முத்து வெண்மை நிறமுடையது, குருதி சிவப்பானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "கவளங்கொள் யானையின் கை துணிக்கப்பட்டு பவளம் சொரிதரும் பை போல் குருதி உமிழும் என்று பாடலில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தங்கம் குருதி நிறத்திற்கு உவமையாகாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாணிக்கம்",
+        "rationale": "மாணிக்கம் சிவப்பு என்றாலும், நூலில் பவளம் என்றே குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடலில் கிடைக்கும் ஒரு சிவந்த விலையுயர்ந்த பொருள்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "ஐந்திணை ஐம்பது நூலில் கருமேகங்கள் யாருடைய நிறத்தைப் போன்றவை என்று வருணிக்கப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "சிவன் செம்மை நிறத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாயோன் (திருமால்)",
+        "rationale": "மாயோன் நிறம் போன்ற கருமுகில்கள் என்று நூலில் வருணிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "முருகன் ஒப்புமை வேலுக்குக் கூறப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் பற்றிய குறிப்பு இதில் இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விஷ்ணுவின் மற்றொரு பெயர்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "‘திரிகடுகம்’ நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லாதனார்",
+        "rationale": "திரிகடுகம் நூலின் ஆசிரியர் நல்லாதனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருத்து என்னும் ஊரைச் சார்ந்தவர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "திரிகடுகம் குறிக்கும் மூன்று மருந்துப் பொருட்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏலம், இலவங்கம், நாககேசரம்",
+        "rationale": "இவை ஏலாதிக்கு உரியவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுக்கு, மிளகு, திப்பிலி",
+        "rationale": "திரிகடுகம் என்பது சுக்கு, மிளகு, திப்பிலி ஆகிய மூன்று மருந்துப் பொருட்களைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடுக்காய், நெல்லிக்காய், தான்றிக்காய்",
+        "rationale": "இது திரிபலா.",
+        "isCorrect": false
+      },
+      {
+        "text": "சீரகம், வெந்தயம், ஓமம்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரமான மூன்று மருத்துவப் பொருட்கள்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "ஆசாரக்கோவையின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு. இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "தவறு. இவர் நான்மணிக்கடிகை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருவாயின் முள்ளியார்",
+        "rationale": "சரி. ஆசாரக்கோவையை இயற்றியவர் பெருவாயின் முள்ளியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "தவறு. இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கயத்தூர் என்னும் ஊரைச் சார்ந்தவர்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "ஆசாரக்கோவை குறிப்பிடும் 'ஆசார வித்துக்கள்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "சரி. நன்றி அறிதல், பொறையுடைமை, இன்சொல், இன்னாத செய்யாமை, கல்வி, ஒப்புரவு அறிதல், அறிவுடைமை, நல்லினத்தாரோடு நட்டல் ஆகிய எட்டும் ஆசார வித்துக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 1: 'நன்றி யறிதல்...' எனத் தொடங்கும் பாடலில் எண்ணிக்கை குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வைகறையில் துயிலெழுந்து எவற்றைச் சிந்திக்க வேண்டும் என ஆசாரக்கோவை கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உணவு மற்றும் உடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லறமும் ஒண்பொருளும்",
+        "rationale": "சரி. அறத்தையும் பொருளையும் சிந்தித்து பெற்றோரைத் தொழ வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைவர் மற்றும் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேளிக்கை மற்றும் விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 4: 'நல்லறமும் ஒண்பொருளும் சிந்தித்து'."
+  },
+  {
+    "questionNumber": 14,
+    "question": "உண்ணும் போது எந்தத் திசையை நோக்கி உண்ண வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிழக்கு",
+        "rationale": "சரி. 'உண்ணுங்கால் நோக்கும் திசை கிழக்கு' என்று பாடல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 20-ல் சூரியன் உதிக்கும் திசை குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "உறங்கும் போது தலை வைக்கக் கூடாத திசைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிழக்கு மற்றும் மேற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடக்கு மற்றும் கோணம்",
+        "rationale": "சரி. வடக்கிலும், மூலைகளிலும் தலை வைக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெற்கு மற்றும் கிழக்கு",
+        "rationale": "தவறு. இவை நல்ல திசைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எத் திசையும் ஆகலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 30: காந்த திசையும் மூலைகளும்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "அகநானூற்றின் முதல் பிரிவான 'களிற்றியானை நிரை'யில் இடம்பெற்றுள்ள பாடல்களின் எண்ணிக்கை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100 பாடல்கள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "120 பாடல்கள்",
+        "rationale": "அகநானூற்றின் முதல் 120 பாடல்கள் (பாடல் 1 முதல் 120 வரை) 'களிற்றியானை நிரை' என்ற பிரிவில் அடங்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "180 பாடல்கள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "400 பாடல்கள்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "அகநானூற்றின் 69-வது பாடலில், 'விண்பொரு நெடுங்குடை இயல்தேர்' என்று சிறப்பிக்கப்படும் மன்னர் வம்சம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேரர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மோரியர்",
+        "rationale": "பாடல் 69-ல் 'விண்பொரு நெடுங்குடை இயல்தேர் மோரியர்' என்று மோரியர் மன்னர்கள் குறிப்பிடப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "அகநானூற்றுப் பாடல் 36-ல் தலையாலங்கானத்துச் செருவென்ற நெடுஞ்செழியனால் தோற்கடிக்கப்பட்ட மன்னர்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுவர்",
+        "rationale": "பாடல் 36-ல் ஏழு குறுநில மன்னர்கள் 'எழுவர் நல்வலம் அடங்க' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூவர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பதின்மர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "பாடல் 55-ல் 'வெண்ணிப் பறந்தலை' போரில் கரிகாலனிடம் தோல்வியுற்றதால் வடக்கிருந்து உயிர் நீத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேரலாதன்",
+        "rationale": "பாடல் 55-ல் கரிகாலனிடம் புண்பட்டு நாணிய சேரலாதன் வடக்கிருந்து உயிர் நீத்த செய்தி உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அதிகமான்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையமான்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "அகநானூற்றின் 'மணிமிடை பவளம்' என்னும் பிரிவு எத்தனையாவது பாடல் முதல் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "121",
+        "rationale": "அகநானூற்றின் இரண்டாம் பகுதியான மணிமிடை பவளம் பாடல் 121 முதல் 300 வரை கொண்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "301",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "101",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "அகப்பொருள் விளக்கம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாற்கவிராச நம்பி",
+        "rationale": "அகப்பொருள் விளக்கம் நூலை இயற்றியவர் நாற்கவிராச நம்பி ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் அகத்தியம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் திருப்புலிங்குடி உய்யவந்தான் என்பவரின் புதல்வர்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "அகப்பொருள் விளக்கம் எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "அகத்திணை இயல், களவியல், வரைவியல், கற்பியல், ஒழிபியல் என ஐந்து இயல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணை, களவு, வரைவு, கற்பு, ஒழிபு ஆகியன."
+  },
+  {
+    "questionNumber": 23,
+    "question": "அகப்பொருளுக்குரிய பொருள்கள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "முதற்பொருள், கருப்பொருள், உரிப்பொருள் என மூன்று வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல், கரு, உரி ஆகியன."
+  },
+  {
+    "questionNumber": 24,
+    "question": "முதற்பொருள் என்பது எவற்றைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெய்வம் மற்றும் மக்கள்",
+        "rationale": "இவை கருப்பொருள்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலமும் பொழுதும்",
+        "rationale": "நிலம் மற்றும் பொழுது ஆகிய இரண்டும் முதற்பொருள் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புணர்தலும் பிரிதலும்",
+        "rationale": "இவை உரிப்பொருள்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரம் மற்றும் விலங்கு",
+        "rationale": "இவை கருப்பொருள்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காலமும் இடமும் சார்ந்தது."
+  },
+  {
+    "questionNumber": 25,
+    "question": "குறிஞ்சி நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "திருமால் முல்லை நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேயோன் (முருகன்)",
+        "rationale": "சேயோன் என்று அழைக்கப்படும் முருகன் குறிஞ்சி நில தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் மருத நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் நெய்தல் நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையில் உறையும் கடவுள்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "ஐங்குறுநூறு நூலைத் தொகுத்தவர் (அல்லது அருளியவர்) யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூடலூர் கிழார்",
+        "rationale": "நூல் தலைப்பில் 'ஐங்குறுநூறு கூடலூர் கிழார் அருளியது' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓரம்போகியார்",
+        "rationale": "இவர் மருதத் திணையைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேனா. அப்புசாமி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உ.வே. சாமிநாதையர்",
+        "rationale": "இவர் பதிப்பாசிரியர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஐங்குறுநூற்றைத் தொகுப்பித்த சேர மன்னன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானைக்கட்சேய் மாந்தரன் சேரல் இரும்பொறை",
+        "rationale": "நூல் குறிப்பில் இந்த மன்னனின் வேண்டுகோளின்படி தொகுக்கப்பட்டதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேரன் செங்குட்டுவன்",
+        "rationale": "இவர் சிலப்பதிகாரக் காப்பியத் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இமயவரம்பன் நெடுஞ்சேரலாதன்",
+        "rationale": "பதிற்றுப்பத்து இரண்டாம் பத்தின் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்யானைச் செல்கெழு குட்டுவன்",
+        "rationale": "பதிற்றுப்பத்து மூன்றாம் பத்தின் தலைவன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "வேட்கைப் பத்தின் பாடல்களில் (1-10) அரசனை வாழ்த்திப் பாடப்படும் தொடர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாழி ஆதன் வாழி அவினி",
+        "rationale": "வேட்கைப் பத்தின் ஒவ்வொரு பாடலும் இந்த வாழ்த்துடன் தொடங்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாழி வேந்தே வாழி மன்னா",
+        "rationale": "இத்தொடர் பாடல்களில் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழி குட்டுவன் வாழி பொறுப்பன்",
+        "rationale": "இப்பெயர்கள் வேட்கைப் பத்தில் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழி பாரி வாழி ஓரி",
+        "rationale": "வள்ளல்கள் இங்கு குறிப்பிடப்படவில்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "வேழப் பத்தில் 'வேழம்' என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரும்பு போன்ற ஒரு வகை புல் (நாணல்)",
+        "rationale": "வேழம் என்பது வயல் ஓரங்களில் வளரும் நாணல் அல்லது புல் வகையைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானை",
+        "rationale": "யானை என்ற பொருளும் உண்டு, ஆனால் இப்பாடல்களில் பயிர் வகையாகவே வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூங்கில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "கள்வன் பத்தில் 'கள்வன்' என்று அழைக்கப்படும் உயிரினம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நண்டு (புள்ளிக் கள்வன்)",
+        "rationale": "பாடல்களில் 'புள்ளிக் கள்வன்' என்று நண்டைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருடன்",
+        "rationale": "இது மனிதத் திருடனைக் குறிக்கவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "ஐந்திணை ஐம்பது நூலில் (பாடல் 38) பிணைமான் இனிதுண்ண வேண்டி, தன் கள்ளத்தால் நீர் ஊச்சும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலைமா",
+        "rationale": "ஆண் மான் (கலைமா) தன் துணை மான் நீர் அருந்த, தான் அருந்துவது போலத் நடித்து நீரை ஊச்சும் என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "களிறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குரங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செந்நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது பாலைத் திணையின் அன்பைக் குறிக்கும் பாடல்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "திணைமொழி ஐம்பது நூலின் முல்லைத் திணையில் (பாடல் 21) மலர்களுடன் ஒப்பிடப்படும் தலைவியின் உடல் உறுப்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறுவல் (பல்)",
+        "rationale": "குருகிலை (சிறு முல்லை இலை) போலவும் தலைவியின் பற்கள் ஒப்பிடப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூந்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிரிக்கும்போது தெரியும் உறுப்பு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஐந்திணை எழுபது நூலின் மருதத் திணையில் (பாடல் 45) தலைவியின் மகனை மார்பின்மேல் அணைக்க வரும் தலைவனின் நோக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஊடலைத் தணிப்பது",
+        "rationale": "தலைவன் ஊடலைத் தணிக்கும் பொருட்டு, மகனை அணைக்க வருவதன் மூலம் தலைவியின் கோபத்தைக் குறைக்க முயல்கிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதல்வனை மகிழ்விப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரத்தையரை நினைப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் ஈட்டுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊடல் சூழலைக் காண்க."
+  },
+  {
+    "questionNumber": 34,
+    "question": "இன்னிலை நூலின் அறப்பால் பகுதியில் 'தாம்ஈட்(டு) அருவினைகள் தண்டா உடம்(பு)ஒன்ற' என்று எந்தத் தத்துவம் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறப்பு இறப்பு (சுழற்சி)",
+        "rationale": "தாம் செய்த வினைகள் உடலை விட்டுப் பிரியாமல் மீண்டும் பிறப்பு இறப்புச் சுழற்சியை ஏற்படுத்தும் என்று கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீடுபேறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறப்பு இறப்புப் போகா என்ற தொடர்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "திணைமொழி ஐம்பது நூலின் குறிஞ்சித் திணையில் (பாடல் 6) தலைவியின் உறவினர் எதைக் கண்டால் சினம் கொள்வார்கள் என்று தோழி கூறுகிறாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலைவன் புனத்துக்கு வருவது",
+        "rationale": "தலைவன் ஏனல் உள்ள புனத்துக்கு வந்தால், உறவினர் அதனைக் கண்டு சினம் கொள்வார்கள் என்று தோழி கூறுகிறாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள் தேடிச் செல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சந்தன மரத்தை வெட்டுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேர் ஓட்டுவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காணினும் காய்வர் எமர் என்ற வரியைக் காண்க."
+  },
+  {
+    "questionNumber": 36,
+    "question": "ஐந்திணை ஐம்பது நூலின் பாயிரப் பாடல், இந்நூலை இயற்றியவர் என்று யாரைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாறன் பொறையனார்",
+        "rationale": "பாயிரப் பாடலில் 'மாறன் பொறையன் புணர்த்தியாத்த ஐந்திணை ஐம்பது' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூவாதியார்",
+        "rationale": "இவர் ஐந்திணை எழுபது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணன் சேந்தனார்",
+        "rationale": "இவர் திணைமொழி ஐம்பது ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்கையார்",
+        "rationale": "இவர் இன்னிலை ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பாயிரத்தில் ஆசிரியர் பெயர் உள்ளது."
+  },
+  {
+    "questionNumber": 37,
+    "question": "ஐந்திணை எழுபது நூலை இயற்றிய மூவாதியார் எந்த நூற்றாண்டைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கி. பி. ஐந்தாம் நூற்றாண்டு",
+        "rationale": "நூலின் தலைப்பில் ஆசிரியர் காலம் கி. பி. ஐந்தாம் நூற்றாண்டு என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கி. பி. நான்காம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி. பி. இரண்டாம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கி. பி. மூன்றாம் நூற்றாண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "ஐந்திணை எழுபது நூலின் கடவுள் வாழ்த்துப் பாடலில் குறிப்பிடப்படும் தெய்வம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விநாயகர் (களிறு)",
+        "rationale": "கடவுள் வாழ்த்துப் பாடலில் 'கண்டத்தான் ஈன்ற களிறு' என்று விநாயகர் குறிப்பிடப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவன் ஈன்ற யானை முகக் கடவுள்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "இன்னிலை நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்கையார்",
+        "rationale": "நூலின் தலைப்பில் 'இன்னிலை (பொய்கையார்)' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "இன்னிலை நூல் எத்தனை பால்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறப்பால், இன்பப்பால், வீட்டுப்பால்",
+        "rationale": "நூலில் இந்த மூன்று பெரும் பிரிவுகள் தலைப்புகளாக உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறத்துப்பால், பொருட்பால், காமத்துப்பால்",
+        "rationale": "இது திருக்குறள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகம், புறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண்பா, ஆசிரியப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "நேமிநாதம் குறிப்பிடும் முதல் எழுத்துக்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "30",
+        "rationale": "தொல்காப்பியம் கூறுவது 30.",
+        "isCorrect": false
+      },
+      {
+        "text": "31",
+        "rationale": "உயிர் 12, மெய் 18, ஆய்தம் 1 ஆக மொத்தம் 31 எழுத்துக்கள் முதல் வைப்பு என்று நேமிநாதம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "247",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயிர், மெய் மற்றும் ஆய்தம்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "நெடில் எழுத்துக்களின் மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "நெடில் எழுத்துக்கள் இரண்டு மாத்திரை அளவுடையன.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிலை விட இரு மடங்கு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "எழுத்துக்கள் பிறக்கும் இடங்களாக நேமிநாதம் எவற்றைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலை, கழுத்து, நெஞ்சு",
+        "rationale": "நெஞ்சு, தலை, கண்டம் (கழுத்து) ஆகிய மூன்றும் எழுத்துக்கள் பிறக்கும் இடங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கை, கால், கண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயிறு, மார்பு, முதுகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாக்கு, பல், இதழ்",
+        "rationale": "இவை உறுப்புகள்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "புணர்ச்சியின் போது தோன்றும் விகாரங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "தோன்றல், திரிதல், கெடுதல் என விகாரம் மூன்று வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தோன்றல், திரிதல், கெடுதல்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "பால் எத்தனை வகைப்படும் என்று நேமிநாதம் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "ஒருவன், ஒருத்தி, பலர், ஒன்று, பல எனப் பால் ஐந்து வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "சூடாமணி நிகண்டு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மண்டல புருடர்",
+        "rationale": "சூடாமணி நிகண்டு நூலை இயற்றியவர் மண்டல புருடர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திவாகர முனிவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிங்கலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் கிருஷ்ணதேவராயர் காலத்தில் வாழ்ந்த சமண முனிவர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "‘பகவன்’ என்ற சொல் குறிக்கும் பொருள்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈசன்",
+        "rationale": "‘பகவனே ஈசன் மாயோன் பங்கயன் சினனே புத்தன்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவனையும் இச்சொல் குறிக்கும்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "‘சிகரி’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபுரம்",
+        "rationale": "‘சிகரி கோபுரமே வெற்பு’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோவிலின் உயர்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 49,
+    "question": "‘திகிரி’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சக்கரம் / ஆழி",
+        "rationale": "‘திகிரியே மூங்கில் வட்டந் தேருருள் ஆழி’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈட்டி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேடயம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமாலின் கையில் இருக்கும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "‘ஆகு’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலி",
+        "rationale": "‘ஆகுவே யெலியி னாமம்’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விநாயகரின் வாகனம்."
+  }
+]

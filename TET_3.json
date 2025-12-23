@@ -1,0 +1,814 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "ஜெயகாந்தன் 'சில நேரங்களில் சில மனிதர்கள்' புதினத்திற்காக பெற்ற விருது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஞானபீட விருது",
+        "rationale": "ஜெயகாந்தன் ஞானபீட விருது பெற்றார், ஆனால் அது இப்புதினத்திற்காக அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாகித்திய அகாதெமி விருது",
+        "rationale": "'சில நேரங்களில் சில மனிதர்கள்' என்ற புதினத்திற்காக ஜெயகாந்தன் சாகித்திய அகாதெமி விருது பெற்றார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குடியரசுத் தலைவர் விருது",
+        "rationale": "இது 'உன்னைப்போல் ஒருவன்' திரைப்படத்திற்காகக் கிடைத்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோவியத் நாட்டு விருது",
+        "rationale": "இது 'இமயத்துக்கு அப்பால்' நூலுக்காகக் கிடைத்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது இந்திய அரசால் இலக்கியத்திற்காக வழங்கப்படும் மதிப்புமிக்க விருதுகளில் ஒன்றாகும்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தமிழ் இலக்கணம் கூறும் நூலின் நான்கு பயன்களில் பொருந்தாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அறம்", "rationale": "இது நூலின் பயன்களில் ஒன்று.", "isCorrect": false },
+      { "text": "பொருள்", "rationale": "இது நூலின் பயன்களில் ஒன்று.", "isCorrect": false },
+      { "text": "இன்பம்", "rationale": "இது நூலின் பயன்களில் ஒன்று.", "isCorrect": false },
+      {
+        "text": "கலை",
+        "rationale": "நூலின் பயன்களாக 'அறம், பொருள், இன்பம், வீடு' ஆகிய நான்கே குறிப்பிடப்பட்டுள்ளன; 'கலை' அல்ல.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "நான்காவது பயன் 'வீடு' ஆகும்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "ஜெயகாந்தனை 'படிக்காத மேதை' என்று பாராட்டியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அசோகமித்திரன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "கா.செல்லப்பன்",
+        "rationale": "'படிக்காத மேதை' என்று ஜெயகாந்தனைக் குறிப்பிட்டவர் கா.செல்லப்பன் ஆவார்.",
+        "isCorrect": true
+      },
+      { "text": "தீபம் இதழ்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கிருஷ்ணமணி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "'இவர்கள் பார்வையில் ஜெயகாந்தன்' என்ற பகுதியில் இவரின் கருத்து இடம்பெற்றுள்ளது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "நாகூர் ரூமியின் இயற்பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முகம்மதுரஃபி",
+        "rationale": "முகம்மதுரஃபி என்னும் இயற்பெயரைக் கொண்டவர் நாகூர் ரூமி.",
+        "isCorrect": true
+      },
+      { "text": "வீரமாமுனிவர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "குப்புசாமி", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கருணையன்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "'சித்தாளு' கவிதையின் ஆசிரியரின் இயற்பெயர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'தேம்பாவணி' காப்பியத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இயேசு கிறிஸ்து", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கருணையன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "சூசையப்பர்",
+        "rationale": "கிறித்துவின் வளர்ப்புத் தந்தையாகிய சூசையப்பர் என்னும் யோசேப்பினைப் பாட்டுடைத் தலைவனாகக் கொண்ட நூல் இது.",
+        "isCorrect": true
+      },
+      { "text": "வீரமாமுனிவர்", "rationale": "இவர் நூலாசிரியர்.", "isCorrect": false }
+    ],
+    "hint": "இவர் கிறிஸ்துவின் வளர்ப்பு தந்தை ஆவார்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "“ஒரு மொழியில் உணர்த்தப்பட்டதை வேறொரு மொழியில் வெளியிடுவது மொழிபெயர்ப்பு” – கூறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மு.கு. ஜகந்நாதர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "மணவை முஸ்தபா",
+        "rationale": "இந்த வரையறையை வழங்கியவர் மணவை முஸ்தபா ஆவார்.",
+        "isCorrect": true
+      },
+      { "text": "தொல்காப்பியர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "ராகுல் சாங்கிருத்யாயன்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இவர் 'மணவை' என்ற அடைமொழியுடன் அறியப்படுகிறார்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "மொழிபெயர்த்தல் என்ற தொடரைத் தொல்காப்பியர் எந்த இயலில் குறிப்பிட்டுள்ளார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பொருளியல்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "எழுத்ததிகாரம்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "சொல்லதிகாரம்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "மரபியல்",
+        "rationale": "தொல்காப்பியர் 'மொழிபெயர்த்தல்' என்ற தொடரை மரபியலில் குறிப்பிட்டுள்ளார்.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "பொருளதிகாரத்தில் உள்ள இயல்களில் ஒன்று."
+  },
+  {
+    "questionNumber": 8,
+    "question": "சங்க காலத்திலேயே மொழிபெயர்ப்பு இருந்ததை உணர்த்தும் செப்பேட்டுக் குறிப்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வேள்விக்குடிச் செப்பேடு", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "சின்னமனூர்ச் செப்பேடு",
+        "rationale": "'மாபாரதம் தமிழ்ப்படுத்தும்...' என்ற சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு இதனை உணர்த்துகிறது.",
+        "isCorrect": true
+      },
+      { "text": "ஆனைமலைச் செப்பேடு", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "திருப்பரங்குன்றம் செப்பேடு", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இந்தக் குறிப்பு மகாபாரதத்தைத் தமிழ்ப்படுத்துவது பற்றிக் கூறுகிறது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'வால்காவிலிருந்து கங்கை வரை' நூலை 1949-இல் தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண முத்தையா",
+        "rationale": "1949-ஆம் ஆண்டு இந்நூலை கண முத்தையா தமிழில் மொழிபெயர்த்து வெளியிட்டார்.",
+        "isCorrect": true
+      },
+      { "text": "ராகுல் சாங்கிருத்யாயன்", "rationale": "இவர் மூல ஆசிரியர்.", "isCorrect": false },
+      { "text": "யூமா வாசுகி", "rationale": "இவர் 2016-ல் மொழிபெயர்த்தவர்.", "isCorrect": false },
+      { "text": "முத்து மீனாட்சி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இவரின் மொழிபெயர்ப்பு தமிழர்களால் மிகவும் விரும்பிப் படிக்கப்பட்டது."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'சதம்' என்றால் என்ன பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பத்து", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "ஆயிரம்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "நூறு",
+        "rationale": "'சதம்' என்றால் நூறு என்று பொருள்.",
+        "isCorrect": true
+      },
+      { "text": "ஒன்று", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "சதாவதானம் என்பது நூறு செயல்களை ஒரே நேரத்தில் செய்வது."
+  },
+  {
+    "questionNumber": 11,
+    "question": "ஏற்கனவே நேர்ந்ததைக் கூறும் விடை வகை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இனமொழி விடை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "உற்றது உரைத்தல் விடை",
+        "rationale": "இது ஏற்கனவே நேர்ந்ததை (தனக்கு உற்றதை) உரைக்கும் விடையாகும்.",
+        "isCorrect": true
+      },
+      { "text": "உறுவது கூறல் விடை", "rationale": "இது இனிமேல் நடப்பதைக் கூறுவது.", "isCorrect": false },
+      { "text": "சுட்டு விடை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "'உற்றது' என்பதன் பொருள் 'நேர்ந்தது'."
+  },
+  {
+    "questionNumber": 12,
+    "question": "”இங்கு நகரப் பேருந்து நிற்குமா?” - வழிப்போக்கா் கேட்டது எவ்வகை வினா?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஐய வினா", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "அறி வினா", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "அறியா வினா",
+        "rationale": "தான் அறியாத ஒன்றைத் தெரிந்துகொள்ளக் கேட்பதால் இது 'அறியா வினா'.",
+        "isCorrect": true
+      },
+      { "text": "கொளல் வினா", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "கேள்வி கேட்பவருக்கு விடை தெரியாது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "கலைச்சொல் அறிக: SATELLITE",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நுண்ணறிவு", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "செயற்கைக் கோள்",
+        "rationale": "Satellite என்பதற்கு 'செயற்கைக் கோள்' என்பதே சரியான கலைச்சொல்.",
+        "isCorrect": true
+      },
+      { "text": "மீத்திறன் கணினி", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "சுட்டி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "விண்வெளியில் பூமியைச் சுற்றி வரும் மனிதனால் உருவாக்கப்பட்ட பொருள்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "புதுச்சேரி என்பதன் மரூஉ வடிவம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "புதுக்கோட்டை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "புதுவை",
+        "rationale": "புதுச்சேரி என்பதன் மரூஉ 'புதுவை' ஆகும்.",
+        "isCorrect": true
+      },
+      { "text": "நாகை", "rationale": "இது நாகப்பட்டினத்தின் மரூஉ.", "isCorrect": false },
+      { "text": "கோவை", "rationale": "இது கோயம்புத்தூரின் மரூஉ.", "isCorrect": false }
+    ],
+    "hint": "பெயரைச் சுருக்கி அழைப்பது 'மரூஉ' எனப்படும்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "”சொல்றேன்” என்பதன் சரியான எழுத்து வழக்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சொல்லுவேன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "சொன்னேன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "சொல்கின்றேன்",
+        "rationale": "'சொல்றேன்' என்பதன் சரியான எழுத்து வழக்கு 'சொல்கின்றேன்'.",
+        "isCorrect": true
+      },
+      { "text": "சொல்வேன்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இது நிகழ்காலத்தைக் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "நெமி, தூஉய், சுவல், கோடு - பொருத்துக:",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சக்கரம், தூவி, தோள், மலை",
+        "rationale": "நேமி-சக்கரம், தூஉய்-தூவி, சுவல்-தோள், கோடு-மலை என்பதே சரி.",
+        "isCorrect": true
+      },
+      { "text": "தோள், சக்கரம், மலை, தூவி", "rationale": "தவறான பொருத்தம்.", "isCorrect": false },
+      { "text": "மலை, தோள், தூவி, சக்கரம்", "rationale": "தவறான பொருத்தம்.", "isCorrect": false },
+      { "text": "சக்கரம், மலை, தோள், தூவி", "rationale": "தவறான பொருத்தம்.", "isCorrect": false }
+    ],
+    "hint": "இது முல்லைப்பாட்டு சொல்லும் பொருளும் பகுதியில் உள்ளது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "ஒரு சொல் பல இடங்களில் சென்று பொருளை உணர்த்தும் அணி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உவமையணி", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "தீவக அணி",
+        "rationale": "விளக்கு பல இடங்களிலும் வெளிச்சம் தருவது போல, ஒரு சொல் பல இடங்களில் பொருள் தருவது தீவக அணி.",
+        "isCorrect": true
+      },
+      { "text": "வேற்றுமையணி", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "தன்மை நவிற்சியணி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "தீவகம் என்றால் விளக்கு என்று பொருள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "காய்ந்த தாளும் தோகையும் எவ்வாறு அழைக்கப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சருகு", "rationale": "காய்ந்த இலை மட்டுமே சருகு.", "isCorrect": false },
+      {
+        "text": "சண்டு",
+        "rationale": "காய்ந்த தாளும் தோகையும் 'சண்டு' எனப்படும்.",
+        "isCorrect": true
+      },
+      { "text": "கழி", "rationale": "இது கரும்பின் அடி.", "isCorrect": false },
+      { "text": "கவை", "rationale": "இது மரத்தின் கிளை.", "isCorrect": false }
+    ],
+    "hint": "தாவரத்தின் காய்ந்த பகுதிகள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "திண்டுக்கல் மாவட்டத்தின் புகழ்பெற்ற 'சிறுமலையைப்' போற்றிப்பாடும் காப்பியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலப்பதிகாரம்",
+        "rationale": "சிலப்பதிகாரத்தில் சிறுமலையின் வளம் பற்றிப் பாடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      { "text": "கம்பராமாயணம்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "மணிமேகலை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "சீவகசிந்தாமணி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இது முத்தமிழ்க் காப்பியம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "குறளை நிரப்புக: 'உலகத் தோடொட்ட ஒழுகல் பலகற்றும் கல்லார் ________ தார்.'",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறிவிலா",
+        "rationale": "கல்லார் அறிவிலா தார் என்பதே சரியான வரிகள்.",
+        "isCorrect": true
+      },
+      { "text": "உயர்விலா", "rationale": "தவறான சொல்.", "isCorrect": false },
+      { "text": "தெளிவிலா", "rationale": "தவறான சொல்.", "isCorrect": false },
+      { "text": "நெறியிலா", "rationale": "தவறான சொல்.", "isCorrect": false }
+    ],
+    "hint": "உலகத்தோடு ஒத்து வாழாதவர் அறிவற்றவர்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "மறைந்து பூக்கும் (காட்சி தராத) மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நெருஞ்சி மலர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "பலா மலர்",
+        "rationale": "பலா மலர் வெளிப்படையாகத் தெரியாதபடி பூக்கும் தன்மை கொண்டது.",
+        "isCorrect": true
+      },
+      { "text": "பூளை மலர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கள்ளி மலர்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "பலா, அத்தி போன்றவை இதற்கு உதாரணம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "கொற்கையின் அரசனாகவும், புலவராகவும் இருந்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நெடுஞ்செழியன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "அதிவீரராம பாண்டியர்",
+        "rationale": "இவர் கொற்கையின் அரசர் மற்றும் 'காசிக்காண்டம்' பாடிய புலவர்.",
+        "isCorrect": true
+      },
+      { "text": "செங்குட்டுவன்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கீரந்தையார்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இவர் 'வெற்றி வேற்கை' நூலையும் இயற்றியவர்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "அரசனின் கல்வி, வீரம், புகழ், கருணையைப் பாடும் திணை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வாகைத் திணை", "rationale": "இது வெற்றியைப் பாடுவது.", "isCorrect": false },
+      {
+        "text": "பாடாண்திணை",
+        "rationale": "ஒரு ஆண்மகனின் குணங்களைப் புகழ்ந்து பாடுவது பாடாண் திணை.",
+        "isCorrect": true
+      },
+      { "text": "பொதுவியல் திணை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "வெட்சித் திணை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "பாடுவதற்கு தகுதியுடைய ஆண்மகனைப் பற்றிப் பாடுவது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'செந்தீ' - இதிலுள்ள இலக்கணக் குறிப்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பண்புத்தொகை",
+        "rationale": "செம்மை + தீ எனப் பிரியும்; 'மை' விகுதி மறைந்து வருவதால் பண்புத்தொகை.",
+        "isCorrect": true
+      },
+      { "text": "வினைத்தொகை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "உம்மைத்தொகை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "அடுக்குத்தொடர்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "நிறம் அல்லது பண்பைக் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "கோவலன் கதையைக் கூறி, 'அடிகள் நீரே அருளுக' என்று இளங்கோவடிகளிடம் கூறியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கம்பர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "சீத்தலைச் சாத்தனார்",
+        "rationale": "மணிமேகலையின் ஆசிரியரான இவர், இக்கதையை இளங்கோவடிகளிடம் கூறினார்.",
+        "isCorrect": true
+      },
+      { "text": "திருவள்ளுவர்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பரஞ்சோதி முனிவர்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இவரை 'இரட்டை காப்பியங்களின்' ஒரு ஆசிரியர் எனலாம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "தமிழ் மொழியில் உள்ள உயிர் எழுத்துக்களின் எண்ணிக்கை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "18", "rationale": "மெய்யெழுத்துகள்.", "isCorrect": false },
+      {
+        "text": "12",
+        "rationale": "அ முதல் ஔ வரையிலான உயிர் எழுத்துகள் 12 ஆகும்.",
+        "isCorrect": true
+      },
+      { "text": "216", "rationale": "உயிர்மெய் எழுத்துகள்.", "isCorrect": false },
+      { "text": "247", "rationale": "மொத்த எழுத்துகள்.", "isCorrect": false }
+    ],
+    "hint": "அ முதல் ஔ வரை எண்ணுங்கள்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஆய்த எழுத்தை (ஃ) ஒலிக்க ஆகும் கால அளவு (மாத்திரை) என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "1 மாத்திரை", "rationale": "குறில் எழுத்து.", "isCorrect": false },
+      { "text": "2 மாத்திரை", "rationale": "நெடில் எழுத்து.", "isCorrect": false },
+      {
+        "text": "அரை மாத்திரை",
+        "rationale": "ஆய்த எழுத்து மற்றும் மெய்யெழுத்துகளின் அளவு அரை மாத்திரை.",
+        "isCorrect": true
+      },
+      { "text": "கால் மாத்திரை", "rationale": "தவறான அளவு.", "isCorrect": false }
+    ],
+    "hint": "மெய்யெழுத்துகளுக்கும் இதே அளவுதான்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'பகற்கனவு' - இச்சொல் எவ்வகை விகாரப் புணர்ச்சி?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தோன்றல்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "திரிதல்",
+        "rationale": "பகல் + கனவு என்பதில் 'ல்' மெய் 'ற்' ஆகத் திரிந்துள்ளது.",
+        "isCorrect": true
+      },
+      { "text": "கெடுதல்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "இயல்பு", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "'ல்' என்ற எழுத்து 'ற்' ஆக மாறியுள்ளது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "எந்தச் சொற்களின் பின் வல்லினம் மிகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அது, இது", "rationale": "சுட்டுப் பெயர்கள்; மிகாது.", "isCorrect": false },
+      {
+        "text": "அந்த, இந்த",
+        "rationale": "அந்த, இந்த என்னும் சுட்டுத் திரிபுகளின் பின் வல்லினம் மிகும்.",
+        "isCorrect": true
+      },
+      { "text": "எது, யாது", "rationale": "வினாப்பெயர்கள்; மிகாது.", "isCorrect": false },
+      { "text": "வந்த, சென்ற", "rationale": "பெயரெச்சங்கள்; மிகாது.", "isCorrect": false }
+    ],
+    "hint": "சுட்டுத் திரிபுச் சொற்களைக் கவனிக்கவும்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'ஓரெழுத்து ஒருமொழி'யில் 'ஆ' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பசு",
+        "rationale": "'ஆ' என்பது பசுவைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      { "text": "நெருப்பு", "rationale": "இது 'தீ'.", "isCorrect": false },
+      { "text": "மலர்", "rationale": "இது 'பூ'.", "isCorrect": false },
+      { "text": "அரசன்", "rationale": "இது 'கோ'.", "isCorrect": false }
+    ],
+    "hint": "ஆநிரை என்றால் பசுக்கூட்டம்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'பெருமை' என்ற சொல்லின் எதிர்ச்சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறுமை",
+        "rationale": "பெருமை என்பதற்கு இணையான எதிர்ச்சொல் 'சிறுமை' ஆகும்.",
+        "isCorrect": true
+      },
+      { "text": "அருமை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "புதுமை", "rationale": "பழமைக்கு எதிரானது.", "isCorrect": false },
+      { "text": "இனிமை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "பெரியது அல்லது உயர்ந்தது என்பதற்கு எதிரான பண்பு."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'மேதினி' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வானம்", "rationale": "இது விசும்பு.", "isCorrect": false },
+      {
+        "text": "உலகம்",
+        "rationale": "'மேதினி' என்பதற்கு 'உலகம்' என்று பொருள்.",
+        "isCorrect": true
+      },
+      { "text": "கடல்", "rationale": "இது ஆழி.", "isCorrect": false },
+      { "text": "மலை", "rationale": "இது வெற்பு.", "isCorrect": false }
+    ],
+    "hint": "நாம் வாழும் பூமியை இப்படியும் அழைக்கலாம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "பேச்சு வழக்குச் சொல்லான 'வெத்தில' என்பதன் சரியான எழுத்து வழக்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெற்றிலை",
+        "rationale": "'வெத்தில' என்பது 'வெற்றிலை' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      { "text": "வெற்று இலை", "rationale": "தவறான பிரிப்பு.", "isCorrect": false },
+      { "text": "வெள்ளை இலை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "வேறு இலை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இது மங்கள நிகழ்வுகளில் பயன்படுத்தப்படும் இலை."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'இளமை' என்ற சொல்லின் எதிர்ச்சொல் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தனிமை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "முதுமை",
+        "rationale": "'இளமை' என்பதற்கு 'முதுமை' என்பது எதிர்ச்சொல்.",
+        "isCorrect": true
+      },
+      { "text": "பொறுமை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "புதுமை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "வயதான காலத்தைக் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'நோ' என்ற ஓரெழுத்து ஒரு மொழி எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நோய்", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "வறுமை",
+        "rationale": "பாடத்திட்டத்தின் பட்டியலில் 'நோ' என்பதற்கு 'வறுமை' என்று பொருள்.",
+        "isCorrect": true
+      },
+      { "text": "நொண்டி", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "நொடி", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இது இல்லாமையைக் குறிக்கும் ஒரு நிலை."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பின்வருவனவற்றுள் 'செய்தித் தொடர்' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரிகாலன் கல்லணையைக் கட்டினான்.",
+        "rationale": "ஒரு செய்தியைத் தெளிவாகக் கூறுவதால் இது செய்தித் தொடர்.",
+        "isCorrect": true
+      },
+      { "text": "யார் கட்டியது?", "rationale": "வினாத்தொடர்.", "isCorrect": false },
+      { "text": "இளமையில் கல்.", "rationale": "விளைவுத் தொடர்.", "isCorrect": false },
+      { "text": "என்னே அழகு!", "rationale": "உணர்ச்சித் தொடர்.", "isCorrect": false }
+    ],
+    "hint": "தகவலை மட்டும் தெரிவிக்கும் வாக்கியம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'தன்வினை' வாக்கியத்தைக் கண்டறிக.",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோதை நன்கு படித்தாள்.",
+        "rationale": "எழுவாய் தானே ஒரு செயலைச் செய்வதால் இது தன்வினை.",
+        "isCorrect": true
+      },
+      { "text": "ஆசிரியர் கற்பித்தார்.", "rationale": "பிறவினை.", "isCorrect": false },
+      { "text": "படிக்கப்பட்டது.", "rationale": "செயப்பாட்டு வினை.", "isCorrect": false },
+      { "text": "படித்திலள்.", "rationale": "எதிர்மறை வினை.", "isCorrect": false }
+    ],
+    "hint": "வினைச்சொல் தானே செய்வதைக் குறிக்க வேண்டும்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "மரபுச் சொல்: 'ஆந்தை ______'",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அலறும்",
+        "rationale": "ஆந்தையின் ஒலி மரபு 'அலறும்' என்பதாகும்.",
+        "isCorrect": true
+      },
+      { "text": "கூவும்", "rationale": "குயில் கூவும்.", "isCorrect": false },
+      { "text": "அகவும்", "rationale": "மயில் அகவும்.", "isCorrect": false },
+      { "text": "முழங்கும்", "rationale": "சிங்கம் முழங்கும்.", "isCorrect": false }
+    ],
+    "hint": "இரவில் ஒலிக்கும் இப்பறவையின் சத்தம்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'திருக்குறள் திருவள்ளுவரால் இயற்றப்பட்டது' - இது எவ்வகை வாக்கியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செயப்பாட்டு வினை",
+        "rationale": "பயனிலையில் 'பட்டது' என்று முடிந்துள்ளதால் இது செயப்பாட்டு வினை.",
+        "isCorrect": true
+      },
+      { "text": "செய்வினை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பிறவினை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "தன்வினை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "பயனிலையில் 'பட்டது' வருவதைக் கவனிக்கவும்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "சரியான மரபுத் தொடரைத் தேர்ந்தெடுக்க:",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூடை முடைந்தார்",
+        "rationale": "கூடையை உருவாக்குவதைக் குறிக்க 'முடைதல்' என்பதே சரியான வினை மரபு.",
+        "isCorrect": true
+      },
+      { "text": "கூடை நெய்தார்", "rationale": "ஆடை நெய்தல்.", "isCorrect": false },
+      { "text": "கூடை கட்டினார்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "கூடை செய்தார்", "rationale": "பொதுவான சொல்.", "isCorrect": false }
+    ],
+    "hint": "பனை ஓலையால் செய்யப்படும் பொருட்களுக்கு இவ்வினை வரும்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'Artificial Intelligence' என்பதன் தமிழாக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செயற்கை நுண்ணறிவு",
+        "rationale": "கணினிகள் மனிதனைப் போலச் சிந்திப்பது 'செயற்கை நுண்ணறிவு'.",
+        "isCorrect": true
+      },
+      { "text": "நுண்ணறிவு", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "மீத்திறன் கணினி", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "மெய்நிகர் உண்மை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "எந்திர மனிதனுக்கு (Robot) அளிக்கப்படும் அறிவு."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'Climate' என்பதன் சரியான தமிழ்ச் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தட்பவெப்பநிலை",
+        "rationale": "நீண்ட கால வானிலை சராசரி 'தட்பவெப்பநிலை' எனப்படும்.",
+        "isCorrect": true
+      },
+      { "text": "வானிலை", "rationale": "இது 'Weather'.", "isCorrect": false },
+      { "text": "வெப்பநிலை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பருவநிலை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இது நீண்ட கால வானிலை மாற்றத்தைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'Sanctuary' என்பதன் தமிழாக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகலிடம்",
+        "rationale": "விலங்குகள் அல்லது பறவைகள் பாதுகாக்கப்படும் இடம் 'புகலிடம்'.",
+        "isCorrect": true
+      },
+      { "text": "பூங்கா", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "காடு", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "உயிரியல் பூங்கா", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "விலங்குகள் பாதுகாப்பாக இருக்கும் இடம் (சரணாலயம்)."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'Preamble' என்பதன் தமிழாக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முகவுரை",
+        "rationale": "அரசியலமைப்புச் சட்டத்தின் அறிமுகப் பகுதி 'முகவுரை'.",
+        "isCorrect": true
+      },
+      { "text": "முடிவுரை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "சட்டப்பிரிவு", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "அதிகாரம்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "இந்திய அரசியலமைப்பின் அறிமுகம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'Debit Card' என்பதன் தமிழாக்கம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பற்று அட்டை",
+        "rationale": "வங்கிக் கணக்கில் உள்ள பணத்தை எடுக்க உதவும் அட்டை 'பற்று அட்டை'.",
+        "isCorrect": true
+      },
+      { "text": "கடன் அட்டை", "rationale": "இது 'Credit Card'.", "isCorrect": false },
+      { "text": "அடையாள அட்டை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பண அட்டை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "ATM இல் பணம் எடுக்கப் பயன்படுவது."
+  },
+  {
+    "questionNumber": 46,
+    "question": "விரிவான கருத்தைச் சுருக்கிச் சொல்வதே எதனுடைய சிறப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கவிதை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "பழமொழி",
+        "rationale": "விரிவான கருத்தைச் சுருக்கிச் சொல்வதே பழமொழியின் சிறப்பு.",
+        "isCorrect": true
+      },
+      { "text": "உரைநடை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "புதுக்கவிதை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "சுத்தம் சோறு போடும் என்பது இதன் சான்று."
+  },
+  {
+    "questionNumber": 47,
+    "question": "தமிழ் என்னும் சொல்லுக்கு உரிய பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வலிமை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "இனிமை",
+        "rationale": "தமிழ் என்னும் சொல்லுக்கு இனிமை என்பது பொருள்.",
+        "isCorrect": true
+      },
+      { "text": "பழைமை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பெருமை", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "சுவை மிகுந்தது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'மடை திறந்த வெள்ளம் போல்' - இந்த உவமை உணர்த்தும் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒற்றுமையின்மை", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "தடையின்றி மிகுதியாக",
+        "rationale": "தடையின்றி மிகுதியாக வருவதைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      { "text": "வெளிப்படைத்தன்மை", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "பயனற்ற செயல்", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "திருவிழாக் கூட்டத்திற்கு உவமையாகச் சொல்லலாம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'விழலுக்கு இறைத்த நீர் போல' - இதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பயனுள்ளது", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "பயனற்ற செயல்",
+        "rationale": "விழலுக்கு நீர் இறைப்பது பயனற்றது.",
+        "isCorrect": true
+      },
+      { "text": "விரைவான செயல்", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "தற்செயல் நிகழ்வு", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "வீண் வேலை."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'அதி பூத்தாற்போல்' - உவமை உணர்த்தும் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "அடிக்கடி நடப்பது", "rationale": "தவறான விடை.", "isCorrect": false },
+      {
+        "text": "அரிதாக நடப்பது",
+        "rationale": "அத்தி பூப்பது அரிதான நிகழ்வு.",
+        "isCorrect": true
+      },
+      { "text": "வேகமாக நடப்பது", "rationale": "தவறான விடை.", "isCorrect": false },
+      { "text": "எப்போதும் நடப்பது", "rationale": "தவறான விடை.", "isCorrect": false }
+    ],
+    "hint": "அரிதாக நிகழும் செயல்களைக் குறிக்கப் பயன்படும்."
+  }
+]

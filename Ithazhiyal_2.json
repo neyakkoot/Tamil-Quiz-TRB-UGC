@@ -1,0 +1,1402 @@
+[
+ {
+  "questionNumber": 51,
+  "question": "1785-ஆம் ஆண்டு சென்னையில் தொடங்கப்பட்ட முதல் செய்தித்தாள் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "மெட்ராஸ் கெஜட்",
+  "rationale": "இது 1792-ல் தொடங்கப்பட்டது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மெட்ராஸ் கூரியர்",
+  "rationale": "1785-ல் ரிச்சர்டு ஜான்ஸ்டன் என்பவரால் 'மெட்ராஸ் கூரியர்' (Madras Courier) தொடங்கப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "தி இந்து",
+  "rationale": "இது 1878-ல் தொடங்கப்பட்டது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மெட்ராஸ் மெயில்",
+  "rationale": "இது 1868-ல் தொடங்கப்பட்டது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது ரிச்சர்டு ஜான்ஸ்டன் என்பவரால் தொடங்கப்பட்டது."
+ },
+ {
+  "questionNumber": 52,
+  "question": "இந்தியாவிலேயே முதன்முறையாக மாலை நேர நாளிதழாக வெளிவந்த இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "தி மெட்ராஸ் மெயில்",
+  "rationale": "1868-ல் தொடங்கப்பட்ட 'தி மெட்ராஸ் மெயில்' (The Madras Mail) இந்தியாவின் முதல் மாலை நாளிதழாகும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஈவினிங் நியூஸ்",
+  "rationale": "இது சரியான விடை அல்ல.",
+  "isCorrect": false
+  },
+  {
+  "text": "மாலை முரசு",
+  "rationale": "இது பிற்காலத்தில் தமிழில் வந்த மாலை இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "தி இந்து",
+  "rationale": "இது காலை நாளிதழ்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது சென்னையில் 1868-ல் தொடங்கப்பட்டது."
+ },
+ {
+  "questionNumber": 53,
+  "question": "'நேடிவ் பப்ளிக் ஒப்பீனியன்' (The Native Public Opinion) என்ற இதழ் எம்மொழிகளில் செய்திகளை வெளியிட்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "தமிழ் மற்றும் ஆங்கிலம் மட்டும்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தமிழ், தெலுங்கு, ஆங்கிலம்",
+  "rationale": "இவ்விதழ் தமிழ், தெலுங்கு, ஆங்கிலம் ஆகிய மூன்று மொழிகளிலும் கருத்துக்களை வெளியிட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஆங்கிலம் மட்டும்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தமிழ் மற்றும் சம்ஸ்கிருதம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது பூண்டி அரங்கநாத முதலியாரால் நடத்தப்பட்டது."
+ },
+ {
+  "questionNumber": 54,
+  "question": "1930-ல் பம்பாயில் 'ஃப்ரீ பிரஸ் ஜர்னல்' (Free Press Journal) என்ற ஆங்கில நாளிதழைத் தொடங்கிய தமிழர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஜி. சுப்பிரமணிய ஐயர்",
+  "rationale": "இவர் தி இந்து மற்றும் சுதேசமித்திரனைத் தொடங்கியவர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "எஸ். சதானந்தம்",
+  "rationale": "எஸ். சதானந்தம் 1930-ல் ஃப்ரீ பிரஸ் ஜர்னலைத் தொடங்கினார். இவரே பின்னாளில் தினமணியைத் தொடங்கினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "டி.எஸ். சொக்கலிங்கம்",
+  "rationale": "இவர் தினமணியின் ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "சி.பா. ஆதித்தனார்",
+  "rationale": "இவர் தினத்தந்தி நிறுவனர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவர் செய்தி நிறுவனத்தையும் (News Agency) நடத்தினார்."
+ },
+ {
+  "questionNumber": 55,
+  "question": "பர்மாவின் ரங்கூன் நகரிலிருந்து 1922-ல் வெளிவந்த 'தேசோபகாரி' வார இதழைத் தொடங்கியவர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வி. சுந்தரம்",
+  "rationale": "வி. சுந்தரம் என்பவர் ரங்கூனில் 'தேசோபகாரி' இதழைத் தொடங்கினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "செல்லம் பிள்ளை",
+  "rationale": "இவர் அவ்விதழின் ஆசிரியராக இருந்தார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "நேதாஜி",
+  "rationale": "இவர் இந்திய தேசிய ராணுவத்தை அமைத்தார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "முத்துராமலிங்கத் தேவர்",
+  "rationale": "இவர் அரசியல் தலைவர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவ்விதழின் ஆசிரியர் செல்லம் பிள்ளை பலமுறை சிறை சென்றவர்."
+ },
+ {
+  "questionNumber": 56,
+  "question": "பீஜித் தீவின் தலைநகரான சுவாவிலிருந்து அப்பா பிள்ளை என்பவரால் வெளியிடப்பட்ட இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "மித்திரன்",
+  "rationale": "அப்பா பிள்ளை பீஜித் தீவில் 'மித்திரன்' என்ற இதழைத் தட்டுருட்டு (Cyclostyle) முறையில் வெளியிட்டார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "தமிழ் நேசன்",
+  "rationale": "இது மலேசிய இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "தமிழ் முரசு",
+  "rationale": "இது சிங்கப்பூர் இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "உதயதாரகை",
+  "rationale": "இது இலங்கை இதழ்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது தட்டுருட்டு (Cyclostyle) முறையில் வெளியிடப்பட்டது."
+ },
+ {
+  "questionNumber": 57,
+  "question": "தில்லித் தமிழ்ச்சங்கத்தின் சார்பில் 1951 முதல் வெளிவரும் இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சுடர்",
+  "rationale": "தில்லித் தமிழ்ச்சங்கத்தின் சார்பில் 'சுடர்' என்ற மாத இதழ் வெளியிடப்படுகிறது.",
+  "isCorrect": true
+  },
+  {
+  "text": "வடக்கு வாசல்",
+  "rationale": "இது தில்லியிலிருந்து வரும் மற்றொரு இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "யமுனை",
+  "rationale": "இப்பெயரில் இதழ் குறிப்பிடப்படவில்லை.",
+  "isCorrect": false
+  },
+  {
+  "text": "கணையாழி",
+  "rationale": "கணையாழி தில்லியிலிருந்து தொடங்கப்பட்டது, ஆனால் அது சங்க இதழ் அல்ல.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இதன் ஆசிரியராக டி.ஜி. ஆனந்தசாமி இருந்தார்."
+ },
+ {
+  "questionNumber": 58,
+  "question": "1887-ல் விக்டோரியா மகாராணியின் பொன்விழாவையொட்டிப் பெண்களுக்காகத் தொடங்கப்பட்ட இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "பெண் கல்வி",
+  "rationale": "இது 1900-ல் தொடங்கப்பட்டது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மகாராணி",
+  "rationale": "1887-ல் விக்டோரியா மகாராணியின் ஜூபிலி நினைவாக 'மகாராணி' இதழ் தொடங்கப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "சக்கரவர்த்தினி",
+  "rationale": "இது 1905-ல் தொடங்கப்பட்டது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மாதர் மனோரஞ்சனி",
+  "rationale": "இது வேறொரு இதழ்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பெயரிலேயே 'ராணி' உள்ளது."
+ },
+ {
+  "questionNumber": 59,
+  "question": "துரைத்தனக் கல்விச் சங்கத்தினரால் 1870 முதல் நடத்தப்பட்ட 'ஜன விநோதினி' இதழின் நோக்கம் யாது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அரசியல் செய்திகள் தருவது",
+  "rationale": "இது அரசியல் இதழ் அல்ல.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொது அறிவு மற்றும் கல்வி வளர்ச்சி",
+  "rationale": "பல்வேறு பயனுள்ள தகவல்கள், கதைகள், அறிவியல் செய்திகளைத் தருவதே இதன் நோக்கம்.",
+  "isCorrect": true
+  },
+  {
+  "text": "சமயப் பரப்புரை",
+  "rationale": "இது சமய இதழ் அல்ல.",
+  "isCorrect": false
+  },
+  {
+  "text": "சினிமா விமர்சனம்",
+  "rationale": "அக்காலத்தில் சினிமா இல்லை.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது அரசாங்க ஆதரவுடன் நடத்தப்பட்டது."
+ },
+ {
+  "questionNumber": 60,
+  "question": "1900-ல் தஞ்சாவூரிலிருந்து தொடங்கப்பட்ட 'யதார்த்த வசனி' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "டி.வி. கோவிந்தசாமிப் பிள்ளை",
+  "rationale": "டி.வி. கோவிந்தசாமிப் பிள்ளை 'யதார்த்த வசனி' இதழைத் தொடங்கி 27 ஆண்டுகள் நடத்தினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "பி.வி. கிருஷ்ண தாஸ்",
+  "rationale": "இவர் 'ஜனானுகூலன்' ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "ராமனுஜலு நாயுடு",
+  "rationale": "இவர் 'ஆனந்த குணபோதினி' ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வ.வே.சு. ஐயர்",
+  "rationale": "இவர் 'பால பாரதி' ஆசிரியர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவ்விதழ் சந்தா இல்லாமல் இலவசமாக விநியோகிக்கப்பட்டது."
+ },
+ {
+  "questionNumber": 61,
+  "question": "'ஜனானுகூலன்' இதழ் எந்த ஊரிலிருந்து வெளிவந்தது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "மதுரை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சென்னை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தஞ்சாவூர்",
+  "rationale": "பி.வி. கிருஷ்ண தாஸ் என்பவரால் தஞ்சாவூரிலிருந்து 'ஜனானுகூலன்' வெளியிடப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "திருச்சி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது காவிரி டெல்டா பகுதி நகரம்."
+ },
+ {
+  "questionNumber": 62,
+  "question": "1900-ல் தொடங்கப்பட்ட 'பெண் கல்வி' என்ற இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஆர். தாயாரம்மாள்",
+  "rationale": "'பெண் கல்வி' இதழின் ஆசிரியையாக சகோதரி ஆர். தாயாரம்மாள் இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "விசாலாட்சி அம்மாள்",
+  "rationale": "இவர் லோகோபகாரி ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அம்புஜத்தம்மாள்",
+  "rationale": "இவர் சுதந்திரப் போராட்ட வீரர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கே.பி. சுந்தராம்பாள்",
+  "rationale": "இவர் பாடகர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவ்விதழில் பாரதியாரின் பாடல்களும் வெளிவந்தன."
+ },
+ {
+  "questionNumber": 63,
+  "question": "1928-ல் தொடங்கப்பட்ட 'கலாநிலையம்' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஏ.ஆர். சேஷாச்சலம்",
+  "rationale": "ஏ.ஆர். சேஷாச்சலம் 'கலாநிலையம்' வார இதழைத் தொடங்கி நடத்தினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "வ.ரா.",
+  "rationale": "இவர் மணிக்கொடி ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கல்கி",
+  "rationale": "இவர் ஆனந்த விகடனில் இருந்தார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "சாவி",
+  "rationale": "இவர் பிற்கால எழுத்தாளர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவ்விதழ் இலக்கியம் மற்றும் தமிழ் பாடங்களுக்கு முக்கியத்துவம் தந்தது."
+ },
+ {
+  "questionNumber": 64,
+  "question": "1938-ல் தொடங்கப்பட்ட 'பாரத மணி' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கே.எஸ். வெங்கடரமணி",
+  "rationale": "கே.எஸ். வெங்கடரமணி 'பாரத மணி' இதழைத் தொடங்கினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ராஜாஜி",
+  "rationale": "இவர் கல்கி இதழுடன் தொடர்புடையவர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "டி.கே.சி.",
+  "rationale": "இவர் ரசிகமணி.",
+  "isCorrect": false
+  },
+  {
+  "text": "வ.வே.சு. ஐயர்",
+  "rationale": "இவர் பாலபாரதி ஆசிரியர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "'முருகன் ஓர் உழவன்' என்ற நாவலை எழுதியவர்."
+ },
+ {
+  "questionNumber": 65,
+  "question": "'பிரசண்ட விகடன்' இதழ் எந்த ஊரிலிருந்து வெளிவந்தது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சென்னை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "திருச்சிராப்பள்ளி (திருச்சி)",
+  "rationale": "'பிரசண்ட விகடன்' திருச்சியிலிருந்து வெளிவந்த நகைச்சுவை இதழாகும்.",
+  "isCorrect": true
+  },
+  {
+  "text": "மதுரை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "கோவை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மலைக்கோட்டை மாநகரம்."
+ },
+ {
+  "questionNumber": 66,
+  "question": "1941-ல் மதுரையிலிருந்து வெளிவந்த 'புலவர் உலகம்' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஜெகவீர பாண்டியன்",
+  "rationale": "ஜெகவீர பாண்டியன் 'புலவர் உலகம்' இதழை நடத்தி, கம்பராமாயண ஆராய்ச்சியை வெளியிட்டார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ரா.பி. சேதுப்பிள்ளை",
+  "rationale": "இவர் தமிழறிஞர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "சோமசுந்தர பாரதியார்",
+  "rationale": "இவர் தமிழறிஞர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அவ்வை துரைசாமி",
+  "rationale": "இவர் உரை ஆசிரியர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவர் பாஞ்சாலங்குறிச்சி வீரசரித்திரம் எழுதியவர்."
+ },
+ {
+  "questionNumber": 67,
+  "question": "1940-ல் திருப்பூரிலிருந்து வெளிவந்த 'குடிநூல்' (Kudinool) இதழ் எதனை வலியுறுத்தியது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சினிமா",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "கதர் மற்றும் கைத்தொழில்",
+  "rationale": "'குடிநூல்' இதழ் காந்தியக் கொள்கையான கதர் மற்றும் கைத்தொழிலை வலியுறுத்தியது.",
+  "isCorrect": true
+  },
+  {
+  "text": "இலக்கியம்",
+  "rationale": "முக்கிய நோக்கம் கதர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அறிவியல்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கோவை அ. அய்யாமுத்து இதன் ஆசிரியர்."
+ },
+ {
+  "questionNumber": 68,
+  "question": "1939-ல் 'சக்தி' இதழைத் தொடங்கியவர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வை. கோவிந்தன்",
+  "rationale": "வை. கோவிந்தன் 'சக்தி' இதழைத் தொடங்கி, சிறந்த அச்சு மற்றும் வடிவமைப்பில் வெளியிட்டார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "சக்திதாசன் சுப்பிரமணியம்",
+  "rationale": "இவர் சுதேசமித்திரனில் இருந்தார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "பாரதியார்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சுத்தானந்த பாரதி",
+  "rationale": "இவர் இதில் எழுதினார்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சக்தி காரியாலயம் என்ற பதிப்பகத்தையும் இவர் நடத்தினார்."
+ },
+ {
+  "questionNumber": 69,
+  "question": "'பஞ்சாமிர்தம்' என்ற மாத இதழை நடத்தியவர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அ. மாதவையா",
+  "rationale": "பிரபல நாவலாசிரியர் அ. மாதவையா 'பஞ்சாமிர்தம்' இதழை நடத்தினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "கல்கி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "புதுமைப்பித்தன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ராஜம் கிருஷ்ணன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "'பத்மாவதி சரித்திரம்' நாவலை எழுதியவர்."
+ },
+ {
+  "questionNumber": 70,
+  "question": "'ஏல விவசாயி' (1927) இதழ் எந்த ஊரிலிருந்து வெளிவந்தது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "உத்தமபாளையம்",
+  "rationale": "திருவாங்கூர் ஏல விவசாயிகள் சங்கத்தின் சார்பில் உத்தமபாளையத்திலிருந்து இவ்விதழ் வெளிவந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "போடிநாயக்கனூர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தேனி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "கம்பம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது மதுரை மாவட்டத்தில் (இப்போது தேனி) உள்ள ஊர்."
+ },
+ {
+  "questionNumber": 71,
+  "question": "'ஆனந்த குண போதினி' (1926) இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "எஸ்.ஜி. ராமானுஜலு நாயுடு",
+  "rationale": "எஸ்.ஜி. ராமானுஜலு நாயுடு 'ஆனந்த குண போதினி' இதழின் ஆசிரியராக இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஆரணி குப்புசாமி முதலியார்",
+  "rationale": "இவர் ஆனந்த போதினி ஆசிரியர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வைத்தியநாத ஐயர்",
+  "rationale": "இவர் ஆனந்த விகடன் நிறுவனர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கல்கி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவர் 'சென்று போன நாட்கள்' என்ற தொடரை எழுதியவர்."
+ },
+ {
+  "questionNumber": 72,
+  "question": "1935-ல் தொடங்கப்பட்ட 'சிவாஜி' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "திருச்சி வி. மல்லியா",
+  "rationale": "திருச்சி வி. மல்லியா 'சிவாஜி' இதழின் ஆசிரியராக இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "வி.சி. கணேசன் (சிவாஜி கணேசன்)",
+  "rationale": "இவர் நடிகர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கப்பலோட்டிய தமிழன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "மு. கருணாநிதி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது திருச்சியிலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 73,
+  "question": "1935-ல் மணிக்கொடி எழுத்தாளர்களுள் ஒருவரான பி.எஸ். ராமையா நடத்திய சினிமா இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சினிமா உலகம்",
+  "rationale": "பி.எஸ். ராமையா 'சினிமா உலகம்' என்ற இதழை நடத்தினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "பேசும் படம்",
+  "rationale": "இது வேறு இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "குண்டூசி",
+  "rationale": "இது பி.ஆர்.எஸ். கோபால் நடத்தியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "பொம்மை",
+  "rationale": "இது பிற்கால இதழ்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவர் மணிக்கொடி இதழிலும் ஆசிரியராக இருந்தார்."
+ },
+ {
+  "questionNumber": 74,
+  "question": "1929-ல் ராஜாஜி சேலத்திலிருந்து தொடங்கிய மதுவிலக்கு பிரச்சார இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "விமோசனம்",
+  "rationale": "ராஜாஜி மதுவிலக்கை வலியுறுத்தி 'விமோசனம்' என்ற இதழைத் தொடங்கினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "சுயராஜ்யா",
+  "rationale": "இது ஆங்கில இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கல்கி",
+  "rationale": "இது கல்கியால் நடத்தப்பட்டது.",
+  "isCorrect": false
+  },
+  {
+  "text": "யங் இந்தியா",
+  "rationale": "இது காந்தியின் இதழ்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "திருச்செங்கோடு காந்தி ஆசிரமத்திலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 75,
+  "question": "1930-ல் சங்கு சுப்பிரமணியம் நடத்திய இதழின் பெயர் என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சுதந்திர சங்கு",
+  "rationale": "சங்கு சுப்பிரமணியம் 'சுதந்திர சங்கு' என்ற இதழை நடத்தினார். இது சுதந்திரப் போராட்டத்தில் முக்கிய பங்காற்றியது.",
+  "isCorrect": true
+  },
+  {
+  "text": "பாரத சங்கு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தமிழ் சங்கு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தேச சங்கு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இதன் விலை காலணா (கால் அணா)."
+ },
+ {
+  "questionNumber": 76,
+  "question": "1937-ல் தொடங்கப்பட்ட 'அனுமன்' (Hanuman) இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "எஸ்.டி.எஸ். யோகி",
+  "rationale": "எஸ்.டி.எஸ். யோகி மற்றும் ஏ.ஜி. வெங்கடாச்சாரி ஆகியோர் ஆசிரியர்களாக இருந்தனர்.",
+  "isCorrect": true
+  },
+  {
+  "text": "கல்கி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "வ.ரா.",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "புதுமைப்பித்தன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது ஒரு இலக்கிய வார இதழ்."
+ },
+ {
+  "questionNumber": 77,
+  "question": "1947-ல் தொடங்கப்பட்ட 'தியாகி' (Thyagi) இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "என். ராமசாமி",
+  "rationale": "என். ராமசாமி 'தியாகி' இதழின் ஆசிரியர்.",
+  "isCorrect": true
+  },
+  {
+  "text": "காமராஜர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஜீவா",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ப. ஜீவானந்தம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது சென்னையிலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 78,
+  "question": "ம.பொ. சிவஞானம் (ம.பொ.சி) 1947-ல் நடத்திய இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "தமிழ்ச்சுடர்",
+  "rationale": "ம.பொ.சி 'தமிழ்ச்சுடர்' என்ற இதழை நடத்தினார் (சில ஆதாரங்களில் தமிழ் முரசு எனவும் இருக்கும், இங்கு தமிழ்ச்சுடர்/தமிழர் முரசு என்பது சூழல்).",
+  "isCorrect": false
+  },
+  {
+  "text": "செங்கோல்",
+  "rationale": "ம.பொ.சி 'செங்கோல்' என்ற வார இதழை நடத்தினார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "சிலம்பு",
+  "rationale": "இது அவரது இயக்கப் பெயர் தொடர்பானது.",
+  "isCorrect": false
+  },
+  {
+  "text": "தமிழன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது தமிழரசுக் கழகத்தின் ஏடு."
+ },
+ {
+  "questionNumber": 79,
+  "question": "செங்குந்தர் சமூகத்திற்காக 1921-ல் தொடங்கப்பட்ட இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "செங்குந்தன்",
+  "rationale": "செங்குந்தர் சமூக முன்னேற்றத்திற்காக 'செங்குந்தன்' இதழ் தொடங்கப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கைத்தறி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "நெசவாளி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "முதலியார் மித்திரன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது சமூகப் பெயரையே தாங்கியது."
+ },
+ {
+  "questionNumber": 80,
+  "question": "1888-ல் வெளிவந்த 'பிரம்மா வித்யா' இதழ் எம்மதச் சார்புடையது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வைதீகம்",
+  "rationale": "பிரம்மா வித்யா வைதீக மதக் கருத்துக்களைப் பரப்பியது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கிறிஸ்தவம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "இஸ்லாம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சமணம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது இந்து மத உட்பிரிவு."
+ },
+ {
+  "questionNumber": 81,
+  "question": "1876-ல் தொடங்கப்பட்ட 'சத்திய வேத பாதுகாவலன்' எம்மத இதழ்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கிறிஸ்தவம்",
+  "rationale": "இது அருளப்ப முதலியாரால் தொடங்கப்பட்ட கிறிஸ்தவ இதழ்.",
+  "isCorrect": true
+  },
+  {
+  "text": "சைவம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "வைணவம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பௌத்தம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பெயரிலேயே வேதம் உள்ளது."
+ },
+ {
+  "questionNumber": 82,
+  "question": "1880-ல் தொடங்கப்பட்ட 'சைவ உதய பாநு' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சரவணமுத்துப் பிள்ளை",
+  "rationale": "ஊரெழு சரவணமுத்துப் பிள்ளை 'சைவ உதய பாநு' இதழின் ஆசிரியர்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஆறுமுக நாவலர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தாமோதரம் பிள்ளை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சித்தி லெவ்வை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது இலங்கையிலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 83,
+  "question": "சித்த மருத்துவத்திற்காக வெளிவந்த இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அகத்தியர்",
+  "rationale": "'அகத்தியர்' என்ற பெயரில் சித்த மருத்துவ இதழ் வெளிவந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "தன்வந்திரி",
+  "rationale": "இது ஆயுர்வேத இதழாக இருக்கலாம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஹிப்போகிரட்டீஸ்",
+  "rationale": "இது ஆங்கில மருத்துவப் பெயர்.",
+  "isCorrect": false
+  },
+  {
+  "text": "உடல் நலம்",
+  "rationale": "இது பொதுப் பெயர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சித்தர்களில் முதன்மையானவர் பெயரைக் கொண்டது."
+ },
+ {
+  "questionNumber": 84,
+  "question": "'வியாபாரி' என்ற இதழ் எத்துறை சார்ந்தது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வணிகம்",
+  "rationale": "பெயரே குறிப்பிடுவது போல இது வணிகம் மற்றும் தொழில் சார்ந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "விவசாயம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "இலக்கியம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "அரசியல்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பெயரே விடையைச் சொல்கிறது."
+ },
+ {
+  "questionNumber": 85,
+  "question": "1903-ல் தொடங்கப்பட்ட 'விவசாயத் தீபிகை' இதழ் எதனைப் பற்றியது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "வேளாண்மை",
+  "rationale": "விவசாயத் தீபிகை வேளாண்மைச் செய்திகளை வெளியிட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "கால்நடை",
+  "rationale": "குறிப்பாக விவசாயம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "தோட்டக்கலை",
+  "rationale": "விவசாயத்தின் ஒரு பகுதி.",
+  "isCorrect": false
+  },
+  {
+  "text": "மீன் வளம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "உழவுத் தொழில் பற்றியது."
+ },
+ {
+  "questionNumber": 86,
+  "question": "குழந்தைகளுக்காக 1840-ல் வெளிவந்த இதழ் எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "பால தீபிகை",
+  "rationale": "1840-ல் 'பால தீபிகை' என்ற இதழ் சிறுவர்களுக்காக வெளிவந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "சிறுவர் மலர்",
+  "rationale": "இது பிற்கால இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "பூந்தளிர்",
+  "rationale": "இது பிற்கால இதழ்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அம்புலிமாமா",
+  "rationale": "இது 1947-ல் தொடங்கியது.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பாலர் என்றால் சிறுவர்."
+ },
+ {
+  "questionNumber": 87,
+  "question": "1947-ல் தொடங்கப்பட்ட 'அம்புலிமாமா' இதழ் எதற்காப் புகழ் பெற்றது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சிறுவர் கதைகள் மற்றும் ஓவியங்கள்",
+  "rationale": "அம்புலிமாமா சிறுவர்களுக்கான புராணக் கதைகள் மற்றும் சித்திரங்களுக்குப் பெயர் பெற்றது.",
+  "isCorrect": true
+  },
+  {
+  "text": "அரசியல் செய்திகள்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சினிமா கிசுகிசு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பங்குச் சந்தை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "சக்ரவர்த்தி, நாகிரெட்டி ஆகியோரால் நடத்தப்பட்டது."
+ },
+ {
+  "questionNumber": 88,
+  "question": "பாரதிதாசன் நடத்திய 'குயில்' இதழ் எவ்வகை இதழ்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கவிதை இதழ்",
+  "rationale": "குயில் ஒரு கவிதை இதழாக நடத்தப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "நாளிதழ்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "வார இதழ்",
+  "rationale": "கவிதைகளுக்கென தனித்துவம் வாய்ந்தது.",
+  "isCorrect": false
+  },
+  {
+  "text": "மாத நாவல்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கவிதைக்கென்றே தொடங்கப்பட்டது."
+ },
+ {
+  "questionNumber": 89,
+  "question": "கண்ணதாசன் நடத்திய 'தென்றல்' இதழின் சிறப்பு என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இலக்கியம் மற்றும் திராவிட இயக்கக் கருத்துக்கள்",
+  "rationale": "கண்ணதாசனின் தென்றல் இலக்கியத் தரத்துடனும் திராவிட இயக்கச் சார்புடனும் விளங்கியது.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஆன்மீகம்",
+  "rationale": "முக்கிய நோக்கம் அல்ல.",
+  "isCorrect": false
+  },
+  {
+  "text": "விளையாட்டு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சமையல்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது ஒரு இலக்கிய வார இதழ்."
+ },
+ {
+  "questionNumber": 90,
+  "question": "1970-ல் சோ ராமசாமி தொடங்கிய 'துக்ளக்' இதழ் எத்துறையில் தனித்துவம் பெற்றது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "அரசியல் நையாண்டி மற்றும் விமர்சனம்",
+  "rationale": "துக்ளக் அரசியல் நையாண்டி (Satire) மற்றும் துணிச்சலான விமர்சனங்களுக்குப் பெயர் பெற்றது.",
+  "isCorrect": true
+  },
+  {
+  "text": "சிறுகதைகள்",
+  "rationale": "முக்கியத்துவம் அரசியலே.",
+  "isCorrect": false
+  },
+  {
+  "text": "கவிதை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சமையல் குறிப்பு",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "அட்டைப்பட கேலிச்சித்திரங்கள் இதன் சிறப்பு."
+ },
+ {
+  "questionNumber": 91,
+  "question": "1785-ல் ரிச்சர்டு ஜான்ஸ்டன் தொடங்கிய 'மெட்ராஸ் கூரியர்' இதழின் விலை என்ன?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஒரு ரூபாய்",
+  "rationale": "அக்காலத்தில் இதன் விலை ஒரு ரூபாயாக இருந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஒரு அணா",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஒரு சக்கரம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "இலவசம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "அக்காலத்தில் இது பெரிய தொகை."
+ },
+ {
+  "questionNumber": 92,
+  "question": "1923-ல் தொடங்கப்பட்ட 'செந்தமிழ்ச் செல்வி' இதழின் தொகுதிக்கு என்ன பெயர் வழங்கப்பட்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "சிலம்பு",
+  "rationale": "செந்தமிழ்ச் செல்வியின் தொகுதிக்கு 'சிலம்பு' என்றும் இதழுக்கு 'பரல்' என்றும் பெயர் வழங்கப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "மலர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "இதழ்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "தொகுதி",
+  "rationale": "வழக்கமான பெயர்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "கண்ணகியின் காற்சிலம்பு."
+ },
+ {
+  "questionNumber": 93,
+  "question": "திரு. வி. க.வின் 'நவசக்தி' இதழ் எந்த அளவை (Size) உடையதாகத் தொடங்கப்பட்டது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இராயல் (Royal)",
+  "rationale": "நவசக்தி தொடக்கத்தில் இராயல் அளவில் வெளிவந்தது.",
+  "isCorrect": true
+  },
+  {
+  "text": "டெம்மி (Demy)",
+  "rationale": "பின்னர் டெம்மி அளவுக்கு மாறியது.",
+  "isCorrect": false
+  },
+  {
+  "text": "கிரவுன் (Crown)",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஃபூல்ஸ்கேப் (Foolscap)",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "பெரிய அளவு காகிதம்."
+ },
+ {
+  "questionNumber": 94,
+  "question": "1941-ல் 'கல்கி' இதழ் வார இதழாகத் தொடங்கப்பட்ட தேதி எது?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "ஆகஸ்ட் 1",
+  "rationale": "கல்கி இதழ் 1941 ஆகஸ்ட் 1 அன்று வார இதழாகத் தொடங்கப்பட்டது.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஜனவரி 1",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஆகஸ்ட் 15",
+  "rationale": "சுதந்திர தினம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அக்டோபர் 2",
+  "rationale": "காந்தி ஜெயந்தி.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "மாதத்தின் முதல் நாள்."
+ },
+ {
+  "questionNumber": 95,
+  "question": "1923-ல் தொடங்கப்பட்ட 'ஒற்றுமை' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "பி.வி. கண்ணன்",
+  "rationale": "பி.வி. கண்ணன் 'ஒற்றுமை' இதழின் ஆசிரியராகவும் உரிமையாளராகவும் இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "வ.வே.சு. ஐயர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சுப்பிரமணிய சிவா",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "பெரியார்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இவர் சைதாப்பேட்டையிலிருந்து இவ்விதழை நடத்தினார்."
+ },
+ {
+  "questionNumber": 96,
+  "question": "1924-ல் தொடங்கப்பட்ட 'தினசரன்' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "இராகவாச்சாரியார்",
+  "rationale": "இராகவாச்சாரியார் 'தினசரன்' மாத இதழின் ஆசிரியராக இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ராஜகோபாலாச்சாரி",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "கஸ்தூரி ரங்கன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சீனிவாசன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது திருவல்லிக்கேணியிலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 97,
+  "question": "'பஞ்சாமிர்தம்' இதழின் இலச்சினையில் (Logo) இருந்த சொற்கள் எவை?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "உண்மை, அன்பு, அறிவு, ஒற்றுமை, உழைப்பு",
+  "rationale": "பஞ்சாமிர்தம் இதழின் தலைப்பில் 'உண்மை, அன்பு, அறிவு, ஒற்றுமை, உழைப்பு' என்ற ஐந்து கொள்கைகள் குறிப்பிடப்பட்டிருந்தன.",
+  "isCorrect": true
+  },
+  {
+  "text": "சுதந்திரம், சமத்துவம், சகோதரத்துவம்",
+  "rationale": "இது பிரெஞ்சு புரட்சி முழக்கம்.",
+  "isCorrect": false
+  },
+  {
+  "text": "அறம், பொருள், இன்பம், வீடு",
+  "rationale": "இது நால்வகை உறுதிப்பொருள்.",
+  "isCorrect": false
+  },
+  {
+  "text": "கல்வி, செல்வம், வீரம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "ஐந்து அமிர்தங்கள் போல ஐந்து கொள்கைகள்."
+ },
+ {
+  "questionNumber": 98,
+  "question": "1930-ல் தொடங்கப்பட்ட 'வீரகேசரி' நாளிதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "எச். செல்லையா",
+  "rationale": "எச். செல்லையா 'வீரகேசரி' நாளிதழின் ஆசிரியராக இருந்தார்.",
+  "isCorrect": true
+  },
+  {
+  "text": "கே.பி. கேசவ மேனன்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "ஆறுமுக நாவலர்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "சி.வி. வேலுப்பிள்ளை",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது இலங்கையின் கொழும்புவிலிருந்து வெளிவந்தது."
+ },
+ {
+  "questionNumber": 99,
+  "question": "1930-ல் தொடங்கப்பட்ட 'திருவரங்கம் பெரிய கோயில்' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "எஸ். பார்த்தசாரதி ஐயங்கார்",
+  "rationale": "எஸ். பார்த்தசாரதி ஐயங்கார் 'திருவரங்கம் பெரிய கோயில்' இதழின் ஆசிரியர்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ராமானுஜர்",
+  "rationale": "இவர் வைணவ ஆச்சாரியார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "மணவாள மாமுனிகள்",
+  "rationale": "இவர் வைணவப் பெரியார்.",
+  "isCorrect": false
+  },
+  {
+  "text": "வேதாந்த தேசிகர்",
+  "rationale": "இவர் வைணவப் பெரியார்.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது கோயில் செய்திகளுக்காக நடத்தப்பட்டது."
+ },
+ {
+  "questionNumber": 100,
+  "question": "1893-ல் கோயம்புத்தூரிலிருந்து தொடங்கப்பட்ட 'வித்யா பாநு' இதழின் ஆசிரியர் யார்?",
+  "imageUrl": null,
+  "answerOptions": [
+  {
+  "text": "கே.என். ஈஸ்வரய்யா",
+  "rationale": "கே.என். ஈஸ்வரய்யா 'வித்யா பாநு' இதழின் ஆசிரியர்.",
+  "isCorrect": true
+  },
+  {
+  "text": "ஜி.டி. நாயுடு",
+  "rationale": "இவர் அறிவியல் மேதை.",
+  "isCorrect": false
+  },
+  {
+  "text": "சி.கே. சுப்பிரமணியம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  },
+  {
+  "text": "டி.ஏ. ராமலிங்கம்",
+  "rationale": "தவறு.",
+  "isCorrect": false
+  }
+  ],
+  "hint": "இது ஒரு மாத இதழ்."
+ }
+]

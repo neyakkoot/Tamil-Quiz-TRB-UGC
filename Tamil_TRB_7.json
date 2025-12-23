@@ -1,0 +1,502 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "புறப்பொருள் வெண்பாமாலை நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "தொல்காப்பியர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஐயனாரிதனார்", "rationale": "புறப்பொருள் வெண்பாமாலையை இயற்றியவர் ஐயனாரிதனார் ஆவார்.", "isCorrect": true },
+      { "text": "பவணந்தி முனிவர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அகத்தியர்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "பட்டினப்பாலை நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "பாண்டியன் நெடுஞ்செழியன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "திருமாவளவன் (கரிகாற் பெருவளத்தான்)", "isCorrect": true, "rationale": "திருமாவளவன் என்னும் கரிகாற் பெருவளத்தான் இந்நூலின் பாட்டுடைத் தலைவன் ஆவான்." },
+      { "text": "சேரன் செங்குட்டுவன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இளந்திரையன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பெரும்பாணாற்றுப்படை நூலில் யாழின் பத்தர் (குடம்) எம்மலருக்கு உவமிக்கப் படுகிறது?",
+    "answerOptions": [
+      { "text": "பாதிரி மலர்", "rationale": "யாழின் குடம் பாதிரி மலருக்கு ஒப்பிடப்படுகிறது.", "isCorrect": true },
+      { "text": "தாமரை மலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காந்தள் மலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "முல்லை மலர்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "பதிற்றுப்பத்தில் நமக்குக் கிடைக்காத பத்துகள் எவை?",
+    "answerOptions": [
+      { "text": "முதலாம் பத்தும், பத்தாம் பத்தும்", "rationale": "பதிற்றுப்பத்தில் முதலாம் பத்தும், பத்தாம் பத்தும் நமக்குக் கிடைக்கவில்லை.", "isCorrect": true },
+      { "text": "இரண்டாம் பத்தும், ஒன்பதாம் பத்தும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஐந்தாம் பத்தும், எட்டாம் பத்தும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மூன்றாம் பத்தும், ஏழாம் பத்தும்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "பழமொழி நானூறு நூலின் கடவுள் வாழ்த்துப் பாடலில் 'பிண்டியின் நீழல் பெருமான்' என்று குறிப்பிடப்படுபவர் யார்?",
+    "answerOptions": [
+      { "text": "சிவபெருமான்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அருகதேவன்", "isCorrect": true, "rationale": "பிண்டி (அசோக மரம்) நிழலில் வீற்றிருப்பவர் சமண சமயத் தெய்வமான அருகதேவன் ஆவார்." },
+      { "text": "திருமால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புத்தர்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "புறநானூற்றில் 'யாதும் ஊரே யாவரும் கேளிர்' என்ற புகழ்பெற்ற பாடலைப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஔவையார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கணியன் பூங்குன்றனார்", "rationale": "உலகப் பொதுமை குறித்துப் பாடியவர் கணியன் பூங்குன்றனார்.", "isCorrect": true },
+      { "text": "கபிலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பரணர்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "நேமிநாதம் குறிப்பிடும் தமிழ் முதல் எழுத்துக்களின் எண்ணிக்கை என்ன?",
+    "answerOptions": [
+      { "text": "30", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "31", "rationale": "உயிர் 12, மெய் 18, ஆய்தம் 1 சேர்த்து 31 எழுத்துக்கள் என நேமிநாதம் கூறுகிறது.", "isCorrect": true },
+      { "text": "12", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "18", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "பரிபாடல் நூலில் 'வையை' பற்றிய 6 ஆம் பாடலை இயற்றியவர் யார்?",
+    "answerOptions": [
+      { "text": "நல்லந்துவனார்", "rationale": "பரிபாடலில் வையை பற்றிய 6 ஆம் பாடலை இயற்றியவர் நல்லந்துவனார்.", "isCorrect": true },
+      { "text": "கீரந்தையார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கடுவன் இளவெயினனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நல்லச்சுதனார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "பொருநராற்றுப்படையை இயற்றிய புலவர் யார்?",
+    "answerOptions": [
+      { "text": "முடத்தாமக்கண்ணியார்", "rationale": "பொருநராற்றுப்படையைப் பாடியவர் முடத்தாமக்கண்ணியார் ஆவார்.", "isCorrect": true },
+      { "text": "நக்கீரர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உருத்திரங்கண்ணனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மாங்குடி மருதனார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "சிதம்பரப் பாட்டியலில் வெண்பாவிற்குரிய ஓசையாகக் குறிப்பிடப்படுவது எது?",
+    "answerOptions": [
+      { "text": "அகவலோசை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செப்பலோசை", "rationale": "வெண்பாவிற்குரிய ஓசை செப்பலோசை ஆகும்.", "isCorrect": true },
+      { "text": "துள்ளலோசை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "தூங்கலோசை", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "பகைவர் நாட்டின் ஆநிரைகளைக் (பசுக்களை) கவர்ந்து வருதல் எத்தனையாவது புறத்திணை?",
+    "answerOptions": [
+      { "text": "கரந்தை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வெட்சி", "rationale": "பகைவர் நாட்டு ஆநிரைகளைக் கவர்ந்து வருவது வெட்சித் திணையாகும்.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "பட்டினப்பாலையின்படி புகார் துறைமுகத்தில் பண்டங்களுக்குச் சுங்கச் சான்றாகப் பொறிக்கப்பட்ட சின்னம் எது?",
+    "answerOptions": [
+      { "text": "மீன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புலி", "isCorrect": true, "rationale": "சுங்கச் சாவடியில் புலிச்சின்னம் பொறிக்கப்பட்டது (புலிபொறித்துப் புறம்போக்கி)." },
+      { "text": "வில்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "பெரும்பாணாற்றுப்படையின் பாட்டுடைத் தலைவன் இளந்திரையன் எந்நகரைத் தலைநகராகக் கொண்டு ஆண்டான்?",
+    "answerOptions": [
+      { "text": "மதுரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காஞ்சி (கச்சி)", "rationale": "தொண்டைமான் இளந்திரையனின் தலைநகர் கச்சி (காஞ்சி) ஆகும்.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உறையூர்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "பதிற்றுப்பத்தில் ஐந்தாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "இமையவரம்பன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கடல் பிறக்கோட்டிய செங்குட்டுவன்", "rationale": "பரணர் பாடிய ஐந்தாம் பத்தின் தலைவன் செங்குட்டுவன்.", "isCorrect": true },
+      { "text": "நார்முடிச் சேரல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செல்வக்கடுங்கோ", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "'ஆற்றுணா வேண்டுவ தில்' - இப்பழமொழி எதனைச் சிறப்பிக்கிறது?",
+    "answerOptions": [
+      { "text": "செல்வத்தை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கற்றறிந்தவர்களின் கல்வியை", "isCorrect": true, "rationale": "கற்றவனுக்குக் கட்டுச்சோறு தேவையில்லை என்பதை இது உணர்த்துகிறது." },
+      { "text": "வீரத்தை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வணிகத்தை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "புறநானூற்றில் அதியமானுக்கு அரிய நெல்லிக்கனியை வழங்கிய மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "ஔவையார்", "rationale": "தவறு, ஔவையார் அதியமானிடம் கனி பெற்றவர்.", "isCorrect": false },
+      { "text": "அதியமான் நெடுமான் அஞ்சி", "rationale": "அதியமான் தான் பெற்ற சாகா வரம் தரும் நெல்லிக்கனியை ஔவையாருக்கு வழங்கினான்.", "isCorrect": true },
+      { "text": "வேள்பாரி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "குமணன்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "நேமிநாதத்தின் படி வேற்றுமைகள் மொத்தம் எத்தனை வகைப்படும்?",
+    "answerOptions": [
+      { "text": "7", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "8", "rationale": "வேற்றுமை எட்டாகு என்று நேமிநாதம் குறிப்பிடுகிறது.", "isCorrect": true },
+      { "text": "6", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "பரிபாடலில் 'தையல் மகளிர்' ஆடும் தைந்நீராடல் எத்தனையாவது பாடலில் விவரிக்கப் படுகிறது?",
+    "answerOptions": [
+      { "text": "11 ஆம் பாடல்", "rationale": "11 ஆம் பாடல் 'அம்பா ஆடல்' எனப்படும் தைந் நீராடலை விவரிக்கிறது.", "isCorrect": true },
+      { "text": "1 ஆம் பாடல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "5 ஆம் பாடல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "20 ஆம் பாடல்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "பொருநராற்றுப்படையில் கரிகாலன் விருந்தினரை வழியனுப்பும் போது எத்தனை அடி பின்சென்று வழியனுப்பினான்?",
+    "answerOptions": [
+      { "text": "பத்தடி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஏழடி", "rationale": "'காலின் ஏழடிப் பின்சென்று' என்று கரிகாலனின் விருந்தோம்பல் பண்பு கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "நான்கடி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஐந்தடி", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "பிள்ளைத்தமிழில் இருபாலருக்கும் பொதுவான பருவங்கள் எத்தனை?",
+    "answerOptions": [
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "7", "rationale": "காப்பு முதல் அம்புலி வரை ஏழு பருவங்கள் இருபாலருக்கும் பொதுவானவை.", "isCorrect": true },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "3", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "பகைவரது மதிலைக் கைப்பற்ற அதனை முற்றுக்கையிடுவது எந்தத் திணை?",
+    "answerOptions": [
+      { "text": "நொச்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உழிஞை", "rationale": "மதிலை வளைத்தல் உழிஞைத் திணையாகும்.", "isCorrect": true },
+      { "text": "தும்பை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "'நீரின் வந்த நிமிர்பரிப் புரவியும்' - பட்டினப்பாலையில் குறிப்பிடப்படும் இறக்குமதிப் பொருள் எது?",
+    "answerOptions": [
+      { "text": "யானைகள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குதிரைகள்", "isCorrect": true, "rationale": "கடல் வழியாக வந்த குதிரைகள் (புரவி) இறக்குமதி செய்யப்பட்டன." },
+      { "text": "முத்துக்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பவளங்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "பெரும்பாணாற்றுப்படையில் அந்தணர் வீடுகளில் பாணனுக்குக் கிடைக்கும் உணவாகக் கூறப்படுவது எது?",
+    "answerOptions": [
+      { "text": "மாதுளம் பிஞ்சு மற்றும் மிளகு கலந்த ஊறுகாய் சோறு", "rationale": "இது அந்தணர் வீட்டு உணவாகக் குறிப்பிடப்பட்டுள்ளது.", "isCorrect": true },
+      { "text": "மீன் உணவு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உடும்பு இறைச்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பால் சோறு", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "பதிற்றுப்பத்தில் எட்டாம் பத்தின் தலைவன் தகடூர் எறிந்த பெருஞ்சேரல் இரும்பொறையைப் பாடிய புலவர் யார்?",
+    "answerOptions": [
+      { "text": "கபிலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அரிசில்கிழார்", "rationale": "பெருஞ்சேரல் இரும்பொறையைப் பாடியவர் அரிசில்கிழார் ஆவார்.", "isCorrect": true },
+      { "text": "பரணர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "குமட்டூர்க் கண்ணனார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "'பாம்பறியும் பாம்பின கால்' - இப்பழமொழி உணர்த்தும் கருத்து யாது?",
+    "answerOptions": [
+      { "text": "பாம்புகளுக்குக் கால்கள் உண்டு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அறிவுடையாரை அறிவுடையாரே அறிவர்", "isCorrect": true, "rationale": "புலமை மிக்கவரைப் புலமை மிக்கவர்களே அறிவர் என்பதற்கு இது உவமையாகும்." },
+      { "text": "தீயவர்களைத் தீயவர்களே அறிவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "விதி அறிவை அழிக்கும்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "புறநானூற்றில் 'யானை புகுந்த நிலம்' உவமை மூலம் வரி வசூலிக்கும் முறை பற்றிப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "பாண்டியன் அறிவுடைநம்பி", "rationale": "முறையற்ற வரி வசூலிப்பை யானை புகுந்த நிலத்திற்கு ஒப்பிட்டுப் பாடியவர் இவர்.", "isCorrect": true },
+      { "text": "கணியன் பூங்குன்றனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மோசிகீரனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கோப்பெருஞ்சோழன்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "நேமிநாதத்தின் படி எழுத்துக்கள் பிறப்பதற்குப் பயன்படும் காற்று எது?",
+    "answerOptions": [
+      { "text": "பிராண வளி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "உதான வளி", "rationale": "உந்தியிற் றோன்றும் உதான வளியே எழுத்துக்கள் பிறக்கக் காரணமாகிறது.", "isCorrect": true },
+      { "text": "அபான வளி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சமான வளி", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "பரிபாடலில் 15 ஆம் பாடலில் 'திருமாலிருஞ்சோலை' மலையுடன் சிறப்பிக்கப்படும் திருமாலின் அண்ணன் யார்?",
+    "answerOptions": [
+      { "text": "பலதேவன் (வாலியோன்)", "rationale": "15 ஆம் பாடலில் திருமாலுடன் பலதேவனும் (நம்பி) போற்றப்படுகிறான்.", "isCorrect": true },
+      { "text": "சிவன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "முருகன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "இந்திரன்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "பொருநராற்றுப்படையில் விறலியின் கூந்தலுக்கு உவமையாகக் கூறப்படுவது எது?",
+    "answerOptions": [
+      { "text": "ஆற்றின் அறல் (கருமணல்)", "rationale": "விறலியின் கூந்தல் கருமணல் போல உள்ளதாகக் கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "மயில் தோகை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மேகக் கூட்டம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "தாமரை இதழ்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "சிதம்பரப் பாட்டியலில் அரசர்களுக்குப் பாடப்பட வேண்டிய கலம்பகப் பாடல்களின் எண்ணிக்கை என்ன?",
+    "answerOptions": [
+      { "text": "100", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "90", "rationale": "அரசர்களுக்கு 90 பாடல்கள் பாடப்பட வேண்டும் என நூல் கூறுகிறது.", "isCorrect": true },
+      { "text": "70", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "50", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "புறப்பொருள் வெண்பாமாலையில் ஒரு மன்னனின் புகழ், கல்வி, ஈகை ஆகியவற்றைப் புகழ்ந்து பாடுவது எந்தத் திணை?",
+    "answerOptions": [
+      { "text": "பாடண்திணை", "rationale": "பாடப்படும் ஆண்மகனின் ஒழுகலாறுகளைப் பாடுவது பாடாண்திணையாகும்.", "isCorrect": true },
+      { "text": "பொதுவியல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வஞ்சி", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "'கொள்வதூஉ மிகைகொளாது கொடுப்பதூஉங் குறைகொடாது' - இது எவ்வகை மக்களின் நேர்மையைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "வணிகர்கள்", "isCorrect": true, "rationale": "புகார் நகர வணிகர்களின் நேர்மையான வியாபார முறையை இது குறிக்கிறது." },
+      { "text": "அரசர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உழவர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புலவர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "பெரும்பாணாற்றுப்படையில் 'கலங்கரை விளக்கம்' எங்கு ஏற்றப்பட்டிருக்கும் என்று கூறப்பட்டுள்ளது?",
+    "answerOptions": [
+      { "text": "வானளாவிய மாடத்தில்", "rationale": "நெய்தல் நிலத்தில் உயரமான மாடத்தில் விளக்கு ஏற்றப்பட்டிருக்கும்.", "isCorrect": true },
+      { "text": "பாறை உச்சியில்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மரக்கிளையில்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கடற்கரை மணலில்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "பதிற்றுப்பத்தில் ஏழாம் பத்தைப் பாடிய புலவர் யார்?",
+    "answerOptions": [
+      { "text": "கபிலர்", "rationale": "ஏழாம் பத்தைப் பாடியவர் குறிஞ்சி பாடலில் வல்லவரான கபிலர் ஆவார்.", "isCorrect": true },
+      { "text": "பரணர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அரிசில்கிழார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பெருங்குன்றூர்கிழார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "பழமொழி நானூறு நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "முன்றுறை அரையனார்", "isCorrect": true, "rationale": "இந்நூலை இயற்றியவர் சமண சமயத்தைச் சேர்ந்த முன்றுறை அரையனார்." },
+      { "text": "திருவள்ளுவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பவணந்தி முனிவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கபிலர்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "புறநானூற்றில் 'ஈன்ற ஞான்றினும் பெரிது உவந்தனளே' என்று மகனின் வீரமரணம் கண்டு மகிழும் தாயைப் பற்றிப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "காக்கை பாடினியார் நச்செள்ளையார்", "rationale": "மகன் புறமுதுகிடாமல் வீழ்ந்ததைக் கண்டு மகிழும் தாயைப் பற்றிப் பாடியவர் இவர்.", "isCorrect": true },
+      { "text": "ஔவையார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காவற்பெண்டு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஒக்கூர் மாசாத்தியார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "நேமிநாதத்தில் உயர்திணைக்குரிய பால்கள் எத்தனை?",
+    "answerOptions": [
+      { "text": "3", "rationale": "ஆண், பெண், பலர் ஆகிய மூன்றும் உயர்திணைப் பால்கள் ஆகும்.", "isCorrect": true },
+      { "text": "2", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "1", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பரிபாடலில் முதன்முதலாகப் பயன்படுத்தப்படும் பண் எது?",
+    "answerOptions": [
+      { "text": "பாலையாழ்", "rationale": "பாடல் 1 முதல் 12 வரை பாலையாழ் பண்ணில் அமைந்துள்ளன.", "isCorrect": true },
+      { "text": "நோதிறம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "காந்தாரம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செவ்வழி", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "பொருநராற்றுப்படையில் யாழின் போர்வைக்கு உவமையாகக் கூறப்படுவது எது?",
+    "answerOptions": [
+      { "text": "விளக்கின் அழல் (சுடர்)", "rationale": "யாழின் போர்வை விளக்கின் செந்நிற சுடரைப் போன்றது என்று கூறப்படுகிறது.", "isCorrect": true },
+      { "text": "தாமரை இதழ்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பாம்பின் தோல்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மேகக் கூட்டம்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "பரணி இலக்கியம் என்பது போர்க்களத்தில் எத்தனை யானைகளைக் கொன்ற வீரனைப் பாடுவது?",
+    "answerOptions": [
+      { "text": "ஆயிரம்", "rationale": "ஆயிரம் யானைகளைக் கொன்ற வீரனைப் புகழ்ந்து பாடுவது பரணி ஆகும்.", "isCorrect": true },
+      { "text": "நூறு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "ஐந்நூறு", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பத்தாயிரம்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "புறப்பொருள் வெண்பாமாலையின்படி புறத்திணைகள் மொத்தம் எத்தனை?",
+    "answerOptions": [
+      { "text": "12", "rationale": "இந்நூல் வெட்சி முதல் பெருந்திணை வரை 12 திணைகளைக் கூறுகிறது.", "isCorrect": true },
+      { "text": "7", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "காவிரிப்பூம்பட்டினத்தின் வயல்களில் விளைந்த கரும்பு வாடியதற்குக் காரணமாகப் பட்டினப்பாலை எதைக் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "ஆலைப்புகையின் வெப்பத்தால்", "isCorrect": true, "rationale": "கரும்பு ஆலைப்புகையின் வெப்பத்தால் பூக்கள் வாடின என்று கூறப்படுகிறது." },
+      { "text": "வெயிலின் கொடுமையால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நீர் பற்றாக்குறையால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பூச்சிகளால்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "பெரும்பாணாற்றுப்படை நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "கடியலூர் உருத்திரங் கண்ணனார்", "rationale": "பெரும்பாணாற்றுப்படை மற்றும் பட்டினப்பாலை ஆகிய நூல்களை இயற்றியவர்.", "isCorrect": true },
+      { "text": "நக்கீரர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கபிலர்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "முடத்தாமக்கண்ணியார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "பதிற்றுப்பத்தில் ஒன்பதாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "இளஞ்சேரல் இரும்பொறை", "rationale": "பெருங்குன்றூர்கிழார் பாடிய ஒன்பதாம் பத்தின் தலைவன்.", "isCorrect": true },
+      { "text": "பெருஞ்சேரல் இரும்பொறை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செல்வக்கடுங்கோ", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "செங்குட்டுவன்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "'நுணலும் தன் வாயால் கெடும்' - இப்பழமொழி எதனை எச்சரிக்கிறது?",
+    "answerOptions": [
+      { "text": "தேவையற்ற பேச்சால் வரும் துன்பத்தை", "isCorrect": true, "rationale": "தவளை தன் சத்தத்தால் அழிவது போல, அறிவிலிகள் பேச்சால் கெடுவர்." },
+      { "text": "அதிக உணவை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சோம்பலை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பகையை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "புறநானூற்றில் 'முரசு கட்டிலில்' அறியாது துயின்றபோது கவரி வீசிய மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "பெருஞ்சேரல் இரும்பொறை", "rationale": "மோசிகீரனாருக்குக் கவரி வீசிப் பெருமை சேர்த்த மன்னன்.", "isCorrect": true },
+      { "text": "நெடுஞ்செழியன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கிள்ளிவளவன்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "அதியமான்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "நேமிநாதத்தில் அஃறிணைக்குரிய பால்கள் எத்தனை?",
+    "answerOptions": [
+      { "text": "2", "rationale": "ஒன்று மற்றும் பல ஆகிய இரண்டும் அஃறிணைப் பால்கள் ஆகும்.", "isCorrect": true },
+      { "text": "3", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "1", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "பரிபாடலில் 14 ஆம் பாடலைப் பாடியவரும் இசையமைத்தவரும் யார்?",
+    "answerOptions": [
+      { "text": "கேசவனார்", "rationale": "14 ஆம் பாடலைப் பாடியவரும் இசையமைத்தவரும் கேசவனார் ஆவார்.", "isCorrect": true },
+      { "text": "நல்லந்துவனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நல்லச்சுதனார்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "நன்னாகனார்", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பொருநராற்றுப்படையில் கரிகாலன் பாணருக்கு வழங்கிய ஆடை எதனைப் போன்றது என்று உவமிக்கப் படுகிறது?",
+    "answerOptions": [
+      { "text": "பாம்பின் தோல் (அரவு உரி)", "rationale": "கரிகாலன் வழங்கிய மெல்லிய ஆடை பாம்பின் சட்டை போல மென்மையானது.", "isCorrect": true },
+      { "text": "தாமரை இலை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மேகக் கூட்டம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மயில் தோகை", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "சிதம்பரப் பாட்டியலில் உலா இலக்கியத்தில் 'பேதை' பருவத்திற்குரிய வயது என்ன?",
+    "answerOptions": [
+      { "text": "5 முதல் 7 வரை", "rationale": "பேதைப் பருவத்திற்குரிய வயது 5 முதல் 7 வரை ஆகும்.", "isCorrect": true },
+      { "text": "8 முதல் 11 வரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "12 முதல் 13 வரை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "20 முதல் 25 வரை", "rationale": "தவறு.", "isCorrect": false }
+    ]
+  }
+]

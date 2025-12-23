@@ -1,0 +1,385 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "8-ஆம் நூற்றாண்டில் பாக்தாத்திலும், 12-ஆம் நூற்றாண்டில் ஸ்பெயினின் டோலடோவிலும் (Toledo) உருவான மையங்களின் முக்கிய பணி எது?",
+    "answerOptions": [
+      { "text": "மதப் பிரச்சாரம்", "isCorrect": false },
+      { "text": "மொழிபெயர்ப்பு மையங்கள்", "isCorrect": true, "rationale": "இந்தக் காலக்கட்டங்களில் இந்த இடங்களில் மிகச்சிறந்த மொழிபெயர்ப்பு மையங்கள் இயங்கின." },
+      { "text": "போர் பயிற்சி", "isCorrect": false },
+      { "text": "வணிக மையம்", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "'மொழிபெயர்த்து அதர்ப்பட யாத்தல்' - இந்தத் தொடர் இடம்பெற்றுள்ள நூல் எது?",
+    "answerOptions": [
+      { "text": "நன்னூல்", "isCorrect": false },
+      { "text": "தொல்காப்பியம்", "isCorrect": true, "rationale": "தொல்காப்பியர் மரபியலில் மொழிபெயர்ப்பு குறித்து இவ்வாறு குறிப்பிடுகிறார்." },
+      { "text": "சிலப்பதிகாரம்", "isCorrect": false },
+      { "text": "மணிமேகலை", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பைபிள் மொழிபெயர்ப்பு வரலாற்றில் 1714-ஆம் ஆண்டு தமிழில் மொழிபெயர்த்தவர் யார்?",
+    "answerOptions": [
+      { "text": "பவர் ஐயர்", "isCorrect": false },
+      { "text": "சீகன்பால்கு", "isCorrect": true, "rationale": "சீகன்பால்கு 1714-இல் முதன்முதலில் விவிலியத்தைத் தமிழில் மொழிபெயர்த்தார்." },
+      { "text": "இரேனியஸ்", "isCorrect": false },
+      { "text": "பீட்டர் பெர்சிவல்", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "அறிவியல் மொழிபெயர்ப்பில் எதற்கு இடமே இல்லை என்று மொழிபெயர்ப்பியல் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "கலைச்சொற்கள்", "isCorrect": false },
+      { "text": "துல்லியம்", "isCorrect": false },
+      { "text": "இலக்கிய நயம் (சந்தம்)", "isCorrect": true, "rationale": "அறிவியல் மொழிபெயர்ப்பில் சந்தம் அல்லது இலக்கிய நயத்திற்கு இடமில்லை." },
+      { "text": "ஒலிபெயர்ப்பு", "isCorrect": false }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "பொருத்துக: (அ) இரட்சணிய யாத்திரிகம் (ஆ) மனோன்மணீயம் (இ) சாகுந்தலம்",
+    "answerOptions": [
+      { "text": "அ-ஜான் பனியன், ஆ-லிட்டன் பிரபு, இ-காளிதாசர்", "isCorrect": true, "rationale": "மூல நூலாசிரியர்களுடன் சரியான பொருத்தம் இதுவே." }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "Abridgement என்பதன் சரியான தமிழாக்கம் எது?",
+    "answerOptions": [
+      { "text": "விரிவான மொழிபெயர்ப்பு", "isCorrect": false },
+      { "text": "சுருக்கமான மொழிபெயர்ப்பு", "isCorrect": true, "rationale": "Abridgement என்பது சுருக்கம் அல்லது சுருக்கமான மொழிபெயர்ப்பு ஆகும்." }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "Shakespeare என்பதை 'செகப்பிரியர்' என்று மாற்றுவது எவ்வகை மொழிபெயர்ப்பு?",
+    "answerOptions": [
+      { "text": "ஒலிபெயர்ப்பு", "isCorrect": false },
+      { "text": "தன்வயமாக்கல் (Domestication)", "isCorrect": true, "rationale": "பெயர்களைத் தன்மொழிப் பண்பாட்டிற்கு ஏற்ப மாற்றுவது தன்வயமாக்கல்." }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "மதுரைக்காஞ்சியில் சங்கத்தைக் குறிக்கப் பயன்படுத்தப்பட்ட சொல் எது?",
+    "answerOptions": [
+      { "text": "கழகம்", "isCorrect": false },
+      { "text": "புணர்கூட்டு", "isCorrect": true, "rationale": "மதுரைக்காஞ்சியில் 'புணர்கூட்டு' என்ற சொல் சங்கத்தைக் குறிக்கப் பயன்படுத்தப்பட்டுள்ளது." }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "சோழன் கரிகாலனைப் பாட்டுடைத் தலைவனாகக் கொண்ட நூல் எது?",
+    "answerOptions": [
+      { "text": "பொருநராற்றுப்படை", "isCorrect": true, "rationale": "முடத்தாமக் கண்ணியார் பாடிய பொருநராற்றுப்படை கரிகாலனைப் பற்றியது." }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "பத்துப்பாட்டில் மிகக் குறைந்த அடிகளைக் கொண்ட நூல் எது?",
+    "answerOptions": [
+      { "text": "குறிஞ்சிப்பாட்டு", "isCorrect": false },
+      { "text": "முல்லைப்பாட்டு", "isCorrect": true, "rationale": "முல்லைப்பாட்டு 103 அடிகளுடன் பத்துப்பாட்டில் மிகச்சிறிய நூலாகத் திகழ்கிறது." }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "பதிற்றுப்பத்தின் ஐந்தாம் பத்தைப் பாடியவர் யார்?",
+    "answerOptions": [
+      { "text": "பரணர்", "isCorrect": true, "rationale": "கடல் பிறக்கோட்டிய செங்குட்டுவனைப் பரணர் ஐந்தாம் பத்தில் பாடியுள்ளார்." }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "நெடுநல்வாடையில் கூதிர் காலத்தில் எவை தவிர்க்கப்பட்டன?",
+    "answerOptions": [
+      { "text": "சந்தனக் கல் மற்றும் ஆலவட்டம்", "isCorrect": true, "rationale": "குளிர்காலம் என்பதால் குளிர்ச்சி தரும் இவை தவிர்க்கப்பட்டன." }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "இந்திர விழா மற்றும் தொண்டி, முசிறி துறைமுகக் குறிப்புகள் இடம்பெற்றுள்ள நூல்?",
+    "answerOptions": [
+      { "text": "ஐங்குறுநூறு", "isCorrect": true, "rationale": "ஐங்குறுநூற்றில் இந்தச் செய்திகள் இடம்பெற்றுள்ளன." }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "திருமுருகாற்றுப்படையில் கூறப்படும் படைவீடுகளின் வரிசையில் முதலிடம் எது?",
+    "answerOptions": [
+      { "text": "திருப்பரங்குன்றம்", "isCorrect": true, "rationale": "திருப்பரங்குன்றமே படைவீடுகளின் வரிசையில் முதலில் வரும்." }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "இந்தியாவின் முதல் செய்தித்தாளைத் தொடங்கியவர் யார்?",
+    "answerOptions": [
+      { "text": "ஜேம்ஸ் அகஸ்டஸ் இக்கே", "isCorrect": true, "rationale": "1780-ல் இவர் பெங்கால் கெஜட் இதழைத் தொடங்கினார்." }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "ஜி. சுப்பிரமணிய ஐயர் 1882-ல் தொடங்கிய தமிழ் இதழ் எது?",
+    "answerOptions": [
+      { "text": "இந்தியா", "isCorrect": false },
+      { "text": "சுதேசமித்திரன்", "isCorrect": true, "rationale": "இவர் முதலில் வார இதழாகச் சுதேசமித்திரனைத் தொடங்கினார்." }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "பெரியார் 1925-ல் தொடங்கிய இதழ் எது?",
+    "answerOptions": [
+      { "text": "குடியரசு", "isCorrect": true, "rationale": "சுயமரியாதை இயக்கத்தின் கொள்கைகளைப் பரப்ப குடியரசு தொடங்கப்பட்டது." }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "நவீனத் தமிழ் சிறுகதை இலக்கியத்திற்கு வித்திட்ட இதழ் எது?",
+    "answerOptions": [
+      { "text": "மணிக்கொடி", "isCorrect": true, "rationale": "1933-ல் தொடங்கப்பட்ட மணிக்கொடி சிறுகதைக்கு முக்கியத்துவம் அளித்தது." }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "தினத்தந்தி நாளிதழ் முதன்முதலில் தொடங்கப்பட்ட ஊர் எது?",
+    "answerOptions": [
+      { "text": "மதுரை", "isCorrect": true, "rationale": "1942-ல் மதுரையிலிருந்து தினத்தந்தி தொடங்கப்பட்டது." }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "வை.மு. கோதைநாயகி நடத்திய இதழ் எது?",
+    "answerOptions": [
+      { "text": "ஜகன்மோகினி", "isCorrect": true, "rationale": "ஜகன்மோகினி இதழை இவர் வெற்றிகரமாக நடத்தினார்." }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "பாரதியார் ஆசிரியராகப் பணியாற்றிய இதழ்கள் எவை?",
+    "answerOptions": [
+      { "text": "இந்தியா, விஜயா, சக்கரவர்த்தினி", "isCorrect": true, "rationale": "பாரதியார் பல இதழ்களுடன் நெருங்கிய தொடர்பு கொண்டிருந்தார்." }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "அமைப்பு மொழியியலில் (Structural Linguistics) எதற்கு முதலிடம் தரப்படுகிறது?",
+    "answerOptions": [
+      { "text": "எழுத்து மொழி", "isCorrect": false },
+      { "text": "பேச்சு மொழி", "isCorrect": true, "rationale": "அமைப்பு மொழியியல் பேச்சை முதன்மையாகக் கருதுகிறது." }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "மொழியின் இலக்கண விதிகளைப் பற்றிய ஆழ்மன அறிவை சாம்ஸ்கி எவ்வாறு அழைக்கிறார்?",
+    "answerOptions": [
+      { "text": "Performance", "isCorrect": false },
+      { "text": "Competence", "isCorrect": true, "rationale": "Competence என்பது உள்ளுறை ஆற்றலைக் குறிக்கும்." }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "இரண்டு ஒலிகள் தனித்தனி ஒலியன்கள் என்பதை அறிய உதவும் சோதனை எது?",
+    "answerOptions": [
+      { "text": "Minimal Pair (குறைந்தபட்சக் கூறு)", "isCorrect": true, "rationale": "கல்-பல் போன்ற குறைந்தபட்சக் கூறு சோதனை இதற்குப் பயன்படும்." }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "தமிழ் மொழி எவ்வகை மொழிக் குடும்பத்தைச் சார்ந்தது (அமைப்பில்)?",
+    "answerOptions": [
+      { "text": "ஒட்டுமொழி (Agglutinative)", "isCorrect": true, "rationale": "அடிச்சொல்லுடன் உருபுகள் ஒட்டுகளாகச் சேர்வதால் இது ஒட்டுமொழி." }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "Infix என்பதற்குத் தமிழில் என்ன பெயர்?",
+    "answerOptions": [
+      { "text": "முன்னொட்டு", "isCorrect": false },
+      { "text": "உள்ளொட்டு", "isCorrect": true, "rationale": "சொல்லின் உள்ளே செருகப்படுவது உள்ளொட்டு." }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "திராவிட மொழிகளில் வேற்றுமை உருபுகள் எங்கு இணையும்?",
+    "answerOptions": [
+      { "text": "சொல்லின் முதலில்", "isCorrect": false },
+      { "text": "சொல்லின் இறுதியில் (பின்னொட்டாக)", "isCorrect": true, "rationale": "திராவிட மொழிகளில் இவை பின்னொட்டுகளாகவே வரும்." }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "பொருளற்ற ஒலிகள் இணைந்து அர்த்தமுள்ள சொற்களை உருவாக்கும் பண்பு எது?",
+    "answerOptions": [
+      { "text": "இருமை (Duality)", "isCorrect": true, "rationale": "இருமை என்பது மொழியின் அடிப்படைப் பண்புகளில் ஒன்று." }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "தொல்காப்பியப் பாயிரம் கூறும் தமிழ் நிலத்தின் வடக்கு எல்லை எது?",
+    "answerOptions": [
+      { "text": "குமரி", "isCorrect": false },
+      { "text": "வேங்கடம்", "isCorrect": true, "rationale": "வடவேங்கடம் தென்குமரி எனத் தமிழ் நில எல்லை கூறப்படுகிறது." }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "தொல்காப்பியர் கூறும் சார்பெழுத்துகள் எத்தனை?",
+    "answerOptions": [
+      { "text": "3", "isCorrect": true, "rationale": "குற்றியலிகரம், குற்றியலுகரம், ஆய்தம் ஆகிய மூன்றே சார்பெழுத்துகள்." }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "நெய்தல் நிலத்திற்குரிய தெய்வமாகத் தொல்காப்பியம் யாரைக் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "வேந்தன்", "isCorrect": false },
+      { "text": "வருணன்", "isCorrect": true, "rationale": "நெய்தல் நிலத் தெய்வம் வருணன் ஆகும்." }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "மெய்ப்பாட்டியலில் தொல்காப்பியர் குறிப்பிடும் மெய்ப்பாடுகள் எத்தனை?",
+    "answerOptions": [
+      { "text": "8", "isCorrect": true, "rationale": "நகை முதல் உவகை வரை 8 மெய்ப்பாடுகளைக் குறிப்பிடுகிறார்." }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "வனப்பு (அழகு) எத்தனை வகைப்படும் எனச் செய்யுளியல் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "8", "isCorrect": true, "rationale": "அம்மை முதல் இழைபு வரை 8 வகை வனப்புகள் உள்ளன." }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "மரபியலின்படி ஓரறிவு உயிர் எது?",
+    "answerOptions": [
+      { "text": "புல், மரம்", "isCorrect": true, "rationale": "தொடு உணர்வு (உற்றறிதல்) மட்டுமே கொண்ட இவை ஓரறிவு உயிர்கள்." }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "தொல்காப்பியர் கூறும் நால்வகைச் சொற்களில் வடமொழிச் சொல் எது?",
+    "answerOptions": [
+      { "text": "திசைச்சொல்", "isCorrect": false },
+      { "text": "வடசொல்", "isCorrect": true, "rationale": "சமஸ்கிருதத்திலிருந்து வரும் சொற்கள் வடசொல் எனப்பட்டன." }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "பூம்புகார் அகழ்வாய்வில் கீழையூரில் கண்டறியப்பட்ட அமைப்பு எது?",
+    "answerOptions": [
+      { "text": "அரண்மனை", "isCorrect": false },
+      { "text": "படகுத் துறை (Wharf)", "isCorrect": true, "rationale": "பூம்புகார் கீழையூரில் 'L' வடிவ படகுத் துறை கண்டறியப்பட்டது." }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "சென்னையில் பழைய கற்காலக் கருவிகளைக் கண்டறிந்தவர் யார்?",
+    "answerOptions": [
+      { "text": "ராபர்ட் புரூஸ்பூட்", "isCorrect": true, "rationale": "இவர் பல்லாவரத்தில் பழைய கற்காலக் கருவிகளைக் கண்டறிந்தார்." }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "தமிழ் பிராமி கல்வெட்டுகளில் காணப்படும் மொழி நடை எது?",
+    "answerOptions": [
+      { "text": "தூய தமிழ்", "isCorrect": false },
+      { "text": "தமிழ் மற்றும் பிராகிருதம் கலந்த நடை", "isCorrect": true, "rationale": "தம்மம், தானம் போன்ற பிராகிருதச் சொற்கள் கலந்துள்ளன." }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "மூன்று தலைமுறை சேர மன்னர்களைப் பற்றிக் கூறும் கல்வெட்டு எது?",
+    "answerOptions": [
+      { "text": "மாங்குளம்", "isCorrect": false },
+      { "text": "புகழூர் கல்வெட்டு", "isCorrect": true, "rationale": "புகழூர் கல்வெட்டு சேர மன்னர்களின் வம்சாவளியைக் கூறுகிறது." }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "உறையூர் எத்தொழிலுக்குப் புகழ் பெற்றது?",
+    "answerOptions": [
+      { "text": "முத்துக்குளித்தல்", "isCorrect": false },
+      { "text": "பருத்தி ஆடை நெசவு", "isCorrect": true, "rationale": "அகழ்வாய்வில் சாயத் தொட்டிகள் கண்டறியப்பட்டது இதற்குச் சான்று." }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "மாங்குளம் கல்வெட்டு குறிப்பிடும் பாண்டிய மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "நெடுஞ்செழியன்", "isCorrect": true, "rationale": "பாண்டியன் நெடுஞ்செழியன் பற்றிக் கூறுகிறது." }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "வேள்விக்குடிச் செப்பேட்டை வெளியிட்ட மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "நெடுஞ்சடையன்", "isCorrect": true, "rationale": "பாண்டியன் நெடுஞ்சடையன் இச்செப்பேட்டை வழங்கினான்." }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "துன்பியல் நாடகத்தின் (Tragedy) ஆன்மா என்று அரிஸ்டாட்டில் எதனைக் கூறுகிறார்?",
+    "answerOptions": [
+      { "text": "பாத்திரம்", "isCorrect": false },
+      { "text": "கதைப்பின்னல் (Plot)", "isCorrect": true, "rationale": "கதைப்பின்னலே நாடகத்தின் மிக முக்கியமான உறுப்பு." }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "கவிஞர்களைத் தனது இலட்சிய நாட்டிலிருந்து வெளியேற்றியவர் யார்?",
+    "answerOptions": [
+      { "text": "அரிஸ்டாட்டில்", "isCorrect": false },
+      { "text": "பிளேட்டோ", "isCorrect": true, "rationale": "பிளேட்டோ கவிஞர்களைத் தனது குடியரசிலிருந்து வெளியேற்றினார்." }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "துன்பியல் தலைவனின் வீழ்ச்சிக்குக் காரணமாக அமையும் 'பிழை' எது?",
+    "answerOptions": [
+      { "text": "கத்தார்சிஸ்", "isCorrect": false },
+      { "text": "ஹமார்ஷியா (Hamartia)", "isCorrect": true, "rationale": "இது தலைவனிடம் காணப்படும் ஒரு சிறு குறைபாடாகும்." }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "ஹாரஸ் கவிதையின் இரண்டு நோக்கங்களாக எவற்றைக் கூறுகிறார்?",
+    "answerOptions": [
+      { "text": "கற்பித்தல் மற்றும் மகிழ்வித்தல்", "isCorrect": true, "rationale": "To instruct and delight என்பதே கவிதையின் நோக்கம்." }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "உணர்ச்சிகளைச் சமநிலைப்படுத்துதல் அல்லது தூய்மைப்படுத்துதல் என்பது?",
+    "answerOptions": [
+      { "text": "பிளாட்", "isCorrect": false },
+      { "text": "கத்தார்சிஸ் (Catharsis)", "isCorrect": true, "rationale": "இரக்கம், அச்சம் மூலம் உணர்ச்சிகளைத் தூய்மைப்படுத்துவதே கத்தார்சிஸ்." }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "வரலாறு நடந்ததைக் கூறுகிறது; கவிதை நடக்கக்கூடியதைக் கூறுகிறது என்று கூறியவர்?",
+    "answerOptions": [
+      { "text": "அரிஸ்டாட்டில்", "isCorrect": true, "rationale": "அரிஸ்டாட்டில் கவிதையை வரலாற்றை விட உயர்ந்ததாகக் கருதினார்." }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பாத்திரப்படைப்பில் 'பொருத்தம்' (Appropriateness) இருக்க வேண்டும் என்று வலியுறுத்தியவர்?",
+    "answerOptions": [
+      { "text": "அரிஸ்டாட்டில்", "isCorrect": true, "rationale": "பாத்திரங்கள் அவற்றின் நிலைக்கு ஏற்பப் பேச வேண்டும் என்பது அவர் கருத்து." }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஹாரஸ் எதனை 'சாணைக்கல்' (Whetstone) என்று அழைக்கிறார்?",
+    "answerOptions": [
+      { "text": "கவிதை", "isCorrect": false },
+      { "text": "திறனாய்வாளன் (Critic)", "isCorrect": true, "rationale": "திறனாய்வாளன் கவிஞனைத் தீட்டி கூர்மைப்படுத்துபவன் என்பதால் சாணைக்கல்லாகக் கருதப்படுகிறார்." }
+    ]
+  }
+]
