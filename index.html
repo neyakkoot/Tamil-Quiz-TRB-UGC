@@ -3,283 +3,301 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>தமிழ் வினாடி-வினா - Premium</title>
+    <title>தமிழ் வினாடி-வினா 100</title>
     <link href="https://fonts.googleapis.com/css2?family=Mukta+Mahee:wght@400;700&family=Noto+Sans+Tamil:wght@400;700&display=swap" rel="stylesheet">
     
     <style>
         :root {
-            --primary-gradient: linear-gradient(135deg, #1e3799 0%, #009432 100%);
-            --secondary-color: #0652DD;
-            --success: #00b894;
-            --error: #d63031;
-            --body-bg: #f8f9fa;
+            --primary: #1e3799;
+            --secondary: #009432;
+            --accent: #f39c12;
+            --error: #ea2027;
+            --bg: #f4f7f6;
         }
 
         body {
-            font-family: 'Mukta Mahee', 'Noto Sans Tamil', sans-serif;
-            background-color: var(--body-bg);
+            font-family: 'Mukta Mahee', sans-serif;
+            background-color: var(--bg);
             margin: 0;
-            padding: 10px;
             display: flex;
             min-height: 100vh;
             justify-content: center;
             align-items: center;
+            padding: 10px;
         }
 
         .quiz-card {
             background: white;
             width: 100%;
-            max-width: 600px;
-            padding: 25px;
+            max-width: 650px;
+            padding: 30px;
             border-radius: 20px;
-            box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-            border-top: 8px solid #1e3799;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            position: relative;
+            overflow: hidden;
         }
 
-        h1 {
-            color: #2f3542;
-            text-align: center;
-            font-size: 26px;
+        /* Progress Bar */
+        .progress-container {
+            width: 100%;
+            height: 8px;
+            background: #eee;
+            border-radius: 10px;
             margin-bottom: 20px;
         }
+        .progress-bar {
+            height: 100%;
+            background: var(--primary);
+            width: 0%;
+            transition: width 0.3s;
+        }
 
-        .stats-bar {
+        /* Timer Circle */
+        .timer-box {
+            position: absolute;
+            top: 20px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            border: 4px solid #eee;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: bold;
+            color: var(--accent);
+        }
+
+        .stats {
             display: flex;
             justify-content: space-between;
-            background: #f1f2f6;
-            padding: 10px 20px;
-            border-radius: 50px;
-            margin-bottom: 20px;
-            font-weight: bold;
-            font-size: 14px;
-        }
-
-        .meta-info {
-            font-size: 13px;
-            color: #747d8c;
             margin-bottom: 15px;
-            text-align: center;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
+            font-size: 14px;
+            font-weight: bold;
+            color: #555;
         }
 
         #q-text {
-            font-size: 20px;
-            color: #2f3542;
-            line-height: 1.6;
-            margin-bottom: 25px;
+            font-size: 22px;
             font-weight: 700;
+            margin: 20px 0;
+            line-height: 1.5;
+            color: #2c3e50;
         }
 
         .option-btn {
-            background: white;
-            border: 2px solid #dfe4ea;
-            padding: 14px 18px;
+            display: block;
             width: 100%;
-            margin-bottom: 12px;
+            padding: 15px 20px;
+            margin: 10px 0;
+            border: 2px solid #ddd;
             border-radius: 12px;
-            cursor: pointer;
+            background: white;
             font-size: 17px;
+            cursor: pointer;
             text-align: left;
-            transition: all 0.2s ease;
+            transition: 0.2s;
             font-family: inherit;
         }
 
         .option-btn:hover:not([disabled]) {
-            border-color: var(--secondary-color);
-            background: #f1f2f6;
+            border-color: var(--primary);
+            background: #f0f7ff;
         }
 
-        .correct { background: #dff9fb !important; border-color: var(--success) !important; color: #009432; }
-        .wrong { background: #ffeaa7 !important; border-color: var(--error) !important; color: #d63031; }
+        .correct { background: #d1e7dd !important; border-color: var(--secondary) !important; color: #0f5132; }
+        .wrong { background: #f8d7da !important; border-color: var(--error) !important; color: #842029; }
 
-        .nav-controls {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
+        .controls {
+            display: flex;
             gap: 15px;
-            margin-top: 20px;
+            margin-top: 25px;
         }
 
         .btn {
+            flex: 1;
             padding: 15px;
-            border-radius: 12px;
             border: none;
-            font-size: 16px;
+            border-radius: 10px;
             font-weight: bold;
             cursor: pointer;
-            transition: 0.3s;
-            font-family: inherit;
+            font-size: 16px;
         }
 
-        .btn-prev { background: #ced4da; color: #495057; }
-        .btn-next { background: var(--secondary-color); color: white; }
-        .btn-start { background: var(--primary-gradient); color: white; width: 100%; }
-
-        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
-
-        #feedback {
-            text-align: center;
-            font-weight: bold;
-            margin-top: 10px;
-            min-height: 24px;
-        }
+        .btn-start { background: var(--primary); color: white; }
+        .btn-next { background: var(--secondary); color: white; }
+        .btn-prev { background: #95a5a6; color: white; }
 
         .rationale {
-            font-size: 14px;
-            color: #57606f;
-            background: #f9f9f9;
-            padding: 10px;
+            background: #fff3cd;
+            padding: 12px;
             border-radius: 8px;
-            margin-top: 5px;
-            border-left: 3px solid #ffa502;
+            font-size: 14px;
+            margin-top: 10px;
+            border-left: 4px solid var(--accent);
         }
+
+        .loader-screen { text-align: center; padding: 40px; }
     </style>
 </head>
 <body>
 
 <div class="quiz-card">
-    <h1>தமிழ் வினாடி-வினா</h1>
-
-    <div id="home-screen">
-        <p style="text-align:center; color:#57606f;">30-க்கும் மேற்பட்ட தலைப்புகளில் இருந்து வினாக்கள் சுழற்சி முறையில் கேட்கப்படும்.</p>
-        <button class="btn btn-start" onclick="initQuiz()">பயிற்சியைத் தொடங்கு</button>
+    <div id="start-screen">
+        <h1 style="text-align:center; color: var(--primary);">தமிழ் வினாடி-வினா 100</h1>
+        <p style="text-align:center;">30+ தலைப்புகளிலிருந்து தேர்ந்தெடுக்கப்பட்ட <b>100 வினாக்கள்</b>. <br> ஒவ்வொரு வினாவிற்கும் 30 வினாடிகள் நேரம்.</p>
+        <button class="btn btn-start" style="width:100%" onclick="initQuiz()">விளையாட்டைத் தொடங்கு</button>
     </div>
 
-    <div id="quiz-screen" style="display:none;">
-        <div class="stats-bar">
-            <span>சரியானது: <span id="score-val">0</span></span>
-            <span>வினா: <span id="current-idx">0</span> / <span id="total-limit">10</span></span>
-        </div>
-
-        <div class="meta-info">
-            <span id="cat-display"></span> | <span id="title-display"></span>
+    <div id="quiz-ui" style="display:none;">
+        <div class="timer-box" id="timer">30</div>
+        <div class="progress-container"><div class="progress-bar" id="progress"></div></div>
+        
+        <div class="stats">
+            <span>மதிப்பெண்: <span id="score">0</span></span>
+            <span>வினா: <span id="q-count">1</span> / 100</span>
         </div>
 
         <div id="q-area">
             <div id="q-text"></div>
             <div id="options-area"></div>
-            <div id="feedback"></div>
         </div>
 
-        <div class="nav-controls">
-            <button id="prev-btn" class="btn btn-prev" onclick="changeQuestion(-1)">முந்தைய</button>
-            <button id="next-btn" class="btn btn-next" onclick="changeQuestion(1)">அடுத்த வினா</button>
+        <div id="feedback-area"></div>
+
+        <div class="controls">
+            <button class="btn btn-prev" id="prev-btn" onclick="changeQuestion(-1)">முந்தைய</button>
+            <button class="btn btn-next" id="next-btn" onclick="changeQuestion(1)">அடுத்த வினா</button>
         </div>
+    </div>
+
+    <div id="loading-screen" class="loader-screen" style="display:none;">
+        <h3>வினாக்கள் திரட்டப்படுகின்றன...</h3>
+        <p>தயவுசெய்து காத்திருக்கவும்.</p>
     </div>
 </div>
 
 <script src="data.js"></script>
 <script>
     let allQuestions = [];
-    let currentIndex = 0;
+    let currentIdx = 0;
     let score = 0;
-    let answeredQuestions = new Set();
+    let timer;
+    let timeLeft = 30;
+    let answeredQuestions = {}; // { index: selectedOptionIndex }
 
     async function initQuiz() {
-        document.getElementById('home-screen').style.display = 'none';
-        document.getElementById('quiz-screen').style.display = 'block';
-        
-        // 1. அனைத்து கோப்புகளிலிருந்தும் வினாக்களைத் திரட்டுதல்
-        let tempQuestions = [];
-        
-        // காண்பிக்கும் வேகத்திற்காக ஒரு 5-10 ரேண்டம் கோப்புகளை மட்டும் எடுக்கலாம்
-        // அல்லது அனைத்து 30+ கோப்புகளையும் எடுக்கலாம். இங்கே அனைத்தும் எடுக்கப்படுகிறது.
+        document.getElementById('start-screen').style.display = 'none';
+        document.getElementById('loading-screen').style.display = 'block';
+
+        let pool = [];
+        // அனைத்து கோப்புகளிலிருந்தும் தரவுகளைப் பெறுதல்
         for (let cat of masterData) {
             for (let qz of cat.quizzes) {
                 try {
                     const res = await fetch(qz.file);
                     const data = await res.json();
                     const qs = Array.isArray(data) ? data : (data.questions || []);
-                    // ஒவ்வொரு வினாவிலும் அதன் கேட்டகிரி தகவலைச் சேர்த்தல்
-                    qs.forEach(item => {
-                        item.sourceCat = cat.category;
-                        item.sourceTitle = qz.title;
-                        tempQuestions.push(item);
-                    });
-                } catch(e) { console.log("Error loading:", qz.file); }
+                    qs.forEach(q => pool.push(q));
+                } catch(e) { console.error("Error loading:", qz.file); }
             }
         }
 
-        // 2. வினாக்களை ரேண்டமாக கலக்குதல் (Shuffle)
-        allQuestions = tempQuestions.sort(() => Math.random() - 0.5);
-        
-        // முதல் 50 வினாக்களை மட்டும் பயிற்சியில் வைக்கலாம் (வேகத்திற்காக)
-        allQuestions = allQuestions.slice(0, 50); 
-        
-        currentIndex = 0;
-        updateUI();
+        // 100 வினாக்களை ரேண்டமாகத் தேர்ந்தெடுத்தல்
+        allQuestions = pool.sort(() => 0.5 - Math.random()).slice(0, 100);
+
+        document.getElementById('loading-screen').style.display = 'none';
+        document.getElementById('quiz-ui').style.display = 'block';
+        showQuestion();
     }
 
-    function updateUI() {
-        const q = allQuestions[currentIndex];
-        document.getElementById('current-idx').innerText = currentIndex + 1;
-        document.getElementById('total-limit').innerText = allQuestions.length;
-        document.getElementById('cat-display').innerText = q.sourceCat;
-        document.getElementById('title-display').innerText = q.sourceTitle;
+    function startTimer() {
+        clearInterval(timer);
+        timeLeft = 30;
+        document.getElementById('timer').innerText = timeLeft;
+        document.getElementById('timer').style.color = "var(--accent)";
+
+        timer = setInterval(() => {
+            timeLeft--;
+            document.getElementById('timer').innerText = timeLeft;
+            if (timeLeft <= 10) document.getElementById('timer').style.color = "var(--error)";
+            if (timeLeft <= 0) {
+                clearInterval(timer);
+                autoSkip();
+            }
+        }, 1000);
+    }
+
+    function showQuestion() {
+        const q = allQuestions[currentIdx];
+        document.getElementById('q-count').innerText = currentIdx + 1;
         document.getElementById('q-text').innerText = q.question;
-        document.getElementById('feedback').innerText = "";
+        document.getElementById('progress').style.width = (currentIdx + 1) + "%";
         
         const optionsArea = document.getElementById('options-area');
+        const feedbackArea = document.getElementById('feedback-area');
         optionsArea.innerHTML = "";
+        feedbackArea.innerHTML = "";
 
-        const opts = q.answerOptions || [];
-        opts.forEach((opt, idx) => {
+        q.answerOptions.forEach((opt, i) => {
             const btn = document.createElement('button');
             btn.className = 'option-btn';
             btn.innerText = opt.text;
-            
-            // ஏற்கனவே விடையளித்திருந்தால் முடிவுகளைக் காட்ட
-            if(answeredQuestions.has(currentIndex)) {
+
+            // ஏற்கனவே பதில் அளித்திருந்தால்
+            if (answeredQuestions[currentIdx] !== undefined) {
+                clearInterval(timer);
                 btn.disabled = true;
-                if(opt.isCorrect) btn.classList.add('correct');
+                if (opt.isCorrect) btn.classList.add('correct');
+                if (i === answeredQuestions[currentIdx] && !opt.isCorrect) btn.classList.add('wrong');
             }
 
-            btn.onclick = () => handleAnswer(btn, opt, q);
+            btn.onclick = () => handleAnswer(i, opt, btn);
             optionsArea.appendChild(btn);
         });
 
-        // முந்தைய பொத்தான் கட்டுப்பாடு
-        document.getElementById('prev-btn').disabled = (currentIndex === 0);
-        document.getElementById('next-btn').innerText = (currentIndex === allQuestions.length - 1) ? "முடிக்க" : "அடுத்த வினா";
+        document.getElementById('prev-btn').disabled = currentIdx === 0;
+        if (answeredQuestions[currentIdx] === undefined) startTimer();
     }
 
-    function handleAnswer(btn, selectedOpt, question) {
-        if(answeredQuestions.has(currentIndex)) return;
-        
-        answeredQuestions.add(currentIndex);
+    function handleAnswer(idx, opt, btn) {
+        clearInterval(timer);
+        answeredQuestions[currentIdx] = idx;
         const allBtns = document.querySelectorAll('.option-btn');
         allBtns.forEach(b => b.disabled = true);
 
-        if(selectedOpt.isCorrect) {
+        if (opt.isCorrect) {
             btn.classList.add('correct');
-            document.getElementById('feedback').innerText = "✅ சரியான விடை!";
-            document.getElementById('feedback').style.color = "var(--success)";
             score++;
-            document.getElementById('score-val').innerText = score;
+            document.getElementById('score').innerText = score;
         } else {
             btn.classList.add('wrong');
-            document.getElementById('feedback').innerText = "❌ தவறான விடை!";
-            document.getElementById('feedback').style.color = "var(--error)";
-            // சரியான விடையைக் காண்பித்தல்
-            question.answerOptions.forEach((o, i) => {
-                if(o.isCorrect) allBtns[i].classList.add('correct');
+            // சரியான விடையைக் காட்டு
+            allQuestions[currentIdx].answerOptions.forEach((o, i) => {
+                if (o.isCorrect) allBtns[i].classList.add('correct');
             });
         }
 
-        if(selectedOpt.rationale) {
-            const rDiv = document.createElement('div');
-            rDiv.className = 'rationale';
-            rDiv.innerText = "விளக்கம்: " + selectedOpt.rationale;
-            btn.appendChild(rDiv);
+        if (opt.rationale) {
+            const div = document.createElement('div');
+            div.className = 'rationale';
+            div.innerText = "விளக்கம்: " + opt.rationale;
+            document.getElementById('feedback-area').appendChild(div);
         }
     }
 
+    function autoSkip() {
+        answeredQuestions[currentIdx] = -1; // No answer
+        alert("நேரம் முடிந்தது!");
+        changeQuestion(1);
+    }
+
     function changeQuestion(step) {
-        currentIndex += step;
-        if(currentIndex >= 0 && currentIndex < allQuestions.length) {
-            updateUI();
-        } else if (currentIndex >= allQuestions.length) {
-            alert("பயிற்சி முடிந்தது! உங்கள் மதிப்பெண்: " + score);
+        currentIdx += step;
+        if (currentIdx >= 0 && currentIdx < allQuestions.length) {
+            showQuestion();
+        } else if (currentIdx >= allQuestions.length) {
+            alert("விளையாட்டு முடிந்தது! உங்கள் மதிப்பெண்: " + score + " / 100");
             location.reload();
         }
     }
