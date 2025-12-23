@@ -3,180 +3,238 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>தமிழ் வினாடி-வினா 100</title>
+    <title>தமிழ் வினாடி-வினா - Premium Edition</title>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Tamil:wght@400;700&display=swap" rel="stylesheet">
     
     <style>
         :root {
-            --primary: #2c3e50;
-            --secondary: #27ae60;
-            --accent: #d35400;
-            --error: #c0392b;
-            --bg: #fdfdfd;
+            --primary: #1a2a6c;
+            --secondary: #b21f1f;
+            --accent: #fdbb2d;
+            --success: #27ae60;
+            --error: #e74c3c;
+            --bg: #f4f7f6;
         }
 
         body {
             font-family: 'Noto Serif Tamil', serif;
-            background-color: #f0f2f5;
+            background-color: var(--bg);
             margin: 0;
+            padding: 20px;
             display: flex;
-            min-height: 100vh;
-            justify-content: center;
+            flex-direction: column;
             align-items: center;
-            padding: 15px;
+            min-height: 100vh;
+        }
+
+        /* பிரதான கட்டமைப்பு */
+        .main-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 20px;
+            max-width: 1200px;
+            width: 100%;
+        }
+
+        .side-image {
+            width: 200px;
+            height: auto;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            margin-top: 50px;
         }
 
         .quiz-card {
             background: white;
-            width: 100%;
-            max-width: 650px;
-            padding: 30px;
-            border-radius: 15px;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
-            border: 1px solid #ddd;
+            flex: 1;
+            max-width: 800px; /* விளையாட்டுப் பகுதி அளவினை அதிகப்படுத்தியது */
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.15);
+            border-top: 10px solid var(--primary);
+            position: relative;
+        }
+
+        h1 {
+            color: var(--primary);
+            text-align: center;
+            font-size: 32px;
+            margin-bottom: 30px;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
         }
 
         .header-info {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-bottom: 20px;
-            border-bottom: 2px solid #f0f0f0;
-            padding-bottom: 10px;
+            background: #f8f9fa;
+            padding: 15px 25px;
+            border-radius: 15px;
+            margin-bottom: 25px;
+            border: 1px solid #eee;
         }
 
-        .timer-display {
-            font-size: 20px;
+        .timer-box {
+            font-size: 24px;
             font-weight: bold;
-            color: var(--accent);
-            background: #fff3e0;
+            color: var(--secondary);
             padding: 5px 15px;
-            border-radius: 20px;
-            border: 1px solid var(--accent);
+            background: #fff;
+            border-radius: 10px;
+            border: 2px solid var(--secondary);
         }
+
+        .stats-box { font-weight: bold; color: #555; font-size: 18px; }
 
         .progress-container {
             width: 100%;
-            height: 6px;
+            height: 10px;
             background: #eee;
             border-radius: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         .progress-bar {
             height: 100%;
-            background: var(--secondary);
+            background: linear-gradient(to right, var(--primary), var(--secondary));
             width: 0%;
-            transition: width 0.3s;
-        }
-
-        .stats {
-            display: flex;
-            justify-content: space-between;
-            font-size: 15px;
-            font-weight: bold;
-            color: #555;
-            margin-bottom: 10px;
+            border-radius: 10px;
+            transition: width 0.4s ease;
         }
 
         #q-text {
-            font-size: 22px;
+            font-size: 24px;
             font-weight: 700;
-            margin: 25px 0;
+            margin-bottom: 30px;
             line-height: 1.6;
-            color: var(--primary);
+            color: #222;
         }
 
         .option-btn {
             display: block;
             width: 100%;
-            padding: 16px;
-            margin: 12px 0;
-            border: 1px solid #ccc;
-            border-radius: 8px;
+            padding: 18px 25px;
+            margin: 15px 0;
+            border: 2px solid #ddd;
+            border-radius: 12px;
             background: #fff;
-            font-size: 17px;
+            font-size: 19px;
             cursor: pointer;
             text-align: left;
-            transition: 0.2s;
+            transition: all 0.2s ease;
             font-family: inherit;
         }
 
         .option-btn:hover:not([disabled]) {
-            background: #f9f9f9;
             border-color: var(--primary);
+            background: #f0f7ff;
+            transform: translateX(5px);
         }
 
-        .correct { background: #d4edda !important; border-color: var(--secondary) !important; color: #155724; }
+        .correct { background: #d4edda !important; border-color: var(--success) !important; color: #155724; font-weight: bold; }
         .wrong { background: #f8d7da !important; border-color: var(--error) !important; color: #721c24; }
 
         .controls {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
-            gap: 10px;
-            margin-top: 30px;
+            gap: 15px;
+            margin-top: 40px;
         }
 
         .btn {
-            padding: 12px;
+            padding: 15px;
             border: none;
-            border-radius: 6px;
+            border-radius: 10px;
             font-weight: bold;
             cursor: pointer;
-            font-size: 15px;
+            font-size: 16px;
+            transition: 0.3s;
             font-family: inherit;
         }
 
         .btn-prev { background: #95a5a6; color: white; }
         .btn-next { background: var(--primary); color: white; }
-        .btn-quit { background: var(--error); color: white; }
+        .btn-quit { background: var(--secondary); color: white; }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
 
-        .rationale {
-            background: #f8f9fa;
-            padding: 15px;
-            border-radius: 8px;
-            font-size: 14px;
-            margin-top: 10px;
-            border-left: 4px solid var(--accent);
-            color: #333;
+        /* உருவாக்குநர் பகுதி */
+        .creator-info {
+            margin-top: 50px;
+            padding: 20px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            max-width: 800px;
+            width: 100%;
+            border-bottom: 5px solid var(--accent);
         }
 
-        .loader-screen { text-align: center; padding: 50px; }
+        .creator-img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid var(--primary);
+        }
+
+        .creator-text h4 { margin: 0; color: var(--primary); font-size: 18px; }
+        .creator-text p { margin: 5px 0 0; color: #666; font-size: 14px; }
+
+        .loader-screen { text-align: center; padding: 100px; font-size: 24px; color: var(--primary); }
     </style>
 </head>
 <body>
 
-<div class="quiz-card">
-    <div id="start-screen">
-        <h1 style="text-align:center; color: var(--primary);">தமிழ் வினாடி-வினா 100</h1>
-        <p style="text-align:center; line-height: 1.6;">தேர்ந்தெடுக்கப்பட்ட 100 வினாக்கள். <br> வினாவுக்கு 30 வினாடிகள். உங்கள் பயணத்தைத் தொடங்குங்கள்!</p>
-        <button class="btn btn-next" style="width:100%; margin-top:20px;" onclick="initQuiz()">தொடங்கு</button>
+<div class="main-wrapper">
+    <img src="தொல்காப்பியர்.jpg" alt="தொல்காப்பியர்" class="side-image">
+
+    <div class="quiz-card">
+        <div id="start-screen">
+            <h1>தமிழ் வினாடி-வினா - 100</h1>
+            <p style="text-align:center; font-size: 18px; color: #555;">
+                மொத்தம் 100 வினாக்கள் | கால அளவு: 60 நிமிடங்கள் <br>
+                தொடங்கத் தயாரா?
+            </p>
+            <button class="btn btn-next" style="width:100%; margin-top:30px; font-size: 20px;" onclick="initQuiz()">விளையாட்டைத் தொடங்கு</button>
+        </div>
+
+        <div id="quiz-ui" style="display:none;">
+            <div class="header-info">
+                <div class="stats-box">வினா: <span id="q-count">1</span> / 100</div>
+                <div class="timer-box" id="timer">60:00</div>
+                <div class="stats-box">மதிப்பெண்: <span id="score">0</span></div>
+            </div>
+            
+            <div class="progress-container"><div class="progress-bar" id="progress"></div></div>
+
+            <div id="q-area">
+                <div id="q-text"></div>
+                <div id="options-area"></div>
+            </div>
+
+            <div class="controls">
+                <button class="btn btn-prev" id="prev-btn" onclick="changeQuestion(-1)">முந்தைய</button>
+                <button class="btn btn-quit" onclick="quitQuiz()">வெளியேறு</button>
+                <button class="btn btn-next" id="next-btn" onclick="changeQuestion(1)">அடுத்தது</button>
+            </div>
+        </div>
+
+        <div id="loading-screen" class="loader-screen" style="display:none;">
+            வினாக்கள் சேகரிக்கப்படுகின்றன...
+        </div>
     </div>
 
-    <div id="quiz-ui" style="display:none;">
-        <div class="header-info">
-            <div class="stats">வினா: <span id="q-count">1</span> / 100</div>
-            <div class="timer-display" id="timer">30</div>
-            <div class="stats">மதிப்பெண்: <span id="score">0</span></div>
-        </div>
-        
-        <div class="progress-container"><div class="progress-bar" id="progress"></div></div>
+    <img src="திருவள்ளுவர்.jpg" alt="திருவள்ளுவர்" class="side-image">
+</div>
 
-        <div id="q-area">
-            <div id="q-text"></div>
-            <div id="options-area"></div>
-        </div>
-
-        <div id="feedback-area"></div>
-
-        <div class="controls">
-            <button class="btn btn-prev" id="prev-btn" onclick="changeQuestion(-1)">முந்தைய</button>
-            <button class="btn btn-quit" onclick="quitQuiz()">வெளியேறு</button>
-            <button class="btn btn-next" id="next-btn" onclick="changeQuestion(1)">அடுத்தது</button>
-        </div>
-    </div>
-
-    <div id="loading-screen" class="loader-screen" style="display:none;">
-        <h3 style="color: var(--primary);">வினாக்கள் தொகுக்கப்படுகின்றன...</h3>
+<div class="creator-info">
+    <img src="Sathiyaraj.png" alt="முனைவர் சத்தியராசு தங்கச்சாமி" class="creator-img">
+    <div class="creator-text">
+        <h4>உருவாக்குநர்: முனைவர் சத்தியராசு தங்கச்சாமி</h4>
+        <p>பயிற்றுநர், தமிழ்நாடு, இந்தியா</p>
     </div>
 </div>
 
@@ -186,7 +244,7 @@
     let currentIdx = 0;
     let score = 0;
     let timer;
-    let timeLeft = 30;
+    let totalTime = 60 * 60; // 60 நிமிடங்கள்
     let answeredQuestions = {}; 
 
     async function initQuiz() {
@@ -205,28 +263,28 @@
             }
         }
 
+        // 100 வினாக்களை ரேண்டமாகத் தேர்ந்தெடுத்தல்
         allQuestions = pool.sort(() => 0.5 - Math.random()).slice(0, 100);
 
         document.getElementById('loading-screen').style.display = 'none';
         document.getElementById('quiz-ui').style.display = 'block';
+        
+        startGlobalTimer();
         showQuestion();
     }
 
-    function startTimer() {
-        clearInterval(timer);
-        timeLeft = 30;
+    function startGlobalTimer() {
         const timerElem = document.getElementById('timer');
-        timerElem.innerText = timeLeft;
-        timerElem.style.background = "#fff3e0";
-
         timer = setInterval(() => {
-            timeLeft--;
-            timerElem.innerText = timeLeft;
-            if (timeLeft <= 5) timerElem.style.background = "#ffdce0";
-            if (timeLeft <= 0) {
+            totalTime--;
+            let mins = Math.floor(totalTime / 60);
+            let secs = totalTime % 60;
+            timerElem.innerText = `${mins.toString().padStart(2, '0')}:${secs.toString().padStart(2, '0')}`;
+            
+            if (totalTime <= 0) {
                 clearInterval(timer);
                 alert("கால அவகாசம் முடிந்தது!");
-                handleAnswer(-1, {isCorrect: false}, null); // Auto-fail
+                finishQuiz();
             }
         }, 1000);
     }
@@ -238,9 +296,7 @@
         document.getElementById('progress').style.width = (currentIdx + 1) + "%";
         
         const optionsArea = document.getElementById('options-area');
-        const feedbackArea = document.getElementById('feedback-area');
         optionsArea.innerHTML = "";
-        feedbackArea.innerHTML = "";
 
         q.answerOptions.forEach((opt, i) => {
             const btn = document.createElement('button');
@@ -248,7 +304,6 @@
             btn.innerText = opt.text;
 
             if (answeredQuestions[currentIdx] !== undefined) {
-                clearInterval(timer);
                 btn.disabled = true;
                 if (opt.isCorrect) btn.classList.add('correct');
                 if (i === answeredQuestions[currentIdx] && !opt.isCorrect) btn.classList.add('wrong');
@@ -259,31 +314,22 @@
         });
 
         document.getElementById('prev-btn').disabled = currentIdx === 0;
-        if (answeredQuestions[currentIdx] === undefined) startTimer();
     }
 
     function handleAnswer(idx, opt, btn) {
-        clearInterval(timer);
         answeredQuestions[currentIdx] = idx;
         const allBtns = document.querySelectorAll('.option-btn');
         allBtns.forEach(b => b.disabled = true);
 
         if (opt.isCorrect) {
-            if(btn) btn.classList.add('correct');
+            btn.classList.add('correct');
             score++;
             document.getElementById('score').innerText = score;
         } else {
-            if(btn) btn.classList.add('wrong');
+            btn.classList.add('wrong');
             allQuestions[currentIdx].answerOptions.forEach((o, i) => {
                 if (o.isCorrect) allBtns[i].classList.add('correct');
             });
-        }
-
-        if (opt.rationale) {
-            const div = document.createElement('div');
-            div.className = 'rationale';
-            div.innerHTML = "<b>விளக்கம்:</b> " + opt.rationale;
-            document.getElementById('feedback-area').appendChild(div);
         }
     }
 
@@ -297,7 +343,8 @@
     }
 
     function finishQuiz() {
-        alert("பயிற்சி நிறைவடைந்தது! உங்கள் மொத்த மதிப்பெண்: " + score + " / 100");
+        clearInterval(timer);
+        alert(`பயிற்சி நிறைவடைந்தது! உங்கள் மதிப்பெண்: ${score} / 100`);
         location.reload();
     }
 
