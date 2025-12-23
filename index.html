@@ -5,20 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>தமிழ் வினாடி-வினா களஞ்சியம்</title>
     <style>
-        :root { --primary: #1a73e8; --bg: #f0f2f5; }
-        body { font-family: 'Segoe UI', Arial, sans-serif; background-color: var(--bg); margin: 0; padding: 20px; display: flex; justify-content: center; }
+        :root { --primary: #1a73e8; --bg: #f0f2f5; --success: #28a745; --error: #dc3545; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; background-color: var(--bg); margin: 0; padding: 15px; display: flex; justify-content: center; }
         .quiz-container { background: white; width: 100%; max-width: 600px; padding: 25px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
-        h1 { color: var(--primary); text-align: center; font-size: 24px; margin-bottom: 10px; }
-        .score-board { text-align: center; font-weight: bold; margin-bottom: 15px; color: #5f6368; background: #f8f9fa; padding: 10px; border-radius: 8px; }
-        .meta-info { background: #e8f0fe; padding: 12px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid var(--primary); }
-        .question-box { margin-bottom: 20px; min-height: 100px; }
-        .option-btn { display: block; width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #dadce0; border-radius: 8px; background: white; cursor: pointer; text-align: left; font-size: 16px; transition: 0.2s; }
+        h1 { color: var(--primary); text-align: center; font-size: 22px; margin-bottom: 10px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
+        .score-board { text-align: center; font-weight: bold; margin-bottom: 15px; color: #5f6368; background: #f8f9fa; padding: 10px; border-radius: 8px; border: 1px solid #eee; }
+        .meta-info { background: #e8f0fe; padding: 12px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid var(--primary); font-size: 14px; }
+        .question-box { margin-bottom: 20px; min-height: 120px; }
+        #q-text { color: #202124; line-height: 1.5; font-size: 18px; }
+        .option-btn { display: block; width: 100%; padding: 14px; margin: 10px 0; border: 1px solid #dadce0; border-radius: 8px; background: white; cursor: pointer; text-align: left; font-size: 16px; transition: all 0.2s ease; }
         .option-btn:hover:not([disabled]) { background-color: #f1f3f4; border-color: var(--primary); }
-        .correct { background-color: #d4edda !important; border-color: #28a745 !important; color: #155724; font-weight: bold; }
-        .wrong { background-color: #f8d7da !important; border-color: #dc3545 !important; color: #721c24; }
-        .btn-action { background: var(--primary); color: white; border: none; padding: 14px; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; margin-top: 10px; }
+        .correct { background-color: #d4edda !important; border-color: var(--success) !important; color: #155724; font-weight: bold; }
+        .wrong { background-color: #f8d7da !important; border-color: var(--error) !important; color: #721c24; }
+        .btn-action { background: var(--primary); color: white; border: none; padding: 15px; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; margin-top: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
         .btn-action:hover { background: #1557b0; }
-        #feedback { text-align: center; margin-top: 10px; font-weight: bold; height: 20px; }
+        #feedback { text-align: center; margin-top: 15px; font-weight: bold; min-height: 24px; font-size: 18px; }
         .loading { text-align: center; font-style: italic; color: #666; }
     </style>
 </head>
@@ -28,7 +29,7 @@
     <h1>தமிழ் வினாடி-வினா</h1>
     
     <div id="start-ui">
-        <p style="text-align:center; color: #555;">உங்கள் 30-க்கும் மேற்பட்ட தலைப்புகளில் இருந்து தன்னிச்சையாக வினாக்கள் கேட்கப்படும்.</p>
+        <p style="text-align:center; color: #555; line-height: 1.6;">30-க்கும் மேற்பட்ட தலைப்புகளிலிருந்து தன்னிச்சையாக வினாக்கள் கேட்கப்படும். உங்கள் அறிவைச் சோதிக்கத் தயாரா?</p>
         <button class="btn-action" onclick="pickRandomQuiz()">வினாடியைத் தொடங்கு</button>
     </div>
 
@@ -39,7 +40,7 @@
 
         <div class="meta-info">
             <div id="cat-name" style="font-weight: bold; color: var(--primary);"></div>
-            <div id="quiz-title" style="font-size: 14px; margin-top: 4px; color: #555;"></div>
+            <div id="quiz-title" style="margin-top: 4px; color: #555;"></div>
         </div>
 
         <div class="question-box">
@@ -57,19 +58,20 @@
 
 <script>
     let score = 0;
-    let totalQuestions = 0;
+    let totalQuestionsCount = 0;
 
     async function pickRandomQuiz() {
-        // UI மாற்றம்
+        // UI Reset
         document.getElementById('start-ui').style.display = 'none';
         document.getElementById('quiz-ui').style.display = 'block';
         document.getElementById('next-btn').style.display = 'none';
         document.getElementById('feedback').innerText = "";
         document.getElementById('options-area').innerHTML = "";
-        document.getElementById('q-text').innerText = "வினாத்தாள் கிடைக்கிறது...";
-        document.getElementById('q-text').className = "loading";
+        const qElem = document.getElementById('q-text');
+        qElem.innerText = "வினாத்தாள் தேடப்படுகிறது...";
+        qElem.className = "loading";
 
-        // ரேண்டமாக ஒரு பிரிவைத் தேர்ந்தெடுத்தல்
+        // Random Selection Logic
         const category = masterData[Math.floor(Math.random() * masterData.length)];
         const quiz = category.quizzes[Math.floor(Math.random() * category.quizzes.length)];
 
@@ -77,28 +79,26 @@
         document.getElementById('quiz-title').innerText = "தலைப்பு: " + quiz.title;
 
         try {
-            // உங்கள் கோப்புகள் நேரடியாக (Root) இருப்பதால் நேரடியாக fetch செய்கிறோம்
+            // Fetching JSON from root
             const res = await fetch(quiz.file);
-            
             if (!res.ok) throw new Error("கோப்பு இல்லை");
             
             const data = await res.json();
             
-            // JSON அமைப்பின்படி வினாக்களை எடுத்தல்
-            // சில சமயம் தரவு நேரடியாக அரே-வாக இருக்கும், சில சமயம் data.questions என்று இருக்கும்
+            // Checking structure (Array or Object)
             const questionsArray = Array.isArray(data) ? data : (data.questions || []);
             
-            if (questionsArray.length === 0) throw new Error("வினாக்கள் காலி");
+            if (questionsArray.length === 0) throw new Error("வினாக்கள் கிடைக்கவில்லை");
 
-            // வினாத்தாளிலிருந்து ஒரு ரேண்டம் வினாவைத் தேர்ந்தெடுத்தல்
+            // Picking a random question from the file
             const randomQ = questionsArray[Math.floor(Math.random() * questionsArray.length)];
             displayQuestion(randomQ);
             
         } catch (err) {
-            document.getElementById('q-text').innerText = "பிழை: " + quiz.file + " கோப்பைக் கண்டறிய முடியவில்லை.";
-            document.getElementById('q-text').className = "";
+            qElem.innerText = "பிழை: " + quiz.file + " ஏற்றப்படவில்லை. (Check file name)";
+            qElem.className = "";
             document.getElementById('next-btn').style.display = 'block';
-            document.getElementById('next-btn').innerText = "வேறு வினாத்தாளை முயலவும்";
+            document.getElementById('next-btn').innerText = "மறுபடி முயல்க";
         }
     }
 
@@ -110,44 +110,51 @@
         const optionsArea = document.getElementById('options-area');
         optionsArea.innerHTML = "";
 
-        // ஆப்ஷன்கள் 'options' என்ற பெயரில் இருக்க வேண்டும்
-        if(q.options && Array.isArray(q.options)) {
-            q.options.forEach(opt => {
+        // Handling multiple JSON keys for compatibility
+        const options = q.options || q.choices || q.answers || q.ஆப்ஷன்கள் || [];
+        const correctAnswer = q.answer || q.correct_answer || q.correct || q.பதில்;
+
+        if(Array.isArray(options) && options.length > 0) {
+            options.forEach(opt => {
                 const btn = document.createElement('button');
                 btn.className = 'option-btn';
                 btn.innerText = opt;
-                btn.onclick = () => checkAnswer(btn, opt, q.answer);
+                btn.onclick = () => checkAnswer(btn, opt, correctAnswer);
                 optionsArea.appendChild(btn);
             });
+        } else {
+            optionsArea.innerHTML = "<p style='color:red;'>இந்தக் கோப்பில் விடைத் தெரிவுகள் (Options) முறைப்படி இல்லை!</p>";
         }
     }
 
     function checkAnswer(btn, selected, correct) {
-        totalQuestions++;
-        document.getElementById('total').innerText = totalQuestions;
+        totalQuestionsCount++;
+        document.getElementById('total').innerText = totalQuestionsCount;
         
         const allButtons = document.querySelectorAll('.option-btn');
         allButtons.forEach(b => b.disabled = true);
 
         const feedback = document.getElementById('feedback');
 
-        if (selected === correct) {
+        // String comparison with trimmed values to avoid space issues
+        if (String(selected).trim() === String(correct).trim()) {
             btn.classList.add('correct');
             feedback.innerText = "✅ மிகச் சரி!";
-            feedback.style.color = "#28a745";
+            feedback.style.color = "var(--success)";
             score++;
             document.getElementById('score').innerText = score;
         } else {
             btn.classList.add('wrong');
             feedback.innerText = "❌ தவறு!";
-            feedback.style.color = "#dc3545";
-            // சரியான விடையைக் காண்பிக்க
+            feedback.style.color = "var(--error)";
+            // Highlighting the right answer
             allButtons.forEach(b => {
-                if(b.innerText === correct) b.classList.add('correct');
+                if(String(b.innerText).trim() === String(correct).trim()) {
+                    b.classList.add('correct');
+                }
             });
         }
         document.getElementById('next-btn').style.display = 'block';
-        document.getElementById('next-btn').innerText = "அடுத்த வினாத்தாள்";
     }
 </script>
 
