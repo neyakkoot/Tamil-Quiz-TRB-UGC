@@ -26,7 +26,6 @@
             align-items: center;
         }
 
-        /* பிரதான கட்டமைப்பு */
         .page-layout {
             display: grid;
             grid-template-columns: 220px 1fr 220px;
@@ -59,12 +58,7 @@
             min-height: 600px;
         }
 
-        h1 {
-            color: var(--primary);
-            text-align: center;
-            font-size: 38px;
-            margin-top: 0;
-        }
+        h1 { color: var(--primary); text-align: center; font-size: 38px; margin-top: 0; }
 
         .quiz-header {
             display: flex;
@@ -87,11 +81,7 @@
             border-radius: 15px;
         }
 
-        .info-pill {
-            font-size: 20px;
-            color: #444;
-            font-weight: bold;
-        }
+        .info-pill { font-size: 20px; color: #444; font-weight: bold; }
 
         .progress-track {
             width: 100%;
@@ -144,6 +134,21 @@
         .correct { background: #e7faf3 !important; border-color: var(--success) !important; color: #1e7e34; font-weight: bold; }
         .wrong { background: #fff5f5 !important; border-color: var(--error) !important; color: #c53030; }
 
+        /* விடைக்குறிப்பு வடிவம் */
+        .rationale-box {
+            margin-top: 25px;
+            padding: 20px;
+            background: #fff9e6;
+            border-left: 6px solid var(--accent);
+            border-radius: 10px;
+            font-size: 20px;
+            color: #444;
+            display: none;
+            animation: fadeIn 0.5s ease;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+
         .action-bar {
             display: flex;
             justify-content: space-between;
@@ -168,7 +173,6 @@
         .btn-red { background: #7f0000; color: white; }
         .control-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
-        /* உருவாக்குநர் பகுதி */
         .creator-section {
             display: flex;
             align-items: center;
@@ -182,14 +186,7 @@
             border-bottom: 6px solid var(--accent);
         }
 
-        .creator-photo {
-            width: 140px;
-            height: 140px;
-            border-radius: 50%;
-            border: 5px solid var(--primary);
-            object-fit: cover;
-        }
-
+        .creator-photo { width: 140px; height: 140px; border-radius: 50%; border: 5px solid var(--primary); object-fit: cover; }
         .creator-details { margin-left: 30px; }
         .creator-details h3 { margin: 0; font-size: 24px; color: var(--primary); }
         .creator-details p { margin: 10px 0 0; font-size: 18px; color: #666; }
@@ -208,21 +205,17 @@
         <div id="welcome-view">
             <h1>தமிழ் வினாடி-வினா - 100</h1>
             <div style="text-align:center; padding: 20px 0;">
-                <p style="text-align:center; font-size: 22px; color: #444; line-height: 1.8; margin-bottom: 30px;">
+                <p style="font-size: 22px; color: #444; line-height: 1.8; margin-bottom: 30px;">
                     தேர்ந்தெடுக்கப்பட்ட <b style="color: var(--primary);">100 வினாக்கள்</b><br>
                     கால அளவு: <b style="color: var(--secondary);">60 நிமிடங்கள்</b><br>
-                    <span style="font-size: 18px; color: #666;">வினாக்கள் அனைத்தும் தன்னிச்சையாக (Random) மாறும் வகையில் நுட்பமாக அமைக்கப்பட்டுள்ளது.</span>
+                    <span style="font-size: 18px; color: #666;">வினாக்கள் தன்னிச்சையாக (Random) மாறும் வகையில் நுட்பமாக அமைக்கப்பட்டுள்ளது.</span>
                 </p>
-                <button class="control-btn btn-blue" style="max-width: 400px; margin-top: 10px; padding: 20px;" onclick="begin()">
-                    பயிற்சியைத் தொடக்குக
-                </button>
+                <button class="control-btn btn-blue" style="max-width: 400px; padding: 20px;" onclick="begin()">பயிற்சியைத் தொடக்குக</button>
             </div>
         </div>
 
         <div id="loading-screen" class="loader-screen" style="display:none;">
-            <h3 style="color: var(--primary); font-size: 26px; font-weight: bold;">
-                வினாக்கள் தொகுக்கப்படுகின்றன...
-            </h3>
+            <h3 style="color: var(--primary); font-size: 26px; font-weight: bold;">வினாக்கள் தொகுக்கப்படுகின்றன...</h3>
             <p style="color: #666; font-size: 18px;">தயவுசெய்து சில நொடிகள் காத்திருக்கவும்.</p>
         </div>
 
@@ -232,11 +225,11 @@
                 <div class="timer-display" id="clock">60:00</div>
                 <div class="info-pill">மதிப்பெண்: <span id="pts">0</span></div>
             </div>
-
             <div class="progress-track"><div class="progress-fill" id="bar"></div></div>
-
             <div id="q-text"></div>
             <div class="options-grid" id="opt-grid"></div>
+            
+            <div id="rationale-display" class="rationale-box"></div>
 
             <div class="action-bar">
                 <button class="control-btn btn-gray" id="back-btn" onclick="move(-1)">முந்தைய</button>
@@ -265,13 +258,12 @@
     let currentPos = 0;
     let userPoints = 0;
     let timerRef;
-    let secondsLeft = 3600; // 60 நிமிடங்கள்
+    let secondsLeft = 3600;
     let history = {};
 
     async function begin() {
         document.getElementById('welcome-view').style.display = 'none';
         document.getElementById('loading-screen').style.display = 'block';
-
         let rawData = [];
         for (let category of masterData) {
             for (let quizItem of category.quizzes) {
@@ -283,12 +275,9 @@
                 } catch(e) { console.error("File error:", quizItem.file); }
             }
         }
-
         questionsPool = rawData.sort(() => Math.random() - 0.5).slice(0, 100);
-        
         document.getElementById('loading-screen').style.display = 'none';
         document.getElementById('play-view').style.display = 'block';
-        
         runClock();
         render();
     }
@@ -299,10 +288,7 @@
             let m = Math.floor(secondsLeft / 60);
             let s = secondsLeft % 60;
             document.getElementById('clock').innerText = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
-            if(secondsLeft <= 0) {
-                clearInterval(timerRef);
-                complete();
-            }
+            if(secondsLeft <= 0) { clearInterval(timerRef); complete(); }
         }, 1000);
     }
 
@@ -314,6 +300,9 @@
         
         const grid = document.getElementById('opt-grid');
         grid.innerHTML = "";
+        
+        const rationaleDisplay = document.getElementById('rationale-display');
+        rationaleDisplay.style.display = "none";
 
         q.answerOptions.forEach((opt, idx) => {
             const btn = document.createElement('button');
@@ -322,20 +311,27 @@
 
             if (history[currentPos] !== undefined) {
                 btn.disabled = true;
-                if (opt.isCorrect) btn.classList.add('correct');
+                if (opt.isCorrect) {
+                    btn.classList.add('correct');
+                    // விடைக்குறிப்பைக் காண்பி
+                    if(opt.rationale) {
+                        rationaleDisplay.innerHTML = `<b>விடைக்குறிப்பு:</b> ${opt.rationale}`;
+                        rationaleDisplay.style.display = "block";
+                    }
+                }
                 if (idx === history[currentPos] && !opt.isCorrect) btn.classList.add('wrong');
             }
 
             btn.onclick = () => select(idx, opt, btn);
             grid.appendChild(btn);
         });
-
         document.getElementById('back-btn').disabled = (currentPos === 0);
     }
 
     function select(index, option, element) {
         history[currentPos] = index;
         const btns = document.querySelectorAll('.opt-btn');
+        const rationaleDisplay = document.getElementById('rationale-display');
         btns.forEach(b => b.disabled = true);
 
         if (option.isCorrect) {
@@ -348,27 +344,23 @@
                 if (o.isCorrect) btns[i].classList.add('correct');
             });
         }
+
+        // விடை அளித்தவுடன் சரியான விடைக்குரிய குறிப்பைக் காட்டு
+        const correctOpt = questionsPool[currentPos].answerOptions.find(o => o.isCorrect);
+        if(correctOpt && correctOpt.rationale) {
+            rationaleDisplay.innerHTML = `<b>விடைக்குறிப்பு:</b> ${correctOpt.rationale}`;
+            rationaleDisplay.style.display = "block";
+        }
     }
 
     function move(step) {
         currentPos += step;
-        if (currentPos >= 0 && currentPos < questionsPool.length) {
-            render();
-        } else if (currentPos >= questionsPool.length) {
-            complete();
-        }
+        if (currentPos >= 0 && currentPos < questionsPool.length) render();
+        else if (currentPos >= questionsPool.length) complete();
     }
 
-    function complete() {
-        clearInterval(timerRef);
-        alert(`பயிற்சி நிறைவு! உங்கள் மதிப்பெண்: ${userPoints} / 100`);
-        location.reload();
-    }
-
-    function terminate() {
-        if(confirm("பயிற்சியை பாதியில் நிறுத்த வேண்டுமா?")) location.reload();
-    }
+    function complete() { clearInterval(timerRef); alert(`பயிற்சி நிறைவு! மதிப்பெண்: ${userPoints} / 100`); location.reload(); }
+    function terminate() { if(confirm("வெளியேற வேண்டுமா?")) location.reload(); }
 </script>
-
 </body>
 </html>
