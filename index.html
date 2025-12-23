@@ -11,16 +11,14 @@
         h1 { color: var(--primary); text-align: center; font-size: 22px; margin-bottom: 10px; border-bottom: 2px solid #eee; padding-bottom: 10px; }
         .score-board { text-align: center; font-weight: bold; margin-bottom: 15px; color: #5f6368; background: #f8f9fa; padding: 10px; border-radius: 8px; border: 1px solid #eee; }
         .meta-info { background: #e8f0fe; padding: 12px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid var(--primary); font-size: 14px; }
-        .question-box { margin-bottom: 20px; min-height: 120px; }
-        #q-text { color: #202124; line-height: 1.5; font-size: 18px; }
+        #q-text { color: #202124; line-height: 1.5; font-size: 18px; margin-bottom: 20px; }
         .option-btn { display: block; width: 100%; padding: 14px; margin: 10px 0; border: 1px solid #dadce0; border-radius: 8px; background: white; cursor: pointer; text-align: left; font-size: 16px; transition: all 0.2s ease; }
         .option-btn:hover:not([disabled]) { background-color: #f1f3f4; border-color: var(--primary); }
         .correct { background-color: #d4edda !important; border-color: var(--success) !important; color: #155724; font-weight: bold; }
         .wrong { background-color: #f8d7da !important; border-color: var(--error) !important; color: #721c24; }
-        .btn-action { background: var(--primary); color: white; border: none; padding: 15px; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; margin-top: 15px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
-        .btn-action:hover { background: #1557b0; }
-        #feedback { text-align: center; margin-top: 15px; font-weight: bold; min-height: 24px; font-size: 18px; }
-        .loading { text-align: center; font-style: italic; color: #666; }
+        .rationale { font-size: 14px; margin-top: 5px; color: #555; font-style: italic; }
+        .btn-action { background: var(--primary); color: white; border: none; padding: 15px; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; margin-top: 15px; }
+        #feedback { text-align: center; margin-top: 15px; font-weight: bold; font-size: 18px; }
     </style>
 </head>
 <body>
@@ -29,7 +27,7 @@
     <h1>தமிழ் வினாடி-வினா</h1>
     
     <div id="start-ui">
-        <p style="text-align:center; color: #555; line-height: 1.6;">30-க்கும் மேற்பட்ட தலைப்புகளிலிருந்து தன்னிச்சையாக வினாக்கள் கேட்கப்படும். உங்கள் அறிவைச் சோதிக்கத் தயாரா?</p>
+        <p style="text-align:center;">உங்கள் 30+ தலைப்புகளிலிருந்து தன்னிச்சையாக வினாக்கள் கேட்கப்படும்.</p>
         <button class="btn-action" onclick="pickRandomQuiz()">வினாடியைத் தொடங்கு</button>
     </div>
 
@@ -37,19 +35,13 @@
         <div class="score-board">
             சரியான பதில்கள்: <span id="score">0</span> / <span id="total">0</span>
         </div>
-
         <div class="meta-info">
             <div id="cat-name" style="font-weight: bold; color: var(--primary);"></div>
             <div id="quiz-title" style="margin-top: 4px; color: #555;"></div>
         </div>
-
-        <div class="question-box">
-            <h3 id="q-text" class="loading">வினாத்தாள் தயார் செய்யப்படுகிறது...</h3>
-            <div id="options-area"></div>
-        </div>
-
+        <div id="q-text">வினா ஏற்றப்படுகிறது...</div>
+        <div id="options-area"></div>
         <div id="feedback"></div>
-
         <button id="next-btn" class="btn-action" onclick="pickRandomQuiz()" style="display:none;">அடுத்த வினாத்தாள்</button>
     </div>
 </div>
@@ -61,17 +53,12 @@
     let totalQuestionsCount = 0;
 
     async function pickRandomQuiz() {
-        // UI Reset
         document.getElementById('start-ui').style.display = 'none';
         document.getElementById('quiz-ui').style.display = 'block';
         document.getElementById('next-btn').style.display = 'none';
         document.getElementById('feedback').innerText = "";
         document.getElementById('options-area').innerHTML = "";
-        const qElem = document.getElementById('q-text');
-        qElem.innerText = "வினாத்தாள் தேடப்படுகிறது...";
-        qElem.className = "loading";
-
-        // Random Selection Logic
+        
         const category = masterData[Math.floor(Math.random() * masterData.length)];
         const quiz = category.quizzes[Math.floor(Math.random() * category.quizzes.length)];
 
@@ -79,84 +66,68 @@
         document.getElementById('quiz-title').innerText = "தலைப்பு: " + quiz.title;
 
         try {
-            // Fetching JSON from root
             const res = await fetch(quiz.file);
-            if (!res.ok) throw new Error("கோப்பு இல்லை");
-            
             const data = await res.json();
-            
-            // Checking structure (Array or Object)
             const questionsArray = Array.isArray(data) ? data : (data.questions || []);
-            
-            if (questionsArray.length === 0) throw new Error("வினாக்கள் கிடைக்கவில்லை");
-
-            // Picking a random question from the file
             const randomQ = questionsArray[Math.floor(Math.random() * questionsArray.length)];
             displayQuestion(randomQ);
-            
         } catch (err) {
-            qElem.innerText = "பிழை: " + quiz.file + " ஏற்றப்படவில்லை. (Check file name)";
-            qElem.className = "";
+            document.getElementById('q-text').innerText = "பிழை: கோப்பை ஏற்ற முடியவில்லை.";
             document.getElementById('next-btn').style.display = 'block';
-            document.getElementById('next-btn').innerText = "மறுபடி முயல்க";
         }
     }
 
     function displayQuestion(q) {
-        const qText = document.getElementById('q-text');
-        qText.innerText = q.question;
-        qText.className = "";
-        
+        document.getElementById('q-text').innerText = q.question;
         const optionsArea = document.getElementById('options-area');
         optionsArea.innerHTML = "";
 
-        // Handling multiple JSON keys for compatibility
-        const options = q.options || q.choices || q.answers || q.ஆப்ஷன்கள் || [];
-        const correctAnswer = q.answer || q.correct_answer || q.correct || q.பதில்;
+        // உங்கள் JSON-ல் உள்ள 'answerOptions' ஐப் பயன்படுத்துகிறோம்
+        const options = q.answerOptions || [];
 
-        if(Array.isArray(options) && options.length > 0) {
-            options.forEach(opt => {
-                const btn = document.createElement('button');
-                btn.className = 'option-btn';
-                btn.innerText = opt;
-                btn.onclick = () => checkAnswer(btn, opt, correctAnswer);
-                optionsArea.appendChild(btn);
-            });
-        } else {
-            optionsArea.innerHTML = "<p style='color:red;'>இந்தக் கோப்பில் விடைத் தெரிவுகள் (Options) முறைப்படி இல்லை!</p>";
-        }
-    }
+        options.forEach(opt => {
+            const btn = document.createElement('button');
+            btn.className = 'option-btn';
+            btn.innerHTML = `<div>${opt.text}</div>`;
+            
+            btn.onclick = () => {
+                totalQuestionsCount++;
+                document.getElementById('total').innerText = totalQuestionsCount;
+                
+                // அனைத்து பட்டன்களையும் முடக்கு
+                const allButtons = document.querySelectorAll('.option-btn');
+                allButtons.forEach(b => b.disabled = true);
 
-    function checkAnswer(btn, selected, correct) {
-        totalQuestionsCount++;
-        document.getElementById('total').innerText = totalQuestionsCount;
-        
-        const allButtons = document.querySelectorAll('.option-btn');
-        allButtons.forEach(b => b.disabled = true);
-
-        const feedback = document.getElementById('feedback');
-
-        // String comparison with trimmed values to avoid space issues
-        if (String(selected).trim() === String(correct).trim()) {
-            btn.classList.add('correct');
-            feedback.innerText = "✅ மிகச் சரி!";
-            feedback.style.color = "var(--success)";
-            score++;
-            document.getElementById('score').innerText = score;
-        } else {
-            btn.classList.add('wrong');
-            feedback.innerText = "❌ தவறு!";
-            feedback.style.color = "var(--error)";
-            // Highlighting the right answer
-            allButtons.forEach(b => {
-                if(String(b.innerText).trim() === String(correct).trim()) {
-                    b.classList.add('correct');
+                if (opt.isCorrect) {
+                    btn.classList.add('correct');
+                    document.getElementById('feedback').innerText = "✅ மிகச் சரி!";
+                    document.getElementById('feedback').style.color = "var(--success)";
+                    score++;
+                    document.getElementById('score').innerText = score;
+                } else {
+                    btn.classList.add('wrong');
+                    document.getElementById('feedback').innerText = "❌ தவறு!";
+                    document.getElementById('feedback').style.color = "var(--error)";
+                    
+                    // சரியான விடையைக் காட்டு
+                    options.forEach((o, index) => {
+                        if(o.isCorrect) allButtons[index].classList.add('correct');
+                    });
                 }
-            });
-        }
-        document.getElementById('next-btn').style.display = 'block';
+
+                // விளக்கத்தைக் காட்ட (Rationale)
+                if(opt.rationale) {
+                    const ratDiv = document.createElement('div');
+                    ratDiv.className = 'rationale';
+                    ratDiv.innerText = "விளக்கம்: " + opt.rationale;
+                    btn.appendChild(ratDiv);
+                }
+                
+                document.getElementById('next-btn').style.display = 'block';
+            };
+            optionsArea.appendChild(btn);
+        });
     }
 </script>
-
 </body>
 </html>
