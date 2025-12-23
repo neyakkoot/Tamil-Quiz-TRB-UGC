@@ -5,55 +5,71 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>தமிழ் வினாடி-வினா களஞ்சியம்</title>
     <style>
-        body { font-family: 'Segoe UI', Arial, sans-serif; background-color: #f0f2f5; margin: 0; padding: 20px; display: flex; justify-content: center; }
-        .quiz-container { background: white; width: 100%; max-width: 600px; padding: 25px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.08); }
-        h1 { color: #1a73e8; text-align: center; font-size: 24px; }
-        .meta-info { background: #e8f0fe; padding: 10px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid #1a73e8; }
-        .question-box { margin-bottom: 20px; }
+        :root { --primary: #1a73e8; --bg: #f0f2f5; }
+        body { font-family: 'Segoe UI', Arial, sans-serif; background-color: var(--bg); margin: 0; padding: 20px; display: flex; justify-content: center; }
+        .quiz-container { background: white; width: 100%; max-width: 600px; padding: 25px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+        h1 { color: var(--primary); text-align: center; font-size: 24px; margin-bottom: 10px; }
+        .score-board { text-align: center; font-weight: bold; margin-bottom: 15px; color: #5f6368; background: #f8f9fa; padding: 10px; border-radius: 8px; }
+        .meta-info { background: #e8f0fe; padding: 12px; border-radius: 8px; margin-bottom: 20px; border-left: 5px solid var(--primary); }
+        .question-box { margin-bottom: 20px; min-height: 100px; }
         .option-btn { display: block; width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #dadce0; border-radius: 8px; background: white; cursor: pointer; text-align: left; font-size: 16px; transition: 0.2s; }
-        .option-btn:hover { background-color: #f8f9fa; border-color: #1a73e8; }
-        .correct { background-color: #d4edda !important; border-color: #28a745 !important; }
-        .wrong { background-color: #f8d7da !important; border-color: #dc3545 !important; }
-        .btn-next { background: #1a73e8; color: white; border: none; padding: 12px 24px; border-radius: 6px; cursor: pointer; width: 100%; font-size: 16px; margin-top: 10px; }
-        #score-board { text-align: center; font-weight: bold; margin-bottom: 10px; color: #5f6368; }
+        .option-btn:hover:not([disabled]) { background-color: #f1f3f4; border-color: var(--primary); }
+        .correct { background-color: #d4edda !important; border-color: #28a745 !important; color: #155724; font-weight: bold; }
+        .wrong { background-color: #f8d7da !important; border-color: #dc3545 !important; color: #721c24; }
+        .btn-action { background: var(--primary); color: white; border: none; padding: 14px; border-radius: 8px; cursor: pointer; width: 100%; font-size: 16px; font-weight: bold; margin-top: 10px; }
+        .btn-action:hover { background: #1557b0; }
+        #feedback { text-align: center; margin-top: 10px; font-weight: bold; height: 20px; }
+        .loading { text-align: center; font-style: italic; color: #666; }
     </style>
 </head>
 <body>
 
 <div class="quiz-container">
     <h1>தமிழ் வினாடி-வினா</h1>
-    <div id="score-board">சரியான பதில்கள்: <span id="score">0</span> / <span id="total">0</span></div>
     
-    <div id="quiz-ui" style="display:none;">
-        <div class="meta-info">
-            <div id="cat-name" style="font-weight: bold; color: #1a73e8;"></div>
-            <div id="quiz-title" style="font-size: 14px; margin-top: 4px;"></div>
-        </div>
-        <div class="question-box">
-            <h3 id="q-text">வினா ஏற்றப்படுகிறது...</h3>
-            <div id="options-area"></div>
-        </div>
-        <button id="next-quiz-btn" class="btn-next" onclick="pickRandomQuiz()" style="display:none;">அடுத்த ரேண்டம் வினாத்தாள்</button>
+    <div id="start-ui">
+        <p style="text-align:center; color: #555;">உங்கள் 30-க்கும் மேற்பட்ட தலைப்புகளில் இருந்து தன்னிச்சையாக வினாக்கள் கேட்கப்படும்.</p>
+        <button class="btn-action" onclick="pickRandomQuiz()">வினாடியைத் தொடங்கு</button>
     </div>
 
-    <div id="start-ui">
-        <p style="text-align:center;">உங்கள் 30+ வினாத்தாள்களில் இருந்து தன்னிச்சையாக ஒன்று தேர்ந்தெடுக்கப்படும்.</p>
-        <button class="btn-next" onclick="pickRandomQuiz()">தொடங்குக</button>
+    <div id="quiz-ui" style="display:none;">
+        <div class="score-board">
+            சரியான பதில்கள்: <span id="score">0</span> / <span id="total">0</span>
+        </div>
+
+        <div class="meta-info">
+            <div id="cat-name" style="font-weight: bold; color: var(--primary);"></div>
+            <div id="quiz-title" style="font-size: 14px; margin-top: 4px; color: #555;"></div>
+        </div>
+
+        <div class="question-box">
+            <h3 id="q-text" class="loading">வினாத்தாள் தயார் செய்யப்படுகிறது...</h3>
+            <div id="options-area"></div>
+        </div>
+
+        <div id="feedback"></div>
+
+        <button id="next-btn" class="btn-action" onclick="pickRandomQuiz()" style="display:none;">அடுத்த வினாத்தாள்</button>
     </div>
 </div>
 
 <script src="data.js"></script>
+
 <script>
     let score = 0;
     let totalQuestions = 0;
 
     async function pickRandomQuiz() {
+        // UI மாற்றம்
         document.getElementById('start-ui').style.display = 'none';
         document.getElementById('quiz-ui').style.display = 'block';
-        document.getElementById('next-quiz-btn').style.display = 'none';
+        document.getElementById('next-btn').style.display = 'none';
+        document.getElementById('feedback').innerText = "";
         document.getElementById('options-area').innerHTML = "";
         document.getElementById('q-text').innerText = "வினாத்தாள் கிடைக்கிறது...";
+        document.getElementById('q-text').className = "loading";
 
+        // ரேண்டமாக ஒரு பிரிவைத் தேர்ந்தெடுத்தல்
         const category = masterData[Math.floor(Math.random() * masterData.length)];
         const quiz = category.quizzes[Math.floor(Math.random() * category.quizzes.length)];
 
@@ -61,28 +77,49 @@
         document.getElementById('quiz-title').innerText = "தலைப்பு: " + quiz.title;
 
         try {
-            const res = await fetch(`questions/${quiz.file}`);
-            const questions = await res.json();
-            // வினாத்தாளிலிருந்து ஒரு ரேண்டம் வினாவை மட்டும் எடுக்கிறோம்
-            const randomQ = questions[Math.floor(Math.random() * questions.length)];
+            // உங்கள் கோப்புகள் நேரடியாக (Root) இருப்பதால் நேரடியாக fetch செய்கிறோம்
+            const res = await fetch(quiz.file);
+            
+            if (!res.ok) throw new Error("கோப்பு இல்லை");
+            
+            const data = await res.json();
+            
+            // JSON அமைப்பின்படி வினாக்களை எடுத்தல்
+            // சில சமயம் தரவு நேரடியாக அரே-வாக இருக்கும், சில சமயம் data.questions என்று இருக்கும்
+            const questionsArray = Array.isArray(data) ? data : (data.questions || []);
+            
+            if (questionsArray.length === 0) throw new Error("வினாக்கள் காலி");
+
+            // வினாத்தாளிலிருந்து ஒரு ரேண்டம் வினாவைத் தேர்ந்தெடுத்தல்
+            const randomQ = questionsArray[Math.floor(Math.random() * questionsArray.length)];
             displayQuestion(randomQ);
+            
         } catch (err) {
-            document.getElementById('q-text').innerText = "கோப்பை ஏுற்றுவதில் பிழை: " + quiz.file;
+            document.getElementById('q-text').innerText = "பிழை: " + quiz.file + " கோப்பைக் கண்டறிய முடியவில்லை.";
+            document.getElementById('q-text').className = "";
+            document.getElementById('next-btn').style.display = 'block';
+            document.getElementById('next-btn').innerText = "வேறு வினாத்தாளை முயலவும்";
         }
     }
 
     function displayQuestion(q) {
-        document.getElementById('q-text').innerText = q.question;
+        const qText = document.getElementById('q-text');
+        qText.innerText = q.question;
+        qText.className = "";
+        
         const optionsArea = document.getElementById('options-area');
         optionsArea.innerHTML = "";
 
-        q.options.forEach(opt => {
-            const btn = document.createElement('button');
-            btn.className = 'option-btn';
-            btn.innerText = opt;
-            btn.onclick = () => checkAnswer(btn, opt, q.answer);
-            optionsArea.appendChild(btn);
-        });
+        // ஆப்ஷன்கள் 'options' என்ற பெயரில் இருக்க வேண்டும்
+        if(q.options && Array.isArray(q.options)) {
+            q.options.forEach(opt => {
+                const btn = document.createElement('button');
+                btn.className = 'option-btn';
+                btn.innerText = opt;
+                btn.onclick = () => checkAnswer(btn, opt, q.answer);
+                optionsArea.appendChild(btn);
+            });
+        }
     }
 
     function checkAnswer(btn, selected, correct) {
@@ -92,19 +129,27 @@
         const allButtons = document.querySelectorAll('.option-btn');
         allButtons.forEach(b => b.disabled = true);
 
+        const feedback = document.getElementById('feedback');
+
         if (selected === correct) {
             btn.classList.add('correct');
+            feedback.innerText = "✅ மிகச் சரி!";
+            feedback.style.color = "#28a745";
             score++;
             document.getElementById('score').innerText = score;
         } else {
             btn.classList.add('wrong');
+            feedback.innerText = "❌ தவறு!";
+            feedback.style.color = "#dc3545";
             // சரியான விடையைக் காண்பிக்க
             allButtons.forEach(b => {
                 if(b.innerText === correct) b.classList.add('correct');
             });
         }
-        document.getElementById('next-quiz-btn').style.display = 'block';
+        document.getElementById('next-btn').style.display = 'block';
+        document.getElementById('next-btn').innerText = "அடுத்த வினாத்தாள்";
     }
 </script>
+
 </body>
 </html>
