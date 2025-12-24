@@ -29,208 +29,49 @@
         }
 
         .page-layout {
-            display: grid;
-            grid-template-columns: 220px 1fr 220px;
-            gap: 25px;
-            max-width: 1500px;
-            width: 100%;
-            margin-top: 10px;
+            display: grid; grid-template-columns: 220px 1fr 220px;
+            gap: 25px; max-width: 1500px; width: 100%; margin-top: 10px;
         }
 
-        .side-panel {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding-top: 50px;
-        }
+        .side-panel { display: flex; flex-direction: column; align-items: center; padding-top: 50px; }
+        .side-image { width: 100%; border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.15); border: 3px solid white; margin-bottom: 15px; }
+        .quote-text { font-size: 14px; color: #444; text-align: center; font-style: italic; line-height: 1.5; background: #fff; padding: 10px; border-radius: 8px; border-bottom: 3px solid var(--accent); }
 
-        .side-image {
-            width: 100%;
-            border-radius: 15px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-            border: 3px solid white;
-            margin-bottom: 15px;
-        }
-
-        .quote-text {
-            font-size: 14px;
-            color: #444;
-            text-align: center;
-            font-style: italic;
-            line-height: 1.5;
-            background: #fff;
-            padding: 10px;
-            border-radius: 8px;
-            border-bottom: 3px solid var(--accent);
-            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
-        }
-
-        .quiz-container {
-            background: white;
-            padding: 35px;
-            border-radius: 25px;
-            box-shadow: 0 15px 40px rgba(0,0,0,0.08);
-            border-top: 10px solid var(--primary);
-            min-height: 550px;
-        }
-
+        .quiz-container { background: white; padding: 35px; border-radius: 25px; box-shadow: 0 15px 40px rgba(0,0,0,0.08); border-top: 10px solid var(--primary); min-height: 550px; width: 100%; }
         h1 { color: var(--primary); text-align: center; font-size: 30px; margin-top: 0; }
 
-        .choice-container {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin: 25px 0;
-        }
+        .choice-container { display: flex; justify-content: center; gap: 15px; margin: 25px 0; }
+        .choice-btn { padding: 12px 20px; font-size: 15px; font-weight: bold; border: 2px solid var(--primary); border-radius: 8px; background: white; cursor: pointer; font-family: inherit; }
+        .choice-btn.active { background: var(--primary); color: white; }
 
-        .choice-btn {
-            padding: 12px 20px;
-            font-size: 15px;
-            font-weight: bold;
-            border: 2px solid var(--primary);
-            border-radius: 8px;
-            background: white;
-            cursor: pointer;
-            transition: 0.3s;
-            font-family: inherit;
-        }
+        .quiz-header { display: flex; justify-content: space-between; align-items: center; background: #fdfdfd; padding: 15px 30px; border-radius: 15px; margin-bottom: 30px; border: 1px solid #eee; }
+        .timer-display { font-size: 26px; font-weight: bold; color: var(--secondary); font-family: monospace; border: 2px solid var(--secondary); padding: 4px 15px; border-radius: 12px; }
 
-        .choice-btn:hover, .choice-btn.active {
-            background: var(--primary);
-            color: white;
-        }
+        .progress-track { width: 100%; height: 10px; background: #e9ecef; border-radius: 20px; margin-bottom: 30px; overflow: hidden; }
+        .progress-fill { height: 100%; background: linear-gradient(90deg, #0f2027, #b21f1f); width: 0%; transition: width 0.5s ease; }
 
-        .quiz-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            background: #fdfdfd;
-            padding: 15px 30px;
-            border-radius: 15px;
-            margin-bottom: 30px;
-            border: 1px solid #eee;
-        }
-
-        .timer-display {
-            font-size: 26px;
-            font-weight: bold;
-            color: var(--secondary);
-            font-family: monospace;
-            border: 2px solid var(--secondary);
-            padding: 4px 15px;
-            border-radius: 12px;
-        }
-
-        .info-pill { font-size: 17px; color: #444; font-weight: bold; }
-
-        .progress-track {
-            width: 100%;
-            height: 10px;
-            background: #e9ecef;
-            border-radius: 20px;
-            margin-bottom: 30px;
-            overflow: hidden;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #0f2027, #b21f1f);
-            width: 0%;
-            transition: width 0.5s ease;
-        }
-
-        #q-text {
-            font-size: 22px;
-            font-weight: 700;
-            line-height: 1.5;
-            margin-bottom: 30px;
-            color: #1a1a1a;
-        }
-
-        .options-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 15px;
-        }
-
-        .opt-btn {
-            padding: 18px 25px;
-            font-size: 17px;
-            border: 2px solid var(--border-purple);
-            border-radius: 12px;
-            background: #fff;
-            cursor: pointer;
-            transition: all 0.3s;
-            font-family: inherit;
-            text-align: left;
-        }
-
-        .opt-btn:hover:not([disabled]) {
-            background: #f4f0ff;
-            transform: translateY(-2px);
-        }
-
-        .correct { background: #e7faf3 !important; border-color: var(--success) !important; color: #1e7e34; font-weight: bold; }
+        #q-text { font-size: 22px; font-weight: 700; margin-bottom: 30px; }
+        .options-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; }
+        .opt-btn { padding: 18px 25px; font-size: 17px; border: 2px solid var(--border-purple); border-radius: 12px; background: #fff; cursor: pointer; text-align: left; font-family: inherit; }
+        .correct { background: #e7faf3 !important; border-color: var(--success) !important; color: #1e7e34; }
         .wrong { background: #fff5f5 !important; border-color: var(--error) !important; color: #c53030; }
 
-        .rationale-box {
-            margin-top: 20px;
-            padding: 15px;
-            background: #fff9e6;
-            border-left: 5px solid var(--accent);
-            border-radius: 8px;
-            font-size: 17px;
-            color: #444;
-            display: none;
-        }
+        /* Results Display */
+        #tv-results { display: none; text-align: center; padding: 40px; background: #fff; border-radius: 20px; }
+        #tv-restart-btn { background: var(--primary); color: white; border: none; padding: 15px 25px; border-radius: 10px; cursor: pointer; font-size: 18px; margin-top: 20px; }
 
-        .action-bar {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 40px;
-            gap: 15px;
-        }
+        /* Modal / Pop-up for Wrong Questions */
+        .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.6); overflow-y: auto; }
+        .modal-content { background: #fff; margin: 5% auto; padding: 30px; border-radius: 20px; width: 80%; max-width: 800px; }
+        .wrong-item { border-bottom: 1px solid #eee; padding: 15px 0; text-align: left; }
+        .close-modal { float: right; font-size: 28px; font-weight: bold; cursor: pointer; }
 
-        .control-btn {
-            flex: 1;
-            padding: 14px;
-            font-size: 17px;
-            font-weight: bold;
-            border-radius: 10px;
-            border: none;
-            cursor: pointer;
-            transition: 0.3s;
-            font-family: inherit;
-        }
-
-        .btn-gray { background: #95a5a6; color: white; }
+        .action-bar { display: flex; justify-content: space-between; margin-top: 40px; gap: 15px; }
+        .control-btn { flex: 1; padding: 14px; font-size: 17px; font-weight: bold; border-radius: 10px; border: none; cursor: pointer; font-family: inherit; }
         .btn-blue { background: var(--primary); color: white; }
         .btn-red { background: #7f0000; color: white; }
-        .control-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
-        .creator-section {
-            display: flex;
-            align-items: center;
-            background: white;
-            padding: 20px;
-            border-radius: 20px;
-            margin-top: 40px;
-            max-width: 900px;
-            width: 100%;
-            box-shadow: 0 8px 25px rgba(0,0,0,0.05);
-            border-bottom: 5px solid var(--accent);
-        }
-
-        .creator-photo { width: 110px; height: 110px; border-radius: 50%; border: 4px solid var(--primary); object-fit: cover; }
-        .creator-details { margin-left: 20px; }
-        .creator-details h3 { margin: 0; font-size: 19px; color: var(--primary); }
-        .creator-details p { margin: 6px 0 0; font-size: 15px; color: #666; }
-
-        @media (max-width: 1000px) {
-            .page-layout { grid-template-columns: 1fr; }
-            .side-panel { display: none; }
-            .options-grid { grid-template-columns: 1fr; }
-        }
+        @media (max-width: 1000px) { .page-layout { grid-template-columns: 1fr; } .side-panel { display: none; } .options-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
 <body>
@@ -238,32 +79,20 @@
 <div class="page-layout">
     <div class="side-panel">
         <img src="தொல்காப்பியர்.jpg" alt="தொல்காப்பியர்" class="side-image">
-        <div class="quote-text">
-            "எல்லாச் சொல்லும் பொருள் குறித்தனவே"<br>
-            <b>(தொல்காப்பியர், சொல். 157)</b>
-        </div>
+        <div class="quote-text">"எல்லாச் சொல்லும் பொருள் குறித்தனவே"<br><b>(தொல்காப்பியர், சொல். 157)</b></div>
     </div>
 
     <div class="quiz-container">
         <div id="welcome-view">
             <h1>தமிழ் வினாடி-வினா</h1>
-            <div style="text-align:center; padding: 15px 0;">
-                <p style="font-size: 17px; color: #444;">வினாக்களின் எண்ணிக்கையைத் தேர்ந்தெடுக்கவும்:</p>
-                
+            <div style="text-align:center;">
                 <div class="choice-container">
                     <button class="choice-btn" onclick="setChoice(25, 15, this)">25 வினாக்கள் (15 நிமி)</button>
                     <button class="choice-btn active" onclick="setChoice(50, 30, this)">50 வினாக்கள் (30 நிமி)</button>
                     <button class="choice-btn" onclick="setChoice(100, 60, this)">100 வினாக்கள் (60 நிமி)</button>
                 </div>
-
-                <p style="font-size: 16px; color: #666; line-height: 1.6;">வினாக்கள் தன்னிச்சையாக (Random) மாறும் வகையில் நுட்பமாக அமைக்கப்பட்டுள்ளது.</p>
-                <button class="control-btn btn-blue" style="max-width: 350px; padding: 16px; margin-top: 15px;" onclick="begin()">பயிற்சியைத் தொடங்குக</button>
+                <button class="control-btn btn-blue" style="max-width: 350px;" onclick="begin()">தொடங்குக</button>
             </div>
-        </div>
-
-        <div id="loading-screen" style="display:none; text-align: center; padding: 80px 0;">
-            <h3 style="color: var(--primary); font-size: 22px;">வினாக்கள் தொகுக்கப்படுகின்றன...</h3>
-            <p style="color: #666; font-size: 16px;">தயவுசெய்து சில நொடிகள் காத்திருக்கவும்.</p>
         </div>
 
         <div id="play-view" style="display:none;">
@@ -275,32 +104,35 @@
             <div class="progress-track"><div class="progress-fill" id="bar"></div></div>
             <div id="q-text"></div>
             <div class="options-grid" id="opt-grid"></div>
-            
-            <div id="rationale-display" class="rationale-box"></div>
-
             <div class="action-bar">
-                <button class="control-btn btn-gray" id="back-btn" onclick="move(-1)">முந்தைய</button>
+                <button class="control-btn" style="background:#95a5a6; color:#fff;" id="back-btn" onclick="move(-1)">முந்தைய</button>
                 <button class="control-btn btn-red" onclick="terminate()">வெளியேறு</button>
                 <button class="control-btn btn-blue" id="next-btn" onclick="move(1)">அடுத்தது</button>
             </div>
+        </div>
+
+        <div id="tv-results">
+            <h2 id="tv-result-title">🎉 வாழ்த்துக்கள்! 🎉</h2>
+            <p id="tv-result-score">உங்கள் மதிப்பெண்: 0 / 0</p>
+            <p id="tv-result-percentage">விழுக்காடு: 0%</p>
+            <p id="tv-result-message" style="font-weight:bold; color:var(--secondary);"></p>
+            <button id="show-wrong-btn" class="control-btn btn-blue" style="margin-top:10px; display:none;" onclick="openModal()">தவறான விடைகளைச் சரிபார்க்க 🔍</button>
+            <br>
+            <button id="tv-restart-btn" onclick="location.reload()">புதிய வினாடி-வினா 🔁</button>
         </div>
     </div>
 
     <div class="side-panel">
         <img src="திருவள்ளுவர்.jpg" alt="திருவள்ளுவர்" class="side-image">
-        <div class="quote-text">
-            "கற்க கசடறக் கற்பவை கற்றபின்<br>நிற்க அதற்குத் தக."<br>
-            <b>(திருவள்ளுவர், 391)</b>
-        </div>
+        <div class="quote-text">"கற்க கசடறக் கற்பவை கற்றபின் நிற்க அதற்குத் தக."<br><b>(திருவள்ளுவர், 391)</b></div>
     </div>
 </div>
 
-<div class="creator-section">
-    <img src="Sathiyaraj.png" alt="Dr. Sathiyaraj" class="creator-photo">
-    <div class="creator-details">
-        <h3>உருவாக்குநர்: முனைவர் சத்தியராசு தங்கச்சாமி</h3>
-        <p>பயிற்றுநர், பள்ளமோர்க்குளம், தமிழ்நாடு, இந்தியா</p>
-        <p>செல்பேசி:9600370671, மின்னஞ்சல்:sathiyarajkkt@gmail.com</p>
+<div id="wrongModal" class="modal">
+    <div class="modal-content">
+        <span class="close-modal" onclick="closeModal()">&times;</span>
+        <h2 style="color:var(--secondary);">தவறான வினாக்களின் தொகுப்பு</h2>
+        <div id="wrong-questions-list"></div>
     </div>
 </div>
 
@@ -312,7 +144,8 @@
     let timerRef;
     let selectedCount = 50;
     let secondsLeft = 1800;
-    let history = {};
+    let history = {}; // {questionIndex: selectedOptionIndex}
+    let wrongIndices = [];
 
     function setChoice(count, mins, btn) {
         selectedCount = count;
@@ -323,21 +156,19 @@
 
     async function begin() {
         document.getElementById('welcome-view').style.display = 'none';
-        document.getElementById('loading-screen').style.display = 'block';
         let rawData = [];
-        for (let category of masterData) {
-            for (let quizItem of category.quizzes) {
+        for (let cat of masterData) {
+            for (let qz of cat.quizzes) {
                 try {
-                    const response = await fetch(quizItem.file);
-                    const json = await response.json();
+                    const res = await fetch(qz.file);
+                    const json = await res.json();
                     const list = Array.isArray(json) ? json : (json.questions || []);
                     list.forEach(item => rawData.push(item));
-                } catch(e) { console.error("File error:", quizItem.file); }
+                } catch(e) {}
             }
         }
-        questionsPool = rawData.sort(() => Math.random() - 0.5).slice(0, selectedCount);
+        questionsPool = rawData.sort(() => 0.5 - Math.random()).slice(0, selectedCount);
         document.getElementById('total-q-display').innerText = selectedCount;
-        document.getElementById('loading-screen').style.display = 'none';
         document.getElementById('play-view').style.display = 'block';
         runClock();
         render();
@@ -346,8 +177,7 @@
     function runClock() {
         timerRef = setInterval(() => {
             secondsLeft--;
-            let m = Math.floor(secondsLeft / 60);
-            let s = secondsLeft % 60;
+            let m = Math.floor(secondsLeft / 60), s = secondsLeft % 60;
             document.getElementById('clock').innerText = `${m.toString().padStart(2,'0')}:${s.toString().padStart(2,'0')}`;
             if(secondsLeft <= 0) { clearInterval(timerRef); complete(); }
         }, 1000);
@@ -360,8 +190,6 @@
         document.getElementById('bar').style.width = ((currentPos + 1) / selectedCount * 100) + "%";
         const grid = document.getElementById('opt-grid');
         grid.innerHTML = "";
-        const rationaleDisplay = document.getElementById('rationale-display');
-        rationaleDisplay.style.display = "none";
 
         q.answerOptions.forEach((opt, idx) => {
             const btn = document.createElement('button');
@@ -375,36 +203,21 @@
             btn.onclick = () => select(idx, opt, btn);
             grid.appendChild(btn);
         });
-        
-        if (history[currentPos] !== undefined) {
-            const correctOpt = q.answerOptions.find(o => o.isCorrect);
-            if(correctOpt && correctOpt.rationale) {
-                rationaleDisplay.innerHTML = `<b>விடைக்குறிப்பு:</b> ${correctOpt.rationale}`;
-                rationaleDisplay.style.display = "block";
-            }
-        }
         document.getElementById('back-btn').disabled = (currentPos === 0);
     }
 
-    function select(index, option, element) {
-        history[currentPos] = index;
+    function select(idx, opt, btn) {
+        history[currentPos] = idx;
         const btns = document.querySelectorAll('.opt-btn');
-        const rationaleDisplay = document.getElementById('rationale-display');
         btns.forEach(b => b.disabled = true);
-        if (option.isCorrect) {
-            element.classList.add('correct');
+        if (opt.isCorrect) {
+            btn.classList.add('correct');
             userPoints++;
             document.getElementById('pts').innerText = userPoints;
         } else {
-            element.classList.add('wrong');
-            questionsPool[currentPos].answerOptions.forEach((o, i) => {
-                if (o.isCorrect) btns[i].classList.add('correct');
-            });
-        }
-        const correctOpt = questionsPool[currentPos].answerOptions.find(o => o.isCorrect);
-        if(correctOpt && correctOpt.rationale) {
-            rationaleDisplay.innerHTML = `<b>விடைக்குறிப்பு:</b> ${correctOpt.rationale}`;
-            rationaleDisplay.style.display = "block";
+            btn.classList.add('wrong');
+            wrongIndices.push(currentPos);
+            questionsPool[currentPos].answerOptions.forEach((o, i) => { if (o.isCorrect) btns[i].classList.add('correct'); });
         }
     }
 
@@ -414,8 +227,42 @@
         else if (currentPos >= questionsPool.length) complete();
     }
 
-    function complete() { clearInterval(timerRef); alert(`பயிற்சி நிறைவு! மதிப்பெண்: ${userPoints} / ${selectedCount}`); location.reload(); }
+    function complete() {
+        clearInterval(timerRef);
+        document.getElementById('play-view').style.display = 'none';
+        document.getElementById('tv-results').style.display = 'block';
+        
+        let percent = Math.round((userPoints / selectedCount) * 100);
+        document.getElementById('tv-result-score').innerText = `உங்கள் மதிப்பெண்: ${userPoints} / ${selectedCount}`;
+        document.getElementById('tv-result-percentage').innerText = `விழுக்காடு: ${percent}%`;
+        
+        let msg = "";
+        if(percent >= 90) msg = "அற்புதம்! உங்கள் தமிழ் அறிவு வியக்க வைக்கிறது!";
+        else if(percent >= 70) msg = "நல்ல முயற்சி! இன்னும் சற்றே முயன்றால் சிகரம் தொடலாம்.";
+        else if(percent >= 50) msg = "வெற்றிக்கு அருகில் உள்ளீர்கள். பயிற்சியைத் தொடருங்கள்.";
+        else msg = "முயற்சி திருவினை ஆக்கும். மீண்டும் ஒருமுறை முயலுங்கள்.";
+        document.getElementById('tv-result-message').innerText = msg;
+
+        if(wrongIndices.length > 0) document.getElementById('show-wrong-btn').style.display = 'inline-block';
+    }
+
+    function openModal() {
+        const list = document.getElementById('wrong-questions-list');
+        list.innerHTML = "";
+        wrongIndices.forEach(idx => {
+            const q = questionsPool[idx];
+            const correctOpt = q.answerOptions.find(o => o.isCorrect);
+            const item = document.createElement('div');
+            item.className = 'wrong-item';
+            item.innerHTML = `<strong>வினா:</strong> ${q.question}<br><span style="color:green;"><strong>சரியான விடை:</strong> ${correctOpt.text}</span><br><small><em>${correctOpt.rationale || ""}</em></small>`;
+            list.appendChild(item);
+        });
+        document.getElementById('wrongModal').style.display = 'block';
+    }
+
+    function closeModal() { document.getElementById('wrongModal').style.display = 'none'; }
     function terminate() { if(confirm("வெளியேற வேண்டுமா?")) location.reload(); }
+    window.onclick = function(event) { if (event.target == document.getElementById('wrongModal')) closeModal(); }
 </script>
 </body>
 </html>
