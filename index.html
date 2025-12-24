@@ -113,12 +113,12 @@
             <div style="text-align:center; padding: 15px 0;">
                 <p style="font-size: 17px; color: #444;">வினாக்களின் எண்ணிக்கையைத் தேர்ந்தெடுக்கவும்:</p>
                 <div class="choice-container">
-                    <button class="choice-btn" onclick="setChoice(25, 15, this)">10 வினாக்கள் (5 நிமிம</button>
-                    <button class="choice-btn" onclick="setChoice(25, 15, this)"> வினாக்கள் (15 நிமி)</button>
+                    <button class="choice-btn" onclick="setChoice(10, 5, this)">10 வினாக்கள் (5 நிமி)</button>
+                    <button class="choice-btn" onclick="setChoice(25, 15, this)">25 வினாக்கள் (15 நிமி)</button>
                     <button class="choice-btn active" onclick="setChoice(50, 30, this)">50 வினாக்கள் (30 நிமி)</button>
                     <button class="choice-btn" onclick="setChoice(100, 60, this)">100 வினாக்கள் (60 நிமி)</button>
                 </div>
-                <p style="font-size: 16px; color: #666; line-height: 1.6;">வினாக்கள் தன்னிச்சையாக (Random) மாறும் வகையில் நுட்பமாக அமைக்கப்பட்டுள்ளது.</p>
+                <p style="font-size: 16px; color: #666; line-height: 1.6;">வினாக்களும் விடைகளும் ஒவ்வொரு முறையும் தன்னிச்சையாக (Random) மாறும் வகையில் அமைக்கப்பட்டுள்ளது.</p>
                 <button class="control-btn btn-blue" style="max-width: 350px; padding: 16px; margin-top: 15px;" onclick="begin()">பயிற்சியைத் தொடங்குக</button>
             </div>
         </div>
@@ -193,17 +193,28 @@
         document.getElementById('welcome-view').style.display = 'none';
         document.getElementById('loading-screen').style.display = 'block';
         let rawData = [];
+        
         for (let category of masterData) {
             for (let quizItem of category.quizzes) {
                 try {
                     const response = await fetch(quizItem.file);
                     const json = await response.json();
                     const list = Array.isArray(json) ? json : (json.questions || []);
-                    list.forEach(item => rawData.push(item));
+                    
+                    list.forEach(item => {
+                        // விடைகளை குலுக்கல் (Shuffling Answers)
+                        if (item.answerOptions && Array.isArray(item.answerOptions)) {
+                            item.answerOptions.sort(() => Math.random() - 0.5);
+                        }
+                        rawData.push(item);
+                    });
                 } catch(e) {}
             }
         }
+        
+        // வினாக்களை குலுக்கல் செய்தல்
         questionsPool = rawData.sort(() => Math.random() - 0.5).slice(0, selectedCount);
+        
         document.getElementById('total-q-display').innerText = selectedCount;
         document.getElementById('loading-screen').style.display = 'none';
         document.getElementById('play-view').style.display = 'block';
@@ -270,7 +281,7 @@
         } else {
             element.classList.add('wrong');
             q.answerOptions.forEach((o, i) => { if (o.isCorrect) btns[i].classList.add('correct'); });
-            // தவறான வினாக்களைச் சேமித்தல்
+            
             wrongAnswers.push({
                 question: q.question,
                 userAnswer: option.text,
@@ -322,7 +333,6 @@
     function closeModal() { document.getElementById('resultModal').style.display = "none"; }
     function terminate() { if(confirm("வெளியேற வேண்டுமா?")) location.reload(); }
     
-    // க்ளோஸ் செய்யாமல் வெளியே கிளிக் செய்தாலும் மூடும் வசதி
     window.onclick = function(event) {
         const modal = document.getElementById('resultModal');
         if (event.target == modal) { modal.style.display = "none"; }
