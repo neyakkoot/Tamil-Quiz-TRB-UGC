@@ -14,7 +14,7 @@
             --success: #2ecc71;
             --error: #e74c3c;
             --bg-color: #f5f7fb;
-            --border-purple: #4B0082; /* கரு ஊதா நிறம் */
+            --border-purple: #4B0082;
         }
 
         body {
@@ -30,9 +30,9 @@
 
         .page-layout {
             display: grid;
-            grid-template-columns: 200px 1fr 200px;
-            gap: 20px;
-            max-width: 1400px;
+            grid-template-columns: 220px 1fr 220px;
+            gap: 25px;
+            max-width: 1500px;
             width: 100%;
             margin-top: 10px;
         }
@@ -41,7 +41,7 @@
             display: flex;
             flex-direction: column;
             align-items: center;
-            padding-top: 80px;
+            padding-top: 50px;
         }
 
         .side-image {
@@ -49,11 +49,25 @@
             border-radius: 15px;
             box-shadow: 0 8px 20px rgba(0,0,0,0.15);
             border: 3px solid white;
+            margin-bottom: 15px;
+        }
+
+        .quote-text {
+            font-size: 14px;
+            color: #444;
+            text-align: center;
+            font-style: italic;
+            line-height: 1.5;
+            background: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            border-bottom: 3px solid var(--accent);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.05);
         }
 
         .quiz-container {
             background: white;
-            padding: 35px; /* சுருக்கப்பட்ட இடைவெளி */
+            padding: 35px;
             border-radius: 25px;
             box-shadow: 0 15px 40px rgba(0,0,0,0.08);
             border-top: 10px solid var(--primary);
@@ -71,7 +85,7 @@
 
         .choice-btn {
             padding: 12px 20px;
-            font-size: 15px; /* சுருக்கப்பட்ட அளவு */
+            font-size: 15px;
             font-weight: bold;
             border: 2px solid var(--primary);
             border-radius: 8px;
@@ -98,7 +112,7 @@
         }
 
         .timer-display {
-            font-size: 26px; /* சுருக்கப்பட்ட அளவு */
+            font-size: 26px;
             font-weight: bold;
             color: var(--secondary);
             font-family: monospace;
@@ -126,7 +140,7 @@
         }
 
         #q-text {
-            font-size: 22px; /* சுருக்கப்பட்ட அளவு */
+            font-size: 22px;
             font-weight: 700;
             line-height: 1.5;
             margin-bottom: 30px;
@@ -141,8 +155,8 @@
 
         .opt-btn {
             padding: 18px 25px;
-            font-size: 17px; /* சுருக்கப்பட்ட அளவு */
-            border: 2px solid var(--border-purple); /* கரு ஊதா நிற பார்டர் */
+            font-size: 17px;
+            border: 2px solid var(--border-purple);
             border-radius: 12px;
             background: #fff;
             cursor: pointer;
@@ -165,7 +179,7 @@
             background: #fff9e6;
             border-left: 5px solid var(--accent);
             border-radius: 8px;
-            font-size: 17px; /* சுருக்கப்பட்ட அளவு */
+            font-size: 17px;
             color: #444;
             display: none;
         }
@@ -194,7 +208,6 @@
         .btn-red { background: #7f0000; color: white; }
         .control-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
-        /* உருவாக்குநர் அட்டை */
         .creator-section {
             display: flex;
             align-items: center;
@@ -225,6 +238,10 @@
 <div class="page-layout">
     <div class="side-panel">
         <img src="தொல்காப்பியர்.jpg" alt="தொல்காப்பியர்" class="side-image">
+        <div class="quote-text">
+            "எல்லாச் சொல்லும் பொருள் குறித்தனவே"<br>
+            <b>(தொல்காப்பியர், சொல். 157)</b>
+        </div>
     </div>
 
     <div class="quiz-container">
@@ -271,6 +288,10 @@
 
     <div class="side-panel">
         <img src="திருவள்ளுவர்.jpg" alt="திருவள்ளுவர்" class="side-image">
+        <div class="quote-text">
+            "கற்க கசடறக் கற்பவை கற்றபின்<br>நிற்க அதற்குத் தக."<br>
+            <b>(திருவள்ளுவர், 391)</b>
+        </div>
     </div>
 </div>
 
