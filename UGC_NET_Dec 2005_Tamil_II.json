@@ -1,5 +1,5 @@
 {
-  "quizTitle": "UGC - NET டிசம்பர் 2005 - தமிழ் (தாள்-II)",
+  "quizTitle": "UGC - NET டிசம்பர் 2005 - தமிழ் (தாள்-II) - முழுமையான தொகுப்பு",
   "questions": [
     {
       "question": "1. ஆற்றுப்படை இலக்கியங்களின் எண்ணிக்கை எவ்வளவு?",
@@ -16,7 +16,7 @@
         { "text": "A) திலகவதியார்", "isCorrect": false },
         { "text": "B) காரைக்காலம்மையார்", "isCorrect": true, "rationale": "காரைக்காலம்மையாரின் இயற்பெயர் புனிதவதியார் என்பதாகும்." },
         { "text": "C) நாச்சியார்", "isCorrect": false },
-        { "text": "D) மங்கையர்க்கரசியார்", "isCorrect": false }
+        { "text": "D) mமங்கையர்க்கரசியார்", "isCorrect": false }
       ]
     },
     {
@@ -335,66 +335,66 @@
       ]
     },
     {
-      "question": "38. பொருத்துக (சைவக் குரவர்கள்):\na) ஞானசம்பந்தர், b) திருநாவுக்கரசர், c) சுந்தரர், d) மாணிக்கவாசகர்",
+      "question": "38. பொருத்துக (சைவக் குரவர் சிறப்புப் பெயர்கள்):\na) ஞானசம்பந்தர் - i) திராவிடசிசு\nb) திருநாவுக்கரசர் - ii) தாண்டக வேந்தர்\nc) சுந்தரர் - iii) வன்தொண்டர்\nd) மாணிக்கவாசகர் - iv) திருவாதவூரர்",
       "answerOptions": [
-        { "text": "A (iv, iii, i, ii)", "isCorrect": true, "rationale": "ஞானசம்பந்தர் - திராவிடசிசு; திருநாவுக்கரசர் - தாண்டக வேந்தர்; சுந்தரர் - வன்தொண்டர்; மாணிக்கவாசகர் - திருவாதவூரர்." },
-        { "text": "B (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "C (iii, iv, ii, i)", "isCorrect": false },
-        { "text": "D (ii, i, iv, iii)", "isCorrect": false }
+        { "text": "A) a-iv, b-ii, c-iii, d-i", "isCorrect": false },
+        { "text": "B) a-iv, b-iii, c-i, d-ii", "isCorrect": true, "rationale": "ஞானசம்பந்தர் - திராவிடசிசு; திருநாவுக்கரசர் - தாண்டக வேந்தர்; சுந்தரர் - வன்தொண்டர்; மாணிக்கவாசகர் - திருவாதவூரர்." },
+        { "text": "C) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "D) a-iv, b-i, c-ii, d-iii", "isCorrect": false }
       ]
     },
     {
-      "question": "39. பொருத்துக (ஆற்றுப்படை ஆசிரியர்கள்):\na) பெரும்பாணாற்றுப்படை, b) பொருநராற்றுப்படை, c) திருமுருகாற்றுப்படை, d) சிறுபாணாற்றுப்படை",
+      "question": "39. பொருத்துக (ஆற்றுப்படை ஆசிரியர்கள்):\na) பெரும்பாணாற்றுப்படை - i) உருத்திரங்கண்ணனார்\nb) பொருநராற்றுப்படை - ii) முடத்தாமக்கண்ணியார்\nc) திருமுருகாற்றுப்படை - iii) நக்கீரர்\nd) சிறுபாணாற்றுப்படை - iv) நத்தத்தனார்",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (ii, i, iv, iii)", "isCorrect": false },
-        { "text": "C (iv, iii, i, ii)", "isCorrect": true, "rationale": "பெரும்பாணாற்றுப்படை - உருத்திரங்கண்ணனார்; பொருநராற்றுப்படை - முடத்தாமக்கண்ணியார்; திருமுருகாற்றுப்படை - நக்கீரர்; சிறுபாணாற்றுப்படை - நத்தத்தனார்." },
-        { "text": "D (iii, iv, ii, i)", "isCorrect": false }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-ii, b-iv, c-i, d-iii", "isCorrect": false },
+        { "text": "C) a-iv, b-iii, c-i, d-ii", "isCorrect": true, "rationale": "பெரும்பாணாற்றுப்படை - உருத்திரங்கண்ணனார்; பொருநராற்றுப்படை - முடத்தாமக்கண்ணியார்; திருமுருகாற்றுப்படை - நக்கீரர்; சிறுபாணாற்றுப்படை - நத்தத்தனார்." },
+        { "text": "D) a-iii, b-i, c-iv, d-ii", "isCorrect": false }
       ]
     },
     {
-      "question": "40. பொருத்துக (ஓசைகள்):\na) அகவற்பா, b) கலிப்பா, c) வஞ்சிப்பா, d) வெண்பா",
+      "question": "40. பொருத்துக (பாக்களும் ஓசைகளும்):\na) அகவற்பா - i) அகவலோசை\nb) கலிப்பா - ii) துள்ளல் ஓசை\nc) வஞ்சிப்பா - iii) தூங்கலோசை\nd) வெண்பா - iv) செப்பலோசை",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (ii, i, iv, iii)", "isCorrect": false },
-        { "text": "C (iii, iv, i, ii)", "isCorrect": false },
-        { "text": "D (iv, iii, ii, i)", "isCorrect": true, "rationale": "அகவற்பா - அகவலோசை; கலிப்பா - துள்ளல் ஓசை; வஞ்சிப்பா - தூங்கலோசை; வெண்பா - செப்பலோசை." }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-ii, b-i, c-iv, d-iii", "isCorrect": false },
+        { "text": "C) a-iii, b-iv, c-i, d-ii", "isCorrect": false },
+        { "text": "D) a-iv, b-iii, c-ii, d-i", "isCorrect": true, "rationale": "அகவற்பா - அகவலோசை; கலிப்பா - துள்ளல் ஓசை; வஞ்சிப்பா - தூங்கலோசை; வெண்பா - செப்பலோசை." }
       ]
     },
     {
-      "question": "41. பொருத்துக (இலக்கண நூல்கள்):\na) வீரசோழியம், b) இலக்கண விளக்கம், c) தொன்னூல் விளக்கம், d) சுவாமிநாதம்",
+      "question": "41. பொருத்துக (இலக்கண நூல்கள்):\na) வீரசோழியம் - i) புத்தமித்திரர்\nb) இலக்கண விளக்கம் - ii) வைத்திய நாத தேசிகர்\nc) தொன்னூல் விளக்கம் - iii) வீரமாமுனிவர்\nd) சுவாமிநாதம் - iv) சாமிகவிராசர்",
       "answerOptions": [
-        { "text": "A (iii, iv, i, ii)", "isCorrect": true, "rationale": "வீரசோழியம் - புத்தமித்திரர்; இலக்கண விளக்கம் - வைத்திய நாத தேசிகர்; தொன்னூல் விளக்கம் - வீரமாமுனிவர்; சுவாமிநாதம் - சாமிகவிராசர்." },
-        { "text": "B (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "C (ii, iii, iv, i)", "isCorrect": false },
-        { "text": "D (iv, i, ii, iii)", "isCorrect": false }
+        { "text": "A) a-iii, b-iv, c-i, d-ii", "isCorrect": true, "rationale": "வீரசோழியம் - புத்தமித்திரர்; இலக்கண விளக்கம் - வைத்திய நாத தேசிகர்; தொன்னூல் விளக்கம் - வீரமாமுனிவர்; சுவாமிநாதம் - சாமிகவிராசர்." },
+        { "text": "B) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "C) a-ii, b-iii, c-iv, d-i", "isCorrect": false },
+        { "text": "D) a-iv, b-i, c-ii, d-iii", "isCorrect": false }
       ]
     },
     {
-      "question": "42. பொருத்துக (ஆங்கிலத் தழுவல் நூல்கள்):\na) The Pilgrims Progress, b) The Light of Asia, c) The Secret Way, d) As you like it",
+      "question": "42. பொருத்துக (தழுவல் நூல்கள்):\na) The Pilgrims Progress - i) இரட்சணிய யாத்திரிகம்\nb) The Light of Asia - ii) ஆசிய ஜோதி\nc) The Secret Way - iii) மனோன்மணியம்\nd) As you like it - iv) விரும்பிய வண்ணமே",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (iv, iii, i, ii)", "isCorrect": true, "rationale": "The Pilgrims Progress - இரட்சணிய யாத்திரிகம்; The Light of Asia - ஆசிய ஜோதி; The Secret Way - மனோன்மணியம் (என்.டி. சுந்தரம்பிள்ளை); As you like it - விரும்பிய வண்ணமே." },
-        { "text": "C (ii, iv, i, iii)", "isCorrect": false },
-        { "text": "D (iii, i, iv, ii)", "isCorrect": false }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-iv, b-iii, c-i, d-ii", "isCorrect": true, "rationale": "The Pilgrims Progress - இரட்சணிய யாத்திரிகம்; The Light of Asia - ஆசிய ஜோதி; The Secret Way - மனோன்மணியம்; As you like it - விரும்பிய வண்ணமே." },
+        { "text": "C) a-ii, b-i, c-iv, d-iii", "isCorrect": false },
+        { "text": "D) a-iii, b-iv, c-ii, d-i", "isCorrect": false }
       ]
     },
     {
-      "question": "43. பொருத்துக (நூல் வகைகள்):\na) திவாகரம், b) கரித்துண்டு, c) அவிநயம், d) நீலகேசி",
+      "question": "43. பொருத்துக (நூல் வகைகள்):\na) திவாகரம் - i) நிகண்டு\nb) கரித்துண்டு - ii) நாவல்\nc) அவிநயம் - iii) இலக்கணம்\nd) நீலகேசி - iv) காப்பியம்",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (ii, i, iv, iii)", "isCorrect": false },
-        { "text": "C (iii, iv, i, ii)", "isCorrect": true, "rationale": "திவாகரம் - நிகண்டு; கரித்துண்டு - நாவல் (மு.வ.); அவிநயம் - இலக்கணம்; நீலகேசி - காப்பியம்." },
-        { "text": "D (iv, iii, ii, i)", "isCorrect": false }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-ii, b-i, c-iv, d-iii", "isCorrect": false },
+        { "text": "C) a-iii, b-iv, c-i, d-ii", "isCorrect": true, "rationale": "திவாகரம் - நிகண்டு; கரித்துண்டு - நாவல்; அவிநயம் - இலக்கணம்; நீலகேசி - காப்பியம்." },
+        { "text": "D) a-iv, b-iii, c-ii, d-i", "isCorrect": false }
       ]
     },
     {
-      "question": "44. பொருத்துக (சங்க நூல்கள்):\na) குறுந்தொகை, b) நற்றிணை, c) அகநானூறு, d) ஐங்குறுநூறு",
+      "question": "44. பொருத்துக (சங்க நூல்கள் - தொகுத்தவர்/தொகுப்பித்தவர்):\na) குறுந்தொகை - i) பூரிக்கோ\nb) நற்றிணை - ii) பன்னாடு தந்த பாண்டியன்\nc) அகநானூறு - iii) உருத்திரசன்மன்\nd) ஐங்குறுநூறு - iv) கூடலூர் கிழார்",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (ii, i, iv, iii)", "isCorrect": false },
-        { "text": "C (iii, iv, ii, i)", "isCorrect": false },
-        { "text": "D (iv, iii, i, ii)", "isCorrect": true, "rationale": "குறுந்தொகை - பூரிக்கோ; நற்றிணை - பன்னாடு தந்த பாண்டியன்; அகநானூறு - உப்பூரிகுடிகிழார் மகன் உருத்திரசன்மன்; ஐங்குறுநூறு - கூடலூர்கிழார்." }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-ii, b-i, c-iv, d-iii", "isCorrect": false },
+        { "text": "C) a-iii, b-iv, c-ii, d-i", "isCorrect": false },
+        { "text": "D) a-iv, b-iii, c-i, d-ii", "isCorrect": true, "rationale": "குறுந்தொகை - பூரிக்கோ; நற்றிணை - பன்னாடு தந்த பாண்டியன்; அகநானூறு - உருத்திரசன்மன்; ஐங்குறுநூறு - கூடலூர் கிழார்." }
       ]
     },
     {
@@ -434,21 +434,21 @@
       ]
     },
     {
-      "question": "49. பொருத்துக (பிள்ளைத்தமிழ் பாடியவர்கள்/பாடப்பட்டவர்கள்):\na) கண்ணன், b) குலோத்துங்கன், c) இராமன், d) மீனாட்சியம்மை",
+      "question": "49. பொருத்துக (பிள்ளைத்தமிழ் பாடியவர்கள்/பாடப்பட்டவர்கள்):\na) கண்ணன் - i) பெரியாழ்வார்\nb) குலோத்துங்கன் - ii) ஒட்டக்கூத்தர்\nc) இராமன் - iii) குலசேகராழ்வார்\nd) மீனாட்சியம்மை - iv) குமரகுருபரர்",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (iii, i, iv, ii)", "isCorrect": true, "rationale": "கண்ணன் - பெரியாழ்வார்; குலோத்துங்கன் - ஒட்டக்கூத்தர்; இராமன் - குலசேகரர்; மீனாட்சியம்மை - குமரகுருபரர்." },
-        { "text": "C (ii, iii, iv, i)", "isCorrect": false },
-        { "text": "D (iv, i, ii, iii)", "isCorrect": false }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-iii, b-i, c-iv, d-ii", "isCorrect": true, "rationale": "கண்ணன் - பெரியாழ்வார்; குலோத்துங்கன் - ஒட்டக்கூத்தர்; இராமன் - குலசேகராழ்வார்; மீனாட்சியம்மை - குமரகுருபரர்." },
+        { "text": "C) a-ii, b-iii, c-iv, d-i", "isCorrect": false },
+        { "text": "D) a-iv, b-i, c-ii, d-iii", "isCorrect": false }
       ]
     },
     {
-      "question": "50. பொருத்துக (ஆழ்வார்கள் - பாடல்கள்):\na) நாச்சியார் திருமொழி, b) பெரியாழ்வார், c) திருமங்கையாழ்வார், d) குலசேகராழ்வார்",
+      "question": "50. பொருத்துக (பிள்ளைத்தமிழ் பருவங்கள்/செயல்கள்):\na) நாச்சியார் திருமொழி - i) சிற்றில் சிதைத்தல்\nb) பெரியாழ்வார் - ii) அம்புலிப் பருவம்\nc) திருமங்கையாழ்வார் - iii) வெண்ணெய் உண்\nd) குலசேகராழ்வார் - iv) வருகைப் பருவம்",
       "answerOptions": [
-        { "text": "A (i, ii, iii, iv)", "isCorrect": false },
-        { "text": "B (ii, i, iv, iii)", "isCorrect": false },
-        { "text": "C (iii, iv, i, ii)", "isCorrect": true, "rationale": "நாச்சியார் திருமொழி - சிற்றில் சிதைத்தல்; பெரியாழ்வார் - அம்புலிப்பருவம்; திருமங்கையாழ்வார் - வெண்ணெய் உண்; குலசேகராழ்வார் - வருகைப்பருவம்." },
-        { "text": "D (iv, iii, ii, i)", "isCorrect": false }
+        { "text": "A) a-i, b-ii, c-iii, d-iv", "isCorrect": false },
+        { "text": "B) a-ii, b-i, c-iv, d-iii", "isCorrect": false },
+        { "text": "C) a-iii, b-iv, c-i, d-ii", "isCorrect": true, "rationale": "நாச்சியார் திருமொழி - சிற்றில் சிதைத்தல்; பெரியாழ்வார் - அம்புலிப் பருவம்; திருமங்கையாழ்வார் - வெண்ணெய் உண்; குலசேகராழ்வார் - வருகைப் பருவம்." },
+        { "text": "D) a-iv, b-iii, c-ii, d-i", "isCorrect": false }
       ]
     }
   ]
